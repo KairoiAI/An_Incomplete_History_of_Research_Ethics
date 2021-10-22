@@ -1,5 +1,5 @@
 # A History of Research Ethics
-This repository contains the text for the tiki-toki timeline [*A History of Research Ethics*](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/).
+This repository will eventually contain the text for the tiki-toki timeline [*A History of Research Ethics*](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/).
 
 ### A brief history of this timeline
 I began this as a side-project in [mid-September 2021](https://twitter.com/hermeneuticist/status/1441111868039315462?s=20). As I wrote it, I wondered if it was worth sharing, but I was unsure about getting it through a peer-reviewed journal; besides, I didn't think a lengthy text was the most useful way to learn about the history of research ethics, so I looked for sites to host a free timeline and found [Tiki-Toki](https://www.tiki-toki.com/)! I created an account on 16 October 2021 and uploaded (almost) everything I had written!
