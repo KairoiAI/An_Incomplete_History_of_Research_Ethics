@@ -1,4 +1,4 @@
-Copy and paste the below when creating new stories.
+Copy and paste the below (in raw, without rendering) when creating new stories.
 
 ### Basic Info
 **Title:** [Insert title for this story]
