@@ -13,6 +13,11 @@ My big requests to anybody who wishes to contribute are:
 * Please use credible sources when making claims. By "credible source," I mean something quite broad and suggest that, whilst Wikipedia provides a great deal of information, use it as a tool for idea-generation and don't be afraid to visit the many references their pages provide. (This is not to say I haven't cited Wikipedia! But if we can explore more deeply, all the better.)
 * BE NICE. I don't know if/how I can ban people from using this repository, but any slur, insult or degrading comment will make me send you a lengthy message, if that is even possible. I have no tolerance for people who are not nice. A great deal of what I have written needs a lot of improvement. I wouldn't make this repository public otherwise. But feedback (to myself and others) must be constructive and helpful, and written with nothing but kindness. We are all here to learn!
 
+I am still "migrating" the stories from my Tiki-Toki to Github. I am using three folders for these:
+* **Stories** contain stories I am generally happy with. They can definitely gain from a review, but they are not a priority.
+* **Stories in Progress** are stories that are new and unpublished. This is where ideas for further stories will appear.
+* **Published but need improving** are the stories I wrote between mid-September and 16-Oct and which were not even written as stories! They are excerpts from a much longer text I wrote using HackMD. These are the ones that might gain from "easy fixes." Perhaps a link to some media will help, or comments with further resources.
+
 ### The technicalities of Tiki-Toki
 There are three major concepts that are worth knowing when discussing Tiki-Toki:
 * **Stories:** These are all the panels that appear on the timeline. They can include a "Read More" link at the bottom (I use this for when a panel relates with a specific document online), and an image. It also seems that they can be really quite long! Importantly, they can link to other sites much like how we link sites on Github: by using "{}" with the word/number to link, immediately followed by "()" containing the external site. With the free account, the timeline can host up to 200 stories.
