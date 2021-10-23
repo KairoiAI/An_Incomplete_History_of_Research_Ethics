@@ -18,7 +18,7 @@
 
 ### Tags
 
-How We Do Things, Bioethics
+How We Do Things, Bioethics.
 
 ### Extra Info
 
