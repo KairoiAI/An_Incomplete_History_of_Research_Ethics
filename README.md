@@ -16,7 +16,7 @@ My big requests to anybody who wishes to contribute are:
 I am still "migrating" the stories from my Tiki-Toki to Github. I am using three folders for these:
 * **Stories** contain stories I am generally happy with. They can definitely gain from a review, but they are not a priority.
 * **Stories in Progress** are stories that are new and unpublished. This is where ideas for further stories will appear.
-* **Published but need improving** are the stories I wrote between mid-September and 16-Oct and which were not even written as stories! They are excerpts from a much longer text I wrote using HackMD. These are the ones that might gain from "easy fixes." Perhaps a link to some media will help, or comments with further resources.
+* **Published but needs improving** are the stories I wrote between mid-September and 16-Oct and which were not even written as stories! They are excerpts from a much longer text I wrote using HackMD. These are the ones that might gain from "easy fixes." Perhaps a link to some media will help, or comments with further resources.
 
 ### The technicalities of Tiki-Toki
 There are three major concepts that are worth knowing when discussing Tiki-Toki:
