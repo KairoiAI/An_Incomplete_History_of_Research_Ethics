@@ -12,7 +12,12 @@ Copy and paste the below (in raw, without rendering) when creating new stories.
 [Brief intro in under 240 characters]
 
 **Category:** 
-[Select one: (1) Opening Up Knowledge; (2) Legislation, Declarations & Frameworks; (3) Improving Research; or (4) Research Tragedies]
+[Select one by typing "x" between "[ ]":]
+
+- [ ] Opening Up Knowledge;
+- [ ] Legislation, Declarations & Frameworks;
+- [ ] Improving Research; or
+- [ ] Research Tragedies
 
 **Link:**
 [Not necessary, can say "N/A" or be a link to the story's pertinent document/article/book; as an example, the *Code of Hammurabi* links to the very [*Code of Hammurabi*](https://avalon.law.yale.edu/ancient/hamframe.asp)]
