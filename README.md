@@ -31,3 +31,8 @@ The main reason for this repository is to write new stories and track their chan
 * **Extra Info:** This is where the story can be brought to life! This is the longer text thatsome stories already have and which must (1) introduce to importance of the story itself, and (2) link the story to at least one relevant idea in research ethics (broadly construed).
 
 Tiki-Toki is a bit text-heavy, but I find it more intuitive than GitHub (although that's a low bar). But they also have a bunch of [blog posts](https://www.tiki-toki.com/blog/) and [stuff](https://www.tiki-toki.com/faqs/) in case you want to learn more about their platform.
+
+### A Word of Caution
+The content of the timeline, as it is at this point in time and as it will develop, requires that I engage with sensitive topics. There is a story about the legal foundation for racism in the US's Jim Crow laws, there are mentions of Nazi experimentation in Germany, and there is a story about the rise of racist and ableist pseudoscience in England.
+
+The content is not intended to be technically difficult to read, but it can be distressing. I do not know if this is avoidable, but I don't think it should be avoided. I have kept the "research tragedies" I have listed (very few at the moment of writing this) from being too detailed. I think this is okay. But it would be wrong to ignore the pernicious ideologies that have oppressed enormous swathes of the human population and shaped research throughout the ages. It is for this reason that I use the label "What We Value" not as the desired values of a virtuous person, but what *we*, *as a society*, have valued during the course of our difficult history.
