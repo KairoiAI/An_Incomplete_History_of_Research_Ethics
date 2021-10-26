@@ -1,11 +1,17 @@
 ### Basic Info
 
 **Title:**
+
 The Principles of Humane Experimental Technique, by Russell and Burch
+
 **Date:**
+
 1959 (needs justifying)
+
 **Intro:**
+
 The book introduces the Three Rs of animal research: replacement, reduction and refinement.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
