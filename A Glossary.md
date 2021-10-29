@@ -37,6 +37,8 @@ I am still working on this glossary and it will inevitably grow as The Timeline 
 ## C
 
 ## D
+* **Dreckapotheke:** From the German words *Dreck* -- which means "dirt" -- and *Apotheke* -- which means "pharmacy." The Dreckapotheke refers to a pharmacy of foul medical remedies that might have been used to scare off the demons that produce our ailments.
+  * Term referenced in [Cleopatra, the Legend](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/99c0e3f138f844a1201c8214bef2cd7f0f208364/Stories/Cleopatra,%20the%20Legend.md).
 
 ## E
 
@@ -61,12 +63,18 @@ I am still working on this glossary and it will inevitably grow as The Timeline 
 ## O
 
 ## P
-
+* **Pharmacopoeia:** An authoritative text -- regional, national or even international -- on standards for the identification, creation and consumption of pharmaceuticals.
+  * Term referenced in [Recipes of Fifty-two Ailments]().
+  * Learn more on *[Wikipedia](https://en.wikipedia.org/wiki/Pharmacopoeia)*.
+ 
 ## Q
 
 ## R
 
 ## S
+* **Seal script:** An ancient form of writing Chinese characters. 
+  * Term referenced in [Recipes of Fifty-two Ailments]().
+  * Learn more on *[Wikipedia](https://en.wikipedia.org/wiki/Seal_script)*.
 
 ## T
 
