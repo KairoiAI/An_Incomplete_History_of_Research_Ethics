@@ -6,7 +6,7 @@ The Principles of Humane Experimental Technique, by Russell and Burch
 
 **Date:**
 
-1959 (needs justifying)
+1959, as per Tannenbaum ([2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382615/)).
 
 **Intro:**
 
@@ -21,15 +21,16 @@ The book introduces the Three Rs of animal research: replacement, reduction and 
 
 **Link:**
 https://caat.jhsph.edu/principles/the-principles-of-humane-experimental-technique
+
 ### Media
 
 **Source:** 
 https://norecopa.no/media/9063/randb.jpg?width=300
+
 **Caption:** 
 Cover of the 1992 edition of "The Principles of Humane Experimental Techniche." The cover is a simple light blue background with the book title and authors' names on. Source: Norecopa.
-### Tags
 
-[Type "x" between "[ ]" for all revelvant tags:]
+### Tags
 
 - [x] How We Do Things, 
 - [x] What We Value, 
