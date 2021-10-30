@@ -2,10 +2,13 @@
 
 **Title:**
 General Data Protection Regulation in the EU
+
 **Date:**
 Applicable since [25-May 2018](https://gdpr-info.eu/).
+
 **Intro:**
 The European Union member states adopt the GDPR.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
