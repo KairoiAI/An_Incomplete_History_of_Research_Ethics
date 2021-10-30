@@ -2,7 +2,7 @@
 
 **Title:** Adab Al-Tabib by Al-Ruhawi
 
-**Date:** 500 BC (needs justifying)
+**Date:** 900 AD for "ninth century" (Padela, [2007](https://doi.org/10.1111/j.1467-8519.2007.00540.x)).
 
 **Intro:** The title can be translated to "Practical ethics of the physician"
 
