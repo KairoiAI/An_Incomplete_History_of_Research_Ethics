@@ -5,13 +5,16 @@ Atomic Bomb, Part III
 
 **Date:**
 24-Dec 1944, when Rotblat leaves the Manhattan Project (Rotblat, [1985](https://books.google.co.uk/books?id=uwYAAAAAMBAJ&pg=PA16&source=gbs_toc_pages_r&redir_esc=y#v=onepage&q=disagreeable%20shock&f=false): 19).
+
 **Intro:**
 The news that the Nazis were not close to developing nuclear weapons is enough for Rotblat to leave the project creating the atomic bomb.
+
 **Category:** 
 Research Tragedies
 
 **Link:**
 N/A
+
 ### Media
 
 **Source:** 
