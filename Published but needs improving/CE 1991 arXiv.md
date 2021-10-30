@@ -2,10 +2,13 @@
 
 **Title:**
 arXiv
+
 **Date:**
 1991 as per [their about page](https://arxiv.org/about).
+
 **Intro:**
 The open-access, research-sharing platform is established.
+
 **Category:** 
 
 - [x] Opening Up Knowledge;
