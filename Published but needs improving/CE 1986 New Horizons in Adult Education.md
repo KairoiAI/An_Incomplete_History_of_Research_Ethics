@@ -2,11 +2,13 @@
 
 **Title:**
 New Horizons in Adult Education
+
 **Date:**
 "Fall" 1986 as per Hugo & Newell, [1991](https://hdl.handle.net/10657/5149)
 
 **Intro:**
 The journal is established as open access.
+
 **Category:** 
 
 - [x] Opening Up Knowledge;
@@ -16,6 +18,7 @@ The journal is established as open access.
 
 **Link:**
 https://onlinelibrary.wiley.com/journal/19394225
+
 ### Media
 
 **Source:** 
