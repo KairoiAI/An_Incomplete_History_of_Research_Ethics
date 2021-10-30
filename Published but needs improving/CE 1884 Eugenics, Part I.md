@@ -1,14 +1,19 @@
 ### Basic Info
 
-**Title:** Eugenics, Part I
+**Title:** 
+Eugenics, Part I
 
-**Date:** 08-May 1884, as per Datta ([2016](https://blogs.lshtm.ac.uk/library/2016/07/07/international-health-exhibition-1884/)).
+**Date:**
+08-May 1884, as per Datta ([2016](https://blogs.lshtm.ac.uk/library/2016/07/07/international-health-exhibition-1884/)).
 
-**Intro:** Francis Galton hosts the "Anthropometric Laboratory" at the International Health Exhibition in London, England.
+**Intro:**
+Francis Galton hosts the "Anthropometric Laboratory" at the International Health Exhibition in London, England.
 
-**Category:** Research Tragedies
+**Category:**
+Research Tragedies
 
-**Link:** N/A
+**Link:**
+N/A
 
 ### Media
 
