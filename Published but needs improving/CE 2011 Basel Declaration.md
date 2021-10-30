@@ -2,10 +2,13 @@
 
 **Title:**
 Basel Declaration
+
 **Date:**
 [17-Oct 2011](https://www.basel-declaration.org/basel-declaration/the-3rs/).
+
 **Intro:**
 Adopted in Berlin, Germany, the Declaration supports the Three Rs of animal research ethics.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
