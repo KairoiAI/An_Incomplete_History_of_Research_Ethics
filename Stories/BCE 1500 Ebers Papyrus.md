@@ -1,20 +1,27 @@
 ### Basic Info
 
-**Title:** Ebers Papyrus
+**Title:** 
+Ebers Papyrus
 
-**Date:** 1500 BC (see page xiv of Bryan, [1930](https://babel.hathitrust.org/cgi/pt?id=coo.31924073200077&view=1up&seq=16&skin=2021)).
+**Date:** 
+1500 BC (see page xiv of Bryan, [1930](https://babel.hathitrust.org/cgi/pt?id=coo.31924073200077&view=1up&seq=16&skin=2021)).
 
-**Intro:** An ancient compilation of medical texts.
+**Intro:** 
+An ancient compilation of medical texts.
 
-**Category:** Improving Research
+**Category:** 
+Improving Research
 
-**Link:** N/A
+**Link:** 
+N/A
 
 ### Media
 
-**Source:** https://cdn.britannica.com/s:1500x700,q:85/65/131165-004-CF90496B/Ebers-papyrus-prescription-asthma-treatment.jpg
+**Source:** 
+https://cdn.britannica.com/s:1500x700,q:85/65/131165-004-CF90496B/Ebers-papyrus-prescription-asthma-treatment.jpg
 
-**Caption:** Ebers papyrus prescription for asthma treatment. Symbols are written in colours alternating from red to black. The papyrus is of a reddish-brown. From Encyclopædia Britannica.
+**Caption:** 
+Ebers papyrus prescription for asthma treatment. Symbols are written in colours alternating from red to black. The papyrus is of a reddish-brown. From Encyclopædia Britannica.
 
 ### Tags
 
