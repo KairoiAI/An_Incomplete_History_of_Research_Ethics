@@ -2,10 +2,13 @@
 
 **Title:**
 California Consumer Privacy Act
+
 **Date:**
 Discussed sections in effect since January 2020 (Paul, [2019](https://www.theguardian.com/us-news/2019/dec/30/california-consumer-privacy-act-what-does-it-do)).
+
 **Intro:**
 The CCPA is enforced in California, USA.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
