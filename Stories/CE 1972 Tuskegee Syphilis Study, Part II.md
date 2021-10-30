@@ -2,12 +2,14 @@
 
 **Title:**
 Tuskegee Syphilis Study, Part II
+
 **Date:**
 26 July, 1972, as per Heller ([1972](https://www.nytimes.com/1972/07/26/archives/syphilis-victims-in-us-study-went-untreated-for-40-years-syphilis.html)).
+
 **Intro:**
 Details of the Tuskegee Syphilis Study are leaked to the New York Times, leading to the end of the project.
+
 **Category:** 
-[Select one by typing "x" between "[ ]":]
 
 - [ ] Opening Up Knowledge;
 - [ ] Legislation, Declarations & Frameworks;
@@ -16,6 +18,7 @@ Details of the Tuskegee Syphilis Study are leaked to the New York Times, leading
 
 **Link:**
 https://www.nytimes.com/1972/07/26/archives/syphilis-victims-in-us-study-went-untreated-for-40-years-syphilis.html
+
 ### Media
 
 **Source:** 
