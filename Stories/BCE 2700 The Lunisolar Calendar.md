@@ -1,21 +1,30 @@
 ### Basic Info
-**Title:** The Lunisolar Calendar
+**Title:** 
+The Lunisolar Calendar
 
-**Date:** 2700 BC
+**Date:** 
+2700 BC
 
-**Intro:** A calendar that requires tracking the movement of celestial bodies.
+**Intro:** 
+A calendar that requires tracking the movement of celestial bodies.
 
-**Category:** Legislation, Declarations & Frameworks
+**Category:** 
+Legislation, Declarations & Frameworks
 
-**Link:** [Not necessary, can say "N/A" or be a link to the story's pertinent document/article/book; as an example, the *Code of Hammurabi* links to the very [*Code of Hammurabi*](https://avalon.law.yale.edu/ancient/hamframe.asp)]
+**Link:** 
+[Not necessary, can say "N/A" or be a link to the story's pertinent document/article/book; as an example, the *Code of Hammurabi* links to the very [*Code of Hammurabi*](https://avalon.law.yale.edu/ancient/hamframe.asp)]
+
 ### Media
-**Source:** https://upload.wikimedia.org/wikipedia/commons/1/10/Cylinder_seal_of_Shulgi.jpg
+**Source:** 
+https://upload.wikimedia.org/wikipedia/commons/1/10/Cylinder_seal_of_Shulgi.jpg
 
-**Caption:** Cylinder seal of Shulgi. The image is of a stone in black and white. Image source: Wikipedia.
+**Caption:** 
+Cylinder seal of Shulgi. The image is of a stone in black and white. Image source: Wikipedia.
 
 ### Tags
 
 How We Do Things, What We Value
+
 ### Extra Info
 
 The history of research ethics requires that we touch on "scientific" method. "Scientific" in the sense of pertaining to what we have come to see as a topic that science can help us understand (or make even more complicated). Consider the work of physicists and how they have influenced modern notions of time (take a look at what Rovelli, physicist, shared at The Royal Institution, [2018](https://www.youtube.com/watch?v=-6rWqJhDv7M)). But I can loosen this claim by saying that time is a topic of research, one that writers, philosophers, clerics and mathematicians have thought of throughout the ages. We will later see how different methods of inquiry raise different ethical questions. For now, let us consider how humankind first tried to take control of the illusive idea that is time.
