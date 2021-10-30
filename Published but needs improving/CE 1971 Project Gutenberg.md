@@ -2,10 +2,13 @@
 
 **Title:**
 Project Gutenberg
+
 **Date:**
 1971 as per [their site](https://www.gutenberg.org/about/background/history_and_philosophy.html).
+
 **Intro:**
 Makes online versions of books in the public domain freely available.
+
 **Category:** 
 [Select one by typing "x" between "[ ]":]
 
