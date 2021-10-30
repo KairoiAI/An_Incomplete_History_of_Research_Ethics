@@ -2,10 +2,13 @@
 
 **Title:**
 National Research Act in the US
+
 **Date:**
 12 July, 1974, as per the [law](https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg342.pdf) itself.
+
 **Intro:**
 The National Research Act is signed in the US following scandals in scientific practice.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
@@ -15,6 +18,7 @@ The National Research Act is signed in the US following scandals in scientific p
 
 **Link:**
 https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg342.pdf
+
 ### Media
 
 **Source:** 
