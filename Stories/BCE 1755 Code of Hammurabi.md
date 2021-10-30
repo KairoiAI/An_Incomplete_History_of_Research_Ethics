@@ -1,20 +1,27 @@
 ### Basic Info
 
-**Title:** Code of Hammurabi
+**Title:** 
+Code of Hammurabi
 
-**Date:** 1755 BC (not to say "some time between 2342 and 1950 BC," although that's how divergent the views are according to Souvay, [1910](https://www.newadvent.org/cathen/07125a.htm)).
+**Date:** 
+1755 BC (not to say "some time between 2342 and 1950 BC," although that's how divergent the views are according to Souvay, [1910](https://www.newadvent.org/cathen/07125a.htm)).
 
-**Intro:** An ancient legal text that makes reference to the punishment of physicians who harm their patients.
+**Intro:** 
+An ancient legal text that makes reference to the punishment of physicians who harm their patients.
 
-**Category:** Legislation, Declarations & Frameworks
+**Category:** 
+Legislation, Declarations & Frameworks
 
-**Link:** https://avalon.law.yale.edu/ancient/hamframe.asp
+**Link:** 
+https://avalon.law.yale.edu/ancient/hamframe.asp
 
 ### Media
 
-**Source:** https://cdn.britannica.com/23/147323-050-A215B523/Detail-stele-Code-of-Hammurabi.jpg
+**Source:** 
+https://cdn.britannica.com/23/147323-050-A215B523/Detail-stele-Code-of-Hammurabi.jpg
 
-**Caption:** A section of the Code of Hammurabi. Symbols are impressed on a dark, flat stone. © John Said/Shutterstock.com
+**Caption:** 
+A section of the Code of Hammurabi. Symbols are impressed on a dark, flat stone. © John Said/Shutterstock.com
 
 ### Tags
 
