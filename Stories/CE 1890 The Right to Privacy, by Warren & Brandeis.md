@@ -1,14 +1,19 @@
 ### Basic Info
 
-**Title:** The Right to Privacy, by Warren & Brandeis
+**Title:** 
+The Right to Privacy, by Warren & Brandeis
 
-**Date:** 15-Dec 1890 as per [the paper](https://doi.org/10.2307/1321160).
+**Date:** 
+15-Dec 1890 as per [the paper](https://doi.org/10.2307/1321160).
 
-**Intro:** The authors identify privacy as possibly coming under threat by socioeconomic and technological change.
+**Intro:** 
+The authors identify privacy as possibly coming under threat by socioeconomic and technological change.
 
-**Category:** Improving Research
+**Category:** 
+Improving Research
 
-**Link:** https://doi.org/10.2307/1321160
+**Link:** 
+https://doi.org/10.2307/1321160
 
 ### Media
 
