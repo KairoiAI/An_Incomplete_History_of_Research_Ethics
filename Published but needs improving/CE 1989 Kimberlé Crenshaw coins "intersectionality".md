@@ -2,10 +2,13 @@
 
 **Title:**
 Kimberlé Crenshaw coins "intersectionality"
+
 **Date:**
 1989 as per [the article](https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8).
+
 **Intro:**
 "Intersectionality" helps us discuss the diverse social structures that our complex identities are subjected to.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
@@ -15,6 +18,7 @@ Kimberlé Crenshaw coins "intersectionality"
 
 **Link:**
 https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8
+
 ### Media
 
 **Source:** 
@@ -22,8 +26,6 @@ https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8
 **Caption:** 
 
 ### Tags
-
-[Type "x" between "[ ]" for all revelvant tags:]
 
 - [ ] How We Do Things, 
 - [x] What We Value, 
