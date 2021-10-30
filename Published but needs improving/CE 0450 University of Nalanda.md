@@ -1,14 +1,19 @@
 ### Basic Info
 
-**Title:** University of Nalanda
+**Title:** 
+University of Nalanda
 
-**Date:** 450 AD based on: https://www.historyofayurveda.org/library/nalanda-mahavihara
+**Date:** 
+450 AD based on: https://www.historyofayurveda.org/library/nalanda-mahavihara
 
-**Intro:** [Brief intro in under 240 characters]
+**Intro:** 
+[Brief intro in under 240 characters]
 
-**Category:** Opening Up Knowledge
+**Category:** 
+Opening Up Knowledge
 
-**Link:** N/A
+**Link:** 
+N/A
 
 ### Media
 
