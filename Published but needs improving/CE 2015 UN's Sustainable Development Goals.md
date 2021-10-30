@@ -2,8 +2,10 @@
 
 **Title:**
 UN's Sustainable Development Goals
+
 **Date:**
 Sep 2015, as per "Follow-Up" section [here](https://sdgs.un.org/2030agenda).
+
 **Intro:**
 [Brief intro in under 240 characters]
 
@@ -16,6 +18,7 @@ Sep 2015, as per "Follow-Up" section [here](https://sdgs.un.org/2030agenda).
 
 **Link:**
 https://sdgs.un.org/goals
+
 ### Media
 
 **Source:** 
