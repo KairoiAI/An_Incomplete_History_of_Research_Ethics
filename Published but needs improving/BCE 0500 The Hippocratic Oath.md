@@ -1,14 +1,19 @@
 ### Basic Info
 
-**Title:** [Insert title for this story]
+**Title:** 
+[Insert title for this story]
 
-**Date:** 5th century BC (see Dossabhoy et al., [2017](https://doi.org/10.1016/j.janh.2017.09.005); Green, [2017](https://doi.org/10.1186/s13104-017-3114-7)).
+**Date:** 
+5th century BC (see Dossabhoy et al., [2017](https://doi.org/10.1016/j.janh.2017.09.005); Green, [2017](https://doi.org/10.1186/s13104-017-3114-7)).
 
-**Intro:** Still pledged to - although in more modern versions - the oath provided a code of conduct to ancient Greek physicians
+**Intro:** 
+Still pledged to - although in more modern versions - the oath provided a code of conduct to ancient Greek physicians
 
-**Category:** Legislation, Declarations & Frameworks
+**Category:** 
+Legislation, Declarations & Frameworks
 
-**Link:** Are there any online versions of the original, or the first modern translation?
+**Link:** 
+Are there any online versions of the original, or the first modern translation?
 
 ### Media
 
