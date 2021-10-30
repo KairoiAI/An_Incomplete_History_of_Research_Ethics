@@ -1,24 +1,31 @@
 ### Basic Info
 
-**Title:** Comptes Rendus
+**Title:** 
+Comptes Rendus
 
-**Date:** 1835 as per Duparc ([2017](https://doi.org/10.1016/j.crhy.2017.10.017)); 01 Jan 1835 as per [Gallica](https://gallica.bnf.fr/ark:/12148/cb343481087/date.r=comptes+rendus+academie.langEN).
+**Date:** 
+1835 as per Duparc ([2017](https://doi.org/10.1016/j.crhy.2017.10.017)); 01 Jan 1835 as per [Gallica](https://gallica.bnf.fr/ark:/12148/cb343481087/date.r=comptes+rendus+academie.langEN).
 
-**Intro:** Following some, perhaps unpleasant, exchanges with journalists, "Comptes Rendus" becomes the French Académie's academic journal.
+**Intro:** 
+Following some, perhaps unpleasant, exchanges with journalists, "Comptes Rendus" becomes the French Académie's academic journal.
 
-**Category:** Improving Research
+**Category:** 
+Improving Research
 
-**Link:** https://comptes-rendus.academie-sciences.fr/
+**Link:** 
+https://comptes-rendus.academie-sciences.fr/
 
 ### Media
 
-**Source:** https://gallica.bnf.fr/ark:/12148/bpt6k29606/f1.highres
+**Source:** 
+https://gallica.bnf.fr/ark:/12148/bpt6k29606/f1.highres
 
-**Caption:** Front cover of the first edition of "Comptes Rendus." It reads "Comptes Rendus Hebdomenaires des Séances de l'Académie des Sciences."
+**Caption:** 
+Front cover of the first edition of "Comptes Rendus." It reads "Comptes Rendus Hebdomenaires des Séances de l'Académie des Sciences."
 
 ### Tags
 
-(1) How We Do Things, (2) What We Value, (3) Science Influencers.
+How We Do Things, What We Value, Science Influencers.
 
 ### Extra Info
 
