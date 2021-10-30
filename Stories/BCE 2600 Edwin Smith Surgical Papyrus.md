@@ -1,20 +1,30 @@
 ### Basic Info
-**Title:** Edwin Smith Surgical Papyrus
+**Title:** 
+Edwin Smith Surgical Papyrus
 
-**Date:** between 2600 and 2150 BC as per Hughes, [1988](https://doi.org/10.1038/sc.1988.15). (Go with earlier date.)
+**Date:** 
+Between 2600 and 2150 BC as per Hughes, [1988](https://doi.org/10.1038/sc.1988.15). (Go with earlier date.)
 
-**Intro:** Humankind's first surgical treatise, recording physicians' observations.
+**Intro:** 
+Humankind's first surgical treatise, recording physicians' observations.
 
-**Category:** Improving Research
+**Category:** 
+Improving Research
 
-**Link:** https://oi.uchicago.edu/research/publications/oip/edwin-smith-surgical-papyrus-volume-1-hieroglyphic-transliteration
+**Link:** 
+https://oi.uchicago.edu/research/publications/oip/edwin-smith-surgical-papyrus-volume-1-hieroglyphic-transliteration
+
 ### Media
-**Source:** https://ars.els-cdn.com/content/image/1-s2.0-S0741521414008659-gr1.jpg
+**Source:** 
+https://ars.els-cdn.com/content/image/1-s2.0-S0741521414008659-gr1.jpg
 
-**Caption:** Column from the Edwin Smith Papyrus displaying the hieratic script. Case 33, toward the bottom, presents a sternoclavicular dislocation and describes two vessels in the upper chest carrying blood to the respiratory tract. The background is brown and the text is sometimes red and sometimes black Source: https://www.sciencedirect.
+**Caption:**
+Column from the Edwin Smith Papyrus displaying the hieratic script. Case 33, toward the bottom, presents a sternoclavicular dislocation and describes two vessels in the upper chest carrying blood to the respiratory tract. The background is brown and the text is sometimes red and sometimes black Source: https://www.sciencedirect.
+
 ### Tags
 
 What We Value
+
 ### Extra Info
 
 The ancient Surgical Papyrus is a copy of a document written some time between 2600 and 2150 BC (Hughes, [1988](https://doi.org/10.1038/sc.1988.15)). The version that has survived to this date was copied by a scribe about a thousand years after the original (Breasted, [1930](https://oi.uchicago.edu/research/publications/oip/edwin-smith-surgical-papyrus-volume-1-hieroglyphic-transliteration)). The present name of the papyrus is owed to Edwin Smith, who purchased the item in 1862 (Nunn, [1996](https://blackwells.co.uk/bookshop/product/Ancient-Egyptian-Medicine-by-John-F-Nunn-author/9780714109817)) under what I imagine are the most transparent and ethical set of circumstances. Its contents was later carefully scrutinised and re-published by Breasted ([1930](https://oi.uchicago.edu/research/publications/oip/edwin-smith-surgical-papyrus-volume-1-hieroglyphic-transliteration)).
