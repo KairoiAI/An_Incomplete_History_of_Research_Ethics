@@ -2,12 +2,14 @@
 
 **Title:**
 Budapest Open Access Initiative
+
 **Date:**
 14-Feb 2002, as per [the publication](https://www.budapestopenaccessinitiative.org/read).
+
 **Intro:**
 The Declaration, adopted in Budapest, Hungary, provides a formal definition for "open access."
+
 **Category:** 
-[Select one by typing "x" between "[ ]":]
 
 - [ ] Opening Up Knowledge;
 - [x] Legislation, Declarations & Frameworks;
@@ -16,6 +18,7 @@ The Declaration, adopted in Budapest, Hungary, provides a formal definition for 
 
 **Link:**
 https://www.budapestopenaccessinitiative.org/read
+
 ### Media
 
 **Source:** 
@@ -23,8 +26,6 @@ https://www.budapestopenaccessinitiative.org/read
 **Caption:** 
 
 ### Tags
-
-[Type "x" between "[ ]" for all revelvant tags:]
 
 - [x] How We Do Things, 
 - [x] What We Value, 
