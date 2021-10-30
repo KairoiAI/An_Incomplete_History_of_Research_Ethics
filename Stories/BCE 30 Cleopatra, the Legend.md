@@ -10,7 +10,6 @@ Cleopatra, the Legend
 Two stories attributed to the last pharoah of Ancient Egypt teach us about authorship in science, but also of a terrible research tragedy.
 
 **Category:** 
-[Select one by typing "x" between "[ ]":]
 
 - [ ] Opening Up Knowledge;
 - [ ] Legislation, Declarations & Frameworks;
