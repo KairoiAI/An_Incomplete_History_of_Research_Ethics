@@ -1,14 +1,19 @@
 ### Basic Info
 
-**Title:** Humboldt-Universität zu Berlin
+**Title:** 
+Humboldt-Universität zu Berlin
 
-**Date:** 1810 as per [their site](https://www.hu-berlin.de/en/about/history/huben_html).
+**Date:** 
+1810 as per [their site](https://www.hu-berlin.de/en/about/history/huben_html).
 
-**Intro:** "Academic freedom" gains form in Humboldt’s University of Berlin, in Germany.
+**Intro:** 
+"Academic freedom" gains form in Humboldt’s University of Berlin, in Germany.
 
-**Category:** Improving Research
+**Category:** 
+Improving Research
 
-**Link:** https://www.hu-berlin.de/en/about/history/huben_html
+**Link:** 
+https://www.hu-berlin.de/en/about/history/huben_html
 
 ### Media
 
