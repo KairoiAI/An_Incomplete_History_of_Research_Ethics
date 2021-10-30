@@ -1,20 +1,32 @@
 ### Basic Info
-**Title:** Thank the Scribes!
+**Title:** 
+Thank the Scribes!
 
-**Date:** 2700 BC
+**Date:** 
+3250 BC
 
-**Intro:** A calendar that requires tracking the movement of celestial bodies.
+**Intro:** 
+The ancient scribe shows that we have been recording knowledge throughout the ages.
 
-**Category:** Improving Research
+**Category:** 
+Opening Up Knowledge
 
-**Link:** N/A
+**Link:** 
+N/A
+
 ### Media
-**Source:** https://upload.wikimedia.org/wikipedia/commons/1/10/Cylinder_seal_of_Shulgi.jpg
+**Source:** 
+https://upload.wikimedia.org/wikipedia/commons/4/44/Luxor_temple_16.jpg
 
-**Caption:** Cylinder seal of Shulgi. Image source: Wikipedia.
+**Caption:** 
+Seshat carved on the back of the throne of the seated statue of Rameses II in the Amun temple at Luxor. It dates from around 1250 BCE.
+
 ### Tag(s)
+
 WhatWeValue
+
 ### Extra Info
+
 Scribes were taught to read and write hieroglyphs and their simplified, hieratic, version. The Scribe's is an ancient profession of paramount historical importance. Without the scribe, we wouldn't have records of ancient texts that teach us of our history. 
 
 The texts of Scribes were varied in at least three ways. Firstly, Scribes used different utensils to write on various materials. Summerian Scribes, for example, would write using wedge-shaped styluses that could press into soft clay or mud (Mark, [2018](https://www.worldhistory.org/cuneiform/)). Later Scribes would use papyrus, made from the papyrus plant (University of Michigan, [2004](https://apps.lib.umich.edu/papyrus_making/pm_intro.html)). One of the texts mentioned in this timeline (the Code of Hammurabi) was written on hard basalt (Louvre, [n.d.](https://collections.louvre.fr/en/ark:/53355/cl010174436)). We will later see that the very modern invention of paper has made it a lot easier to record information in writing.
