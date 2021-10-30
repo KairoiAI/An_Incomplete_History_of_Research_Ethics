@@ -2,12 +2,14 @@
 
 **Title:**
 Explaining decisions made by "artificial intelligence" systems
+
 **Date:**
 Hm, bizarrely, quite unsure; https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/explaining-decisions-made-with-ai/.
+
 **Intro:**
 Guidance to avoid AI systems being opaque.
+
 **Category:** 
-[Select one by typing "x" between "[ ]":]
 
 - [ ] Opening Up Knowledge;
 - [x] Legislation, Declarations & Frameworks;
@@ -16,6 +18,7 @@ Guidance to avoid AI systems being opaque.
 
 **Link:**
 https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/explaining-decisions-made-with-ai/
+
 ### Media
 
 **Source:** 
@@ -23,8 +26,6 @@ https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/expl
 **Caption:** 
 
 ### Tags
-
-[Type "x" between "[ ]" for all revelvant tags:]
 
 - [ ] How We Do Things, 
 - [x] What We Value, 
