@@ -5,8 +5,10 @@
 
 **Date:**
 September 2007 as per [the publication](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198237907.001.0001/acprof-9780198237907).
+
 **Intro:**
 The term is coined in the book "Epistemic Injustice: Power and the Ethics of Knowing."
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
