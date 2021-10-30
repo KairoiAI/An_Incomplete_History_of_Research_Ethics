@@ -2,10 +2,13 @@
 
 **Title:**
 Civil Rights Act
+
 **Date:**
 02-Jul 1964 as its [online copy](https://avalon.law.yale.edu/20th_century/civil_rights_1964.asp) says.
+
 **Intro:**
 The Civil Rights Act is signed in response to the Civil Rights movement in the US.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
