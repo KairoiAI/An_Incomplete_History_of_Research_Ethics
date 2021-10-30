@@ -1,11 +1,15 @@
 ### Basic Info
 
 **Title:**
+
 Atomic Bomb, Part IV
+
 **Date:**
 06 Aug 1945 08:15:00 and 09 Aug 1945 11:02:00; when the bombs were dropped on Hiroshima and Nagasaki, respectively (History.com Editors, [2021](https://www.history.com/topics/world-war-ii/bombing-of-hiroshima-and-nagasaki).
+
 **Intro:**
 The US drop atomic bombs on Hiroshima and Nagasaki.
+
 **Category:** 
 Research Tragedies
 **Link:**
