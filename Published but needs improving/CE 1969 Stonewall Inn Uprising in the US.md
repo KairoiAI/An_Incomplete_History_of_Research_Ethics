@@ -2,10 +2,13 @@
 
 **Title:**
 Stonewall Inn Uprising in the US
+
 **Date:**
 28-Jun 1969 (Lorenzo, [2019](https://www.stonewall.org.uk/about-us/news/stonewall-uprising-50-years-lgbt-history)).
+
 **Intro:**
 Black lesbians and trans women protested the police brutality they were subject to.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
