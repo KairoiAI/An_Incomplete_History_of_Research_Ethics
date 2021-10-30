@@ -1,14 +1,19 @@
 ### Basic Info
 
-**Title:** [Insert title for this story]
+**Title:** 
+[Insert title for this story]
 
-**Date:** 400 AD based on Corwin ([2016](https://sites.dartmouth.edu/ancientbooks/2016/05/24/medieval-book-production-and-monastic-life/)).
+**Date:** 
+400 AD based on Corwin ([2016](https://sites.dartmouth.edu/ancientbooks/2016/05/24/medieval-book-production-and-monastic-life/)).
 
-**Intro:** Literacy became a worthwhile skill in monks
+**Intro:** 
+Literacy became a worthwhile skill in monks
 
-**Category:** Opening Up Knowledge
+**Category:** 
+Opening Up Knowledge
 
-**Link:** N/A
+**Link:** 
+N/A
 
 ### Media
 
