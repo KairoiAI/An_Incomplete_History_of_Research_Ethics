@@ -1,14 +1,19 @@
 ### Basic Info
 
-**Title:** Heliocentrism, Part I
+**Title:** 
+Heliocentrism, Part I
 
-**Date:** 1543, when [De revolutionibus orbium cœlestium](https://www.bl.uk/collection-items/copernicus-celestial-spheres) was published.
+**Date:**
+1543, when [De revolutionibus orbium cœlestium](https://www.bl.uk/collection-items/copernicus-celestial-spheres) was published.
 
-**Intro:** Copernicus argues, through mathematical approaches, for heliocentrism, the idea that the Earth revolves around the sun.
+**Intro:** 
+Copernicus argues, through mathematical approaches, for heliocentrism, the idea that the Earth revolves around the sun.
 
-**Category:** Research Tragedies
+**Category:** 
+Research Tragedies
 
-**Link:** http://www.webexhibits.org/calendars/year-text-Copernicus.html
+**Link:** 
+http://www.webexhibits.org/calendars/year-text-Copernicus.html
 
 ### Media
 
