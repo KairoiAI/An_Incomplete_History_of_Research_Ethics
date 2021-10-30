@@ -1,14 +1,19 @@
 ### Basic Info
 
-**Title:** Principle of Patient Autonomy
+**Title:** 
+Principle of Patient Autonomy
 
-**Date:** 1905 to 1914 as per Bazzano et al. ([2021](https://doi.org/10.31486/toj.19.0105)).
+**Date:** 
+1905 to 1914 as per Bazzano et al. ([2021](https://doi.org/10.31486/toj.19.0105)).
 
-**Intro:** Four cases in the US result in the legal establishment of "patient autonomy."
+**Intro:** 
+Four cases in the US result in the legal establishment of "patient autonomy."
 
-**Category:** Legislation, Declarations & Frameworks
+**Category:** 
+Legislation, Declarations & Frameworks
 
-**Link:** N/A, although this story draws so strongly on Bazzano et al., that it might require just that: a link to their paper! I think this only makes sense if there are other similarly single-paper-dependent stories.
+**Link:** 
+N/A, although this story draws so strongly on Bazzano et al., that it might require just that: a link to their paper! I think this only makes sense if there are other similarly single-paper-dependent stories.
 
 ### Media
 
