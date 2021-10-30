@@ -2,10 +2,13 @@
 
 **Title:**
 Personal Information Protection Law in China
+
 **Date:**
 Effective [01-Nov 2021](https://iapp.org/news/a/analyzing-chinas-pipl-and-how-it-compares-to-the-eus-gdpr/).
+
 **Intro:**
 The PIPL takes effect in China, protecting individuals' data.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
@@ -15,6 +18,7 @@ The PIPL takes effect in China, protecting individuals' data.
 
 **Link:**
 https://www.china-briefing.com/news/the-prc-personal-information-protection-law-final-a-full-translation/
+
 ### Media
 
 **Source:** 
