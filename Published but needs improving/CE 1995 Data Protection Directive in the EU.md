@@ -2,10 +2,13 @@
 
 **Title:**
 Data Protection Directive in the EU
+
 **Date:**
 24-Oct 1995 as per [the directive](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML).
+
 **Intro:**
 The DPD is signed in the European Union.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
