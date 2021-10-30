@@ -2,10 +2,13 @@
 
 **Title:**
 Declaration of Helsinki
+
 **Date:**
 June 1964, as per the WMA: https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/ 
+
 **Intro:**
 The World Medical Association adopts the Declaration of Helsinki.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
