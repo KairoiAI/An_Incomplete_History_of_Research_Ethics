@@ -2,10 +2,13 @@
 
 **Title:**
 Declaration of Bologna
+
 **Date:**
 Timeframe [starting 29-Aug 1999](https://cordis.europa.eu/event/id/13303-alternatives-and-animal-use-in-the-life-sciences).
+
 **Intro:**
 Hundreds of scientists adopt the Three Rs of animal research ethics.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
