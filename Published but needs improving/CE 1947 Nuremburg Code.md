@@ -2,10 +2,13 @@
 
 **Title:**
 Nuremburg Code
+
 **Date:**
 19-Aug 1947 (needs justifying)
+
 **Intro:**
 The Nuremberg Code was the outcome of the "Doctors' Trial" against Nazi officials
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
