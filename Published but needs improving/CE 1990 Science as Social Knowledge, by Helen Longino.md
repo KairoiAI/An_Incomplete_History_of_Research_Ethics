@@ -2,10 +2,13 @@
 
 **Title:**
 Science as Social Knowledge, by Helen Longino
+
 **Date:**
 21-Feb 1990, as per [the publisher](https://press.princeton.edu/books/paperback/9780691020518/science-as-social-knowledge).
+
 **Intro:**
 A philosophical inquiry into the social nature of science.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
@@ -15,6 +18,7 @@ A philosophical inquiry into the social nature of science.
 
 **Link:**
 https://press.princeton.edu/books/paperback/9780691020518/science-as-social-knowledge
+
 ### Media
 
 **Source:** 
