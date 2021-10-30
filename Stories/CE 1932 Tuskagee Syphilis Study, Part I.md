@@ -1,14 +1,19 @@
 ### Basic Info
 
-**Title:** Tuskagee Syphilis Study, Part I.md
+**Title:** 
+Tuskagee Syphilis Study, Part I.md
 
-**Date:** 1932 as per [CDC](https://www.cdc.gov/tuskegee/timeline.htm).
+**Date:** 
+1932 as per [CDC](https://www.cdc.gov/tuskegee/timeline.htm).
 
-**Intro:** A study the evolution of untreated syphilis in black men that involved deception and was grounded in racism.
+**Intro:** 
+A study the evolution of untreated syphilis in black men that involved deception and was grounded in racism.
 
-**Category:** Research Tragedies
+**Category:** 
+Research Tragedies
 
-**Link:** https://www.cdc.gov/tuskegee/timeline.htm
+**Link:** 
+https://www.cdc.gov/tuskegee/timeline.htm
 
 ### Media
 
