@@ -2,10 +2,13 @@
 
 **Title:**
 Universal Declaration of Human Rights
+
 **Date:**
-10-Dec 2948 as per https://www.ohchr.org/en/udhr/pages/udhrindex.aspx
+10-Dec 1948 as per https://www.ohchr.org/en/udhr/pages/udhrindex.aspx
+
 **Intro:**
 A milestone document in the history of human rights.
+
 **Category:** 
 
 - [ ] Opening Up Knowledge;
@@ -15,6 +18,7 @@ A milestone document in the history of human rights.
 
 **Link:**
 https://www.ohchr.org/en/udhr/pages/udhrindex.aspx
+
 ### Media
 
 **Source:** 
