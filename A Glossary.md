@@ -51,6 +51,9 @@ I am still working on this glossary and it will inevitably grow as The Timeline 
 ## I
 
 ## J
+* **Journal:** Journals in the context of research are periodical publications of academic work. Journals often publish papers from specific disciplines, but some are interdisciplinary. Journals can be online and/or in print, and can be free or accessed for a fee.
+  * Term referenced in [Royal Society](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/1e08c292cec9070194613f7f12b17cfbfb1988f9/Published%20but%20needs%20improving/CE%201660%20Royal%20Society.md), [L'Académie des Sciences](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/1e08c292cec9070194613f7f12b17cfbfb1988f9/Published%20but%20needs%20improving/CE%201666%20L'Acad%C3%A9mie%20des%20Sciences.md)
+  * Learn more on [Wikipedia](https://en.wikipedia.org/wiki/Academic_journal)
 
 ## K
 
