@@ -1,7 +1,7 @@
 ### Basic Info
 
 **Title:** 
-Journal des Sçavans
+CE 1665 Journal des Sçavans
 
 **Date:** 
 05-Jan 1665 (e.g.: McCutcheon, [1924](https://www.jstor.org/stable/4171899)).
@@ -17,9 +17,11 @@ https://poj.peeters-leuven.be/content.php?url=journal&journal_code=JDS
 
 ### Media
 
-**Source:** 
+**Source:**
+https://poj.peeters-leuven.be/journal_images/JDS.jpg
 
-**Caption:** 
+**Caption:**
+The cover of the July-December 2020 publication of the Journal des Sçavans. It has a dark blue background, its title in large white letters followed by "fondé en 1665," its crest and "Paris, Académie des Inscriptions et Belle-Lettres." Source: Peeters Online Journals.
 
 ### Tags
 
