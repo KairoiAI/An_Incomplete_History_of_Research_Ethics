@@ -69,7 +69,10 @@ I am still working on this glossary and it will inevitably grow as The Timeline 
 * **Pharmacopoeia:** An authoritative text -- regional, national or even international -- on standards for the identification, creation and consumption of pharmaceuticals.
   * Term referenced in [Recipes of Fifty-two Ailments]().
   * Learn more on *[Wikipedia](https://en.wikipedia.org/wiki/Pharmacopoeia)*.
- 
+* **Peer review:** The process of reviewing manuscripts and other research outputs to ensure their technical, often quality before publication.
+  * Term referenced in [Adab Al-Tabib by Al-Ruhawi](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/b3672ed1c1804298cace5b17187fef43ee5b49b5/Published%20but%20needs%20improving/CE%200900%20Adab%20Al-Tabib%20by%20Al-Ruhawi.md), [Journal des Sçavans](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/b3672ed1c1804298cace5b17187fef43ee5b49b5/Stories%20in%20Progress/CE%201665%20Journal%20des%20S%C3%A7avans.md), [Royal Society](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/b3672ed1c1804298cace5b17187fef43ee5b49b5/Published%20but%20needs%20improving/CE%201660%20Royal%20Society.md), and [Comptes Rendus](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/b3672ed1c1804298cace5b17187fef43ee5b49b5/Stories/CE%201835%20Comptes%20Rendus.md).
+  * Learn more on *[Wikipedia](https://en.wikipedia.org/wiki/Pharmacopoeia)*.
+
 ## Q
 
 ## R
