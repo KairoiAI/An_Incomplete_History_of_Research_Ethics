@@ -13,7 +13,7 @@ Galilei argues for heliocentrism following his observations through the telescop
 Research Tragedies
 
 **Link:** 
-https://cudl.lib.cam.ac.uk/view/PR-ADAMS-00005-00061-00001/5
+https://upload.wikimedia.org/wikipedia/commons/0/00/Houghton_IC6.G1333.610s_-_Sidereus_nuncius.jpg
 
 ### Media
 
@@ -21,7 +21,7 @@ https://cudl.lib.cam.ac.uk/view/PR-ADAMS-00005-00061-00001/5
 http://www.sites.hps.cam.ac.uk/starry/starrymesmed.jpg
 
 **Caption:**
-The cover of Galilei's 1610 "Siderus Nuncius" or "Starry Messenger. Source: Trinity College Cambridge.
+The cover of Galilei's 1610 "Siderus Nuncius" or "Starry Messenger. Source: Houghton Library, Harvard University.
 
 ### Tags
 
