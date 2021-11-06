@@ -1,4 +1,4 @@
-**Copy and paste the below (in raw, without rendering) when creating new stories.**
+<!-- *Copy and paste this file's text (in raw, without rendering) into new files for new stories. -->
 
 ### Basic Info
 
