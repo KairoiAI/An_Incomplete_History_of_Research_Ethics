@@ -8,14 +8,17 @@ So here we are! I will slowly upload the various stories (each event on the time
 
 ### Would you like to help?
 I would love help from philosophers, historians, lawyers, business professionals, butchers, bakers and candlestick makers!
-Github will help trace who made what edits, and we can put authors' names at the bottom of stories they have contributed to.
+Github will help trace who made what edits, and we can put authors' names at the bottom of stories they have contributed to. If you are uncertain as to how to GitHub (as am I), please visit [this issue](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/5#issue-1040112311) to see how you can comment on stories that are yet unpublished.
 My big requests to anybody who wishes to contribute are:
 * Please use credible sources when making claims. By "credible source," I mean something quite broad and suggest that, whilst Wikipedia provides a great deal of information, use it as a tool for idea-generation and don't be afraid to visit the many references their pages provide. (This is not to say I haven't cited Wikipedia! But if we can explore more deeply, all the better.)
 * BE NICE. I don't know if/how I can ban people from using this repository, but any slur, insult or degrading comment will make me send you a lengthy message, if that is even possible. I have no tolerance for people who are not nice. A great deal of what I have written needs a lot of improvement. I wouldn't make this repository public otherwise. But feedback (to myself and others) must be constructive and helpful, and written with nothing but kindness. We are all here to learn!
 
-I am still "migrating" the stories from my Tiki-Toki to Github. I am using three folders for these:
-* **Stories** contain stories I am generally happy with. They can definitely gain from a review, but they are not a priority.
-* **Stories in Progress** are stories that are new and unpublished. This is where ideas for further stories will appear.
+### Navigating thie Repository
+There are three folders and three files at the top of this repository. The three files contain (and are called) [_A Glossary_](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/a936ef6798379a8ab01a8a63bd0957d540032b33/A%20Glossary.md) – which will hold strange terms used throughout the timeline –, [_A Template for Stories_](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/a936ef6798379a8ab01a8a63bd0957d540032b33/A%20Template%20for%20Stories.md) – which should be copied and pasted into new files containing stories –, and [_About this Timeline_](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/a936ef6798379a8ab01a8a63bd0957d540032b33/About%20This%20Timeline.md) – maintaining the text that is shown when you open the Timeline for the first time... Time!
+
+The three folders contain:
+* **Stories** that I am generally happy with. They can definitely gain from a review and further detail, but they are not a priority.
+* **Stories in Progress**, which are new and unpublished. This is where ideas for further stories will appear.
 * **Published but needs improving** are the stories I wrote between mid-September and 16-Oct and which were not even written as stories! They are excerpts from a much longer text I wrote using HackMD. These are the ones that might gain from "easy fixes." Perhaps a link to some media will help, or comments with further resources.
 
 ### The technicalities of Tiki-Toki
