@@ -10,7 +10,7 @@ Alexandra Elbakyan founds Sci-Hub
 
 **Intro:**
 <!-- Share in line 15 a brief intro to the story (keep it under 240 characters) -->
-Sci-Hub allows access to millions ofresearch papers that are otherwise behind paywalls.
+Sci-Hub allows access to millions of research papers that are otherwise behind paywalls.
 
 **Category:** 
 <!-- Select one (and ONLY ONE) by typing "x" between "[ ]". -->
