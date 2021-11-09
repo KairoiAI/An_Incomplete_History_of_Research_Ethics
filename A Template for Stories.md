@@ -15,12 +15,12 @@
 
 
 **Category:** 
-<!-- Select one (and ONLY ONE) by typing "x" between "[ ]". -->
+<!-- Select one (and ONLY ONE) by typing "x" between "[ ]". Make sure to type in the commit the issue number for the category you select, as it appears next to each category. -->
 
-- [ ] Opening Up Knowledge;
-- [ ] Legislation, Declarations & Frameworks;
-- [ ] Improving Research; or
-- [ ] Research Tragedies
+- [ ] Opening Up Knowledge; <!-- #10 -->
+- [ ] Legislation, Declarations & Frameworks; <!-- #11 -->
+- [ ] Improving Research; or <!-- #12 -->
+- [ ] Research Tragedies. <!-- #13 -->
 
 **Link:**
 <!-- Not necessary, can say "N/A" or be a link to the story's pertinent document/article/book; as an example, the *Code of Hammurabi* links to the very [*Code of Hammurabi*](https://avalon.law.yale.edu/ancient/hamframe.asp). Type in line 27. -->
@@ -37,12 +37,12 @@
 
 
 ### Tags
-<!-- Type "x" between "[ ]" for all revelvant tags: -->
+<!-- Type "x" between "[ ]" for all relevant tags. Make sure to type in the commit the issue number for the tag(s) you select, as it appears next to each tag. -->
 
-- [ ] How We Do Things, 
-- [ ] What We Value, 
-- [ ] Science Influencers, and/or 
-- [ ] Bioethics
+- [ ] Bioethics. <!-- #14 -->
+- [ ] How We Do Things; <!-- #15 -->
+- [ ] Science Influencers; and/or <!-- #16 -->
+- [ ] What We Value; <!-- #17 -->
 
 ### Extra Info
 <!-- Paste the story onto line 49! Remember: a line is a paragraph and a blank line must be placed between paragraphs. -->
