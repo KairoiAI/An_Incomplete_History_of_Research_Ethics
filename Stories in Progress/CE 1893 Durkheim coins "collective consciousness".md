@@ -46,3 +46,7 @@ A black and white image of Émile Durkheim. Source: Encyclopædia Britannica.
 
 ### Extra Info
 <!-- Paste the story onto line 49! Remember: a line is a paragraph and a blank line must be placed between paragraphs. -->
+
+### Theme
+<!-- Remember to add links to pertinent thematic issues -->
+https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/3
