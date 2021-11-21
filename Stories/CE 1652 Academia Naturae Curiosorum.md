@@ -8,7 +8,7 @@
 
 **Intro:** 
 
-The world's first science institute is established in Schweinfurt, Germany.
+A highly specialised medical science institute is established in Schweinfurt, Germany.
 
 **Category:** 
 
