@@ -8,7 +8,7 @@ Tu Youyou wins Nobel prize
 
 **Date:**
 <!-- Type in line 11 the date of this story, and link to a source confirming the selected date -->
-[2015](https://www.nobelprize.org/prizes/medicine/2015/tu/facts/)
+[05-Oct 2015](https://www.nobelprize.org/prizes/medicine/2015/press-release/)
 
 **Intro:**
 <!-- Share in line 15 a brief intro to the story (keep it under 240 characters) -->
