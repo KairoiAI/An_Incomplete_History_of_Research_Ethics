@@ -30,11 +30,11 @@ Tu Youyou's creation of a vaccine against malaria gains increasing international
 
 **Source:** 
 <!-- Share in line 33 direct link to an image that can be shared following its copyright; [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia) is a good place to look -->
-
+https://www.nobelprize.org/images/tu-13648-portrait-mini-2x.jpg
 
 **Caption:** 
 <!-- Insert a description of the image in line 37; be detailed as this will serve as ALT text -->
-
+Photo portrait of Tu Youyou. © Nobel Media AB. Photo: A. Mahmoud.
 
 ### Tags
 <!-- Type "x" between "[ ]" for all relevant tags. Make sure to type in the commit the issue number for the tag(s) you select, as it appears next to each tag. -->
