@@ -4,7 +4,7 @@
 
 **Title:**
 <!-- Insert title for this story in line 7. The name of the GitHub file above must be: "[BCE or CE] YYYY [TITLE].md". For example, an event in 530 BC with the title "Thales falls into a well" would be called "BCE 0530 Thales falls into a well.md" -->
-Tu Youyou wins Nobel prize
+Tu Youyou wins Nobel Prize in Physiology or Medicine
 
 **Date:**
 <!-- Type in line 11 the date of this story, and link to a source confirming the selected date -->
