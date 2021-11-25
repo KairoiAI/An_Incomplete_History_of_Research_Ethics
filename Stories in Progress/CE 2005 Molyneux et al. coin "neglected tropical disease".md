@@ -30,7 +30,7 @@ NTDs are analysed through a formal framework that help converge diverse efforts 
 
 **Source:** 
 <!-- Share in line 33 direct link to an image that can be shared following its copyright; [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia) is a good place to look -->
-https://en.wikipedia.org/wiki/Neglected_tropical_diseases#/media/File:Number_of_people_requiring_interventions_against_neglected_tropical_diseases_(NTDs),_OWID.svg
+https://upload.wikimedia.org/wikipedia/commons/9/9b/Number_of_people_requiring_interventions_against_neglected_tropical_diseases_%28NTDs%29%2C_OWID.svg
 
 **Caption:** 
 <!-- Insert a description of the image in line 37; be detailed as this will serve as ALT text -->
