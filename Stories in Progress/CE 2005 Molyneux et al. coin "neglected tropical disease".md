@@ -46,3 +46,9 @@ A world map showing the number of people requiring interventions against neglect
 
 ### Extra Info
 <!-- Paste the story onto line 49! Remember: a line is a paragraph and a blank line must be placed between paragraphs. -->
+
+### Unformed Thoughts
+See Molyneux et al. ([2021](https://doi.org/10.1093/trstmh/trab015)) for a history of NTDs. They find NTDs being called as such first by Molyneux et al. ([2005](https://doi.org/10.1371/journal.pmed.0020336)) and then by Hotez et al. ([2006](https://doi.org/10.1371/journal.pmed.0030102)). They also trace the following origins of NTD research:
+* Warren's Great Neglected Diseases of Mankind programme from 1978 to 1987 (Keating, [2017](https://doi.org/10.1007/978-3-319-50147-5))
+* WHO's Special Programme for Research and Training in Tropical Diseases, whose inception began in 1975 and was formally established by 1977 (Executive Board, 71, [1982](https://apps.who.int/iris/handle/10665/159864))
+* Other efforts in mass treatments in the 1950s and 1960s (see Hawking, [1962](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2555874/); Hakwing & Marques, [1967](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2554262/); and WHO, [2003](https://scholar.google.com/scholar_lookup?title=Control%20of%20lymphatic%20filariasis%20in%20China&publication_year=2003&book=Control%20of%20lymphatic%20filariasis%20in%20China): 8).
