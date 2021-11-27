@@ -26,6 +26,32 @@ _The Timeline_ is a private endeavour. There are no formal mechanisms for mediat
 3. In the unfortunate case that a contributor posts unkind or unhelpful comments that clearly break with the eight principles, [they will be blocked](https://docs.github.com/en/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account) after a discussion with [Ismael-KG](https://github.com/Ismael-KG) if they are deemed redeemable.
 
 # Protocol 2: Contribution Types
+This protocol establishes the roles that contributors may fall under. Similar to [CRediT](https://casrai.org/credit/), the point is to acknowledge the different types of effort contributors bring to the wider project. In the case of _The Timeline_, emphasis is on types of contribution rather than categorising contributors. This can help if, in the future, a contributor wants to show evidence (to potential employers, etc.) that they can make a certain type of contribution - that they have a certain skill. The below taxonomy can also be used by potential contributors to see how they might support the creation and maintenance of _A History of Research Ethics_.
+
+It is worth noting that there is a low bar for becoming a contributor to this project. At present, practically taking the time to discuss the project with me (@Ismael-KG) will render you a contributor. I intend that to continue being the case, and to be clear that all contributions are deemed equally valuable.
+
+Contributions then fall under one or both of two broad categories: _sustainability_ or _stories_. Each of these, in turn, are broken down as follows:
+
+### Sustainability
+Sustainability contributions are those that relate to the GitHub repository and have little to do with the content of stories.
+* **Engineering:** these are contributions that have to do with (i) how the GitHub repository is managed and arranged, (ii) how different sites host content pertaining to the timeline, and (iii) maintenance of the present platform (Tiki-Toki) and its eventual migration to a better platform (hopefully).
+* **Policy-making:** this is about writing and improving protocols. For example, on the review process, the code of conduct, or even this very taxonomy!
+* **Communications:** these include contributions relating to strategising about social media-usage, but also spreading the word online (at present, communications is mostly @Ismael-KG's tweets, which don't get very far!).
+* **Ideation:** this is a broad type of contribution to acknowledge that both stories and protocols can result from discussions that can be held on GitHub issues or offline.
+
+### Stories
+The content of the timeline can be improved and maintained by the following contribution-types:
+* **Conceptualisation:** contributions of this sort occur early on in the story-creation life-cycle. This can amount to something as simple as drawing a fellow contributor's attention to some historical event that might be worth capturing in _The Timeline_.
+* **Research:** research contributions are useful during the conceptualisation and story-writing stages. It is mostly about providing links to useful resources.
+* **Authorship or co-authorship:** this is when a new story has been drafted in full by one or more people.
+* **Review:** providing reviews requires expertise on the stories to be reviewed. It is about ensuring the accuracy of claims and quality of argumentation. Reviews are "higher-level" than copy-editing.
+* **Copy-editing:** this is a thorough analysis of a text's consistency and clarity, and ensures that the text is also in line with _The Timeline_'s style guide (yet to be made).
+* **Proofreading:** proofreeding is when contributors scour stories for syntactical, grammatical and spelling mistakes.
+
+## Recognition
+It would be unfair to create a system where anybody can contribute yet nobody gains recognition, regardless of political inclinations. As contributions grow, sustainability ones will be acknowledged at the end of protocols. For example, a protocol might end with "This protocol was designed by @/so-and-so."
+
+Similarly, stories will end with an acknowledgements section, listing stories-type contributions and the people behind them.
 
 # Protocol 3: Lifecycle of a Story
 
