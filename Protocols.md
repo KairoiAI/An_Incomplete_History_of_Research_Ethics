@@ -3,7 +3,7 @@
 * [Protocol 1: Code of Conduct](#Protocol-1-Code-of-Conduct)
 * [Protocol 2: Contribution Types](#Protocol-2-Contribution-Types)
 * [Protocol 3: Lifecycle of a Story](#Protocol-3-Lifecycle-of-a-Story)
-* [Protocol 4: Writing Style](#Protocol-4-Writing-Style)
+* [Protocol 4: Writing Style](#Protocol-4-Style-Guide)
 * [Protocol 5: Reliable Sources](#Protocol-5-Reliable-Sources)
 
 # Protocol 1: Code of Conduct
@@ -29,6 +29,6 @@ _The Timeline_ is a private endeavour. There are no formal mechanisms for mediat
 
 # Protocol 3: Lifecycle of a Story
 
-# Protocol 4: Writing Style
+# Protocol 4: Style Guide
 
 # Protocol 5: Reliable Sources
