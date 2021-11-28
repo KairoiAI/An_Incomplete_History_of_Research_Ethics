@@ -1,0 +1,52 @@
+### Basic Info
+
+**Title:** 
+Académie des Sciences
+
+**Date:** 
+22-Dec 1666 as per [their site](https://www.academie-sciences.fr/en/Histoire-de-l-Academie-des-sciences/history-of-the-french-academie-des-sciences.html).
+
+**Intro:**
+A brief history of the Académie des Sciences’ “Comptes Rendus” and moving ancient publications online.
+
+**Category:**
+Opening Up Knowledge
+
+**Link:** 
+https://www.academie-sciences.fr/en/Histoire-de-l-Academie-des-sciences/history-of-the-french-academie-des-sciences.html
+
+### Media
+
+**Source:** 
+https://gallica.bnf.fr/ark:/12148/bpt6k35013/f1.highres
+
+**Caption:**
+Frontpiece of the third edition of the 1699 publication of Histoire et Mémoirs. Source: Gallica.
+
+### Tags
+
+How We Do Things, What We Value.
+
+### Extra Info
+
+By the time the Académie des Sciences was established, at least three other major scientific institutes had already been in operation: the Italian [Accademia dei Lincei](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16571102!), the German [Academia Naturae Curiosorum](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443513!) and the British [Royal Society](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443519!). With the first three parts of this series, we learned about how internal politics and governmental influence can impact science, as well as how modern peer review emerged. The present story of the Académie des Sciences will focus on the relationship between academic institutions and the press. This will segue into recent adaptations of three research journals: the Journal des Sçavans, Philosophical Transactions, and the Académie's very own Comptes Rendus.
+
+The Académie des Sciences was established in 1666 and became a formal advisory body to the French government in 1699 (McLellan, [1981](https://www.jstor.org/stable/231248)). It was then that they started publishing Histoire et Mémoirs ([1699](https://gallica.bnf.fr/ark:/12148/cb32786820s/date)), as well as yearly accounts of their activities (Harduin Duparc, [2017](https://doi.org/10.1016/j.crhy.2017.10.017): 495). With the French Revolution in 1789, the Académie's activities slowed down and it was altogether dissolved in 1793 ([ibid.]((https://doi.org/10.1016/j.crhy.2017.10.017)). In 1795, the new National Institute of Sciences and Arts continued the yearly publication. The Académie des Sciences, as we now call it, became an autonomous institution in 1816.
+
+The Académie's publication took its most serious form in 1835 with Comptes Rendus Hebdomadaires des Séances de l’Académie des Sciences ("Weekly Accounts of the Meetings of the Academy of Science"; "Comptes Rendus," hereafter). What had pushed the Académie to produce a publication will be the subject of the following three praragraphs.
+
+A new economic class had emerged over the past century and was gaining power and wealth. The bourgeoisie were also increasingly interested in the latest scientific and technological advancements. Hardouin Duparc ([2017](https://doi.org/10.1016/j.crhy.2017.10.017)) tells us that this demand for knowledge was met by different periodicals, and that one journalist had even taken to sitting in on meetings of the Académie to convey what they'd learned to their readers. However, the Académie's permanent secretary in post in the 1820s, Georges Cuvier, was sceptical, as he thought it almost "impossible to summarise in an exact manner the various works of which the Academy is concerned" ([ibid.](https://doi.org/10.1016/j.crhy.2017.10.017): 496).
+
+There was then the case of the professor of mathematics Jacques Frédéric Saigey, who also wrote for three periodicals. His writing was shrewd and often very critical. The next permanent secretary, François Arago, was frustrated by Saigey's critiques. Arago eventually banned the periodicals that Saigey wrote for from accessing the Académie's internal meetings. In the meantime, Arago suggested the establishment of the Comptes Rendus, first published in 1835. With this, Arago acknowledged that publications are a useful way to disseminate scientific findings amongst both fellow researchers and the wider public.
+
+Assuming the 19th-century bourgeoisie's interest in science replicates amongst today's non-academics, the inauguration of the Comptes Rendus raises at least one question for science communication: who should conduct the distribution of technical knowledge amongst the wider population? Saigey's profile seems to fit the bill: not only did he have experience in writing for non-academic periodicals, but he was also a trained mathematician. His critical tone could even mean providing useful feedback for the improvement of the Académie's work. However, this combination of skills might be hard to come by, especially in the demanding and monodiscipline-focused academic environment of today. What's more, editorial teams are important for the adequate functioning of a publication (a topic touched on when discussing the [Royal Society](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443519!)). Thus, there seem to be at least three parties involved in science communication: scientists, journalists and editors. To this effect, I will simply claim that appropriate science communication will require involving the skills from the three areas. Casually sitting upon an increasingly agitated Pandora's box, let us segue into the next point of discussion.
+
+It can be questioned whether one should draw conclusions about the present from the distant past. So many developments - social, technological, political and environmental - have occurred that it may seem strange to speak of publishing printed journals, or "gentlemanly societies." We can critique the latter when introducing [Princess Dashkova](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16575859!) in the final post of this series. For now, it is worth considering, even if just anecdotally, the adaptation of the oldest, continuously published journals - the Journal des Sçavans and the Philosophical Transactions -, as well as the Comptes Rendus to the sociotechnical phenomenon that is the internet.
+
+The publications have evolved a great deal since their inceptions. Eventually, all three have moved online, although some with more forethought than others. The French publications have been aided by their national library's online platform Gallica, which has been sharing a wide range of documents online since 1997 (Racine et al., [2013](https://library.stanford.edu/sites/default/files/Bibliotheque%20nationale%20de%20France.pdf)). Gallica shares scans of older publications. For the Journal des Sçavans, publications run from [1665 to 1950](https://gallica.bnf.fr/ark:/12148/cb343488023/date.r=journal+des+scavans.langEN). For Comptes Rendus, due to its turbulent history, there is a split between publications [up to the French Revolution](https://gallica.bnf.fr/ark:/12148/cb32786820s/date), and publications [since the early 19th century](https://gallica.bnf.fr/ark:/12148/cb343783130/date). Gallica provides access to the Comptes Rendus published up until 1996. The most comprehensive breakdown of their publications is described by the Académie itself (academie-sciences.fr, [n.d.a](https://www.academie-sciences.fr/en/Transmettre-les-connaissances/comptes-rendus-de-l-academie-des-sciences-numerisees-sur-le-site-de-la-bibliotheque-nationale-de-france.html))
+
+In the case of the Royal Society's publications, those from 1665 to 1996 were digitised in 2017 (royalsociety.org, [n.d.a](https://royalsociety.org/journals/publishing-activities/journal-collection-science-in-the-making/)), and texts from 1665 to 1886 can be accessed [for free](https://royalsocietypublishing.org/loi/rstl/group/c1600.d1660.y1665). The last year for digitised copies - 1996 - is no coincidence: it was in 1997 when the Society started publishing online (royalsociety.org, [n.d.b](https://royalsociety.org/journals/publishing-activities/publishing350/history-philosophical-transactions/)). This seems to be the same year the Comptes Rendus' move to the internet, when the publisher Elsevier came into play (academie-sciences.fr, [n.d.b](https://comptes-rendus.academie-sciences.fr/)). Since parting ways with Elsevier, the Académie has been making their various journals available online for free.
+
+In the meantime, the Journal des Sçavans seems to have struggled keeping up with the times. Surprisingly, its publisher continues to offer subscriptions only to [printed copies](https://poj.peeters-leuven.be/content.php?url=journal&journal_code=JDS). Nonetheless, another public initiative - this time with the backing of the French Ministry of Education (persee.fr, [n.d.a](https://www.persee.fr/a-propos)) - has helped the Journal get online. At the time of writing, editions of the Journal from 1909 to 2016 are available [online and for free](https://www.persee.fr/collection/jds).
+
+This story has pointed to the relationship between science institutes and the wider public. With Arago, we saw how engagements with the press can inspire a wider distribution of knowledge, although many questions remain unanswered. Likewise, with the recent adaptations, we have seen how these ancient publications - qua publications - have made efforts to keep up with technological changes. This latter point relates with the diversity of potential audiences. Much like [Hippocarates suggesting that physicians communicate amongst themselves and with patients](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443419!), the increased access via the internet to scholarly work can lead to misinterpretations. (Indeed, the scientist is not there to respond to your questions like the doctor is during an appointment.) The need to ensure that research is adequately understood by its growing readership might require more thought in its communication. The easier access to research is touched on in the stories on [Project Gutenberg](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443999!), [arXiv](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16444416!) and [Sci-Hub](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16551818!).
