@@ -54,6 +54,35 @@ It would be unfair to create a system where anybody can contribute yet nobody ga
 Similarly, stories will end with an acknowledgements section, listing stories-type contributions and the people behind them.
 
 # Protocol 3: Lifecycle of a Story
+There are 7 stages to the development of stories for _The Timeline_. Each one can be repeated, and you can always revisit previous steps. You are also encouraged to develop stories (i) with the help of others and (ii) by creating an issue using the "lightbulb moments 💡" template.
+## Step 1: Idea generation
+This is where you can put your most creative self to work. There are at least two approaches to idea generation:
+* **Top-down idea generation** means thinking big and whittling down. You might be curious about the warring states period in Ancient China, or perhaps evolutionary psychology, or anything! From this broad interest of your own, the goal is then to establish an event that has a clear link to a question for research ethics.
+* **Bottom-up idea generation** is about starting with an event or concept you are aware of, and then studying the broader historical context in which that phenomenon originated. The link between the historical event and topic for research ethics can be established through the process of studying the historical context.
+
+Once you have clarity on the idea or feel you need support to develop it, raise an issue following the "lightbulb moment 💡" template and invite discussion.
+## Step 2: Compiling Resources
+You are encouraged to employ diverse sources of information when at the idea generation stage. Once an idea becomes clearer, you should draw on sources that adhere to [Protocol 5](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/Protocols.md#protocol-5-reliable-sources).
+## Step 3: Finding coherent narratives
+With the general idea and the vast quantity of resources you have found, it is finally time to establish the outline of the story and any philosophical arguments to be put forth. [Protocol 4](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/Protocols.md#protocol-4-style-guide) can help you structure your thoughts.
+
+Also, don't be afraid to discard academic papers, articles or books that become irrelevant. The story must be clear and coherent. This is not to say you should adjust evidence to your own narrative (that would be deeply unethical), but that you must focus on clear arguments and not lead readers astray by introducing too many topics or events.
+
+One more thing, having made it to step three, the story will have earned a file in the "Stories in Progress" folder! Just mention [@Ismael-KG](https://github.com/Ismael-KG) in the lightbulb moment issue for the story and ask to have the file created. Be clear about the event's date, so it can be added to Tiki-Toki.
+## Step 4: Draft and re-draft the story
+And re-draft again and again and again! You can choose to do this publicly using [HackMD](https://hackmd.io/) or your preferred collaboration tool, or you can draft work privately. Be open to holding discussions on GitHub, but don't feel pressured to share things publicly until you feel comfortable to do so.
+## Step 5: Pre-Publication Peer Review
+I find GitHub terribly exclusionary. For this reason, stories, once drafted, are placed in this [online HackMD document](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q?both) (as described in [issue #5](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/5)). This wil require [signing up to HackMD](https://hackmd.io/join).
+
+Drafts are kept in the pre-publication document for a period of anything between nine and fifteen days, the last day of which will always be a Saturday.
+
+During this time, the HackMD document is re-shared publicly and people are encouraged to contribute and help improve the drafts.
+## Step 6: Publish on GitHub
+Every Thursday, the pre-publication file must be checked and an issue - following the "Sunday uploads" template - must be created.
+
+On the day after the end of the pre-publication peer review, the new story is revised one last time and given a file in the [Stories folder](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Stories) following the [relevant template](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/A%20Template%20for%20Stories.md).
+## Step 7: Publish on [tiki-toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/)
+[@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish new stories on the tiki-toki platform, as he has the admin rights.
 
 # Protocol 4: Style Guide
 This protocol is intended for stories to adhere to some loose rules. By writing stories following the below, they can fit into a more consistent whole.
