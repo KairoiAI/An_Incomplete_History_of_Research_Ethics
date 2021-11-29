@@ -25,7 +25,25 @@ _The Timeline_ is a private endeavour. There are no formal mechanisms for mediat
 2. When problems have gone too far, we can aim for tolerance; the parties shall need to learn to tolerate that the other is also a part of the project. However, the involved parties will be assigned different tasks to work on, so that encounters are kept to a minimum.
 3. In the unfortunate case that a contributor posts unkind or unhelpful comments that clearly break with the eight principles, [they will be blocked](https://docs.github.com/en/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account) after a discussion with [Ismael-KG](https://github.com/Ismael-KG), which will only take place if they are deemed redeemable.
 
-# Protocol 2: Contribution Types
+# Protocol 2: Referencing The Timeline
+_A History of Research Ethics_ is intended to be a useful resource for various audiences, and the best way to reach these audiences is by being shared as much as possible! This protocol attempts to supplement (and certainly does not override) the [citation](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/ddb6497dcf3c88fff4d19693a711da1f9a6e24f6/CITATION.cff) file and the [licence](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/LICENCE.md). As the licence is [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), references to _The Timeline_ must be attributed appropriately.
+
+In-line references to _A History of Research Ethics_ can be made by referencing either:
+* Kherroubi Garcia et al., 2021; or, if a specific story is being referenced,
+* Kherroubi Garcia et al., 2021: §[story name].
+
+For example:
+> Kherroubi Garcia et al. (2021) claim [...].
+
+> Autonomy is a key value in modern bioethics (Kherroubi Garcia et al., 2021: §The Principle of Patient Autonomy).
+
+The preferred citation style in bibliographies (as the [citation](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/ddb6497dcf3c88fff4d19693a711da1f9a6e24f6/CITATION.cff) file might be unclear) is: Kherroubi Garcia et al. (2021) [story name if you reference only one, In] _A History of Research Ethics_, DOI: [10.5281/zenodo.5731453](https://doi.org/10.5281/zenodo.5731453). For example:
+
+> Kherroubi Garcia et al. (2021) _A History of Research Ethics_, DOI: [10.5281/zenodo.5731453](https://doi.org/10.5281/zenodo.5731453)
+
+> Kherroubi Garcia et al. (2021) The Principle of Patient Autonomy, In _A History of Research Ethics_, DOI: [10.5281/zenodo.5731453](https://doi.org/10.5281/zenodo.5731453)
+
+# Protocol 3: Contribution Types
 This protocol establishes the roles that contributors may fall under. Similar to [CRediT](https://casrai.org/credit/), the point is to acknowledge the different types of effort contributors bring to the wider project. In the case of _The Timeline_, emphasis is on types of contribution rather than categorising contributors. This can help if, in the future, a contributor wants to show evidence (to potential employers, etc.) that they can make a certain type of contribution - that they have a certain skill. The below taxonomy can also be used by potential contributors to see how they might support the creation and maintenance of _A History of Research Ethics_.
 
 It is worth noting that there is a low bar for becoming a contributor to this project. At present, practically taking the time to discuss the project with me (@Ismael-KG) will render you a contributor. I intend that to continue being the case, and to be clear that all contributions are deemed equally valuable.
@@ -53,7 +71,7 @@ It would be unfair to create a system where anybody can contribute yet nobody ga
 
 Similarly, stories will end with an acknowledgements section, listing stories-type contributions and the people behind them.
 
-# Protocol 3: Lifecycle of a Story
+# Protocol 4: Lifecycle of a Story
 There are 7 stages to the development of stories for _The Timeline_. Each one can be repeated, and you can always revisit previous steps. You are also encouraged to develop stories (i) with the help of others and (ii) by creating an issue using the "lightbulb moments 💡" template.
 ## Step 1: Idea generation
 This is where you can put your most creative self to work. There are at least two approaches to idea generation:
@@ -84,7 +102,7 @@ On the day after the end of the pre-publication peer review, the new story is re
 ## Step 7: Publish on [tiki-toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/)
 [@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish new stories on the tiki-toki platform, as he has the admin rights.
 
-# Protocol 4: Style Guide
+# Protocol 5: Style Guide
 This protocol is intended for stories to adhere to some loose rules. By writing stories following the below, they can fit into a more consistent whole.
 ## All stories must have
 * A short title
@@ -146,7 +164,7 @@ Given the diverse audiences _The Timeline_ seeks to adapt to, the below guidelin
 * On breaking down barriers, take readers on a journey with you. Learn together and speak in terms of "we." For example: "In this story, _we_ will visit the complexity of conducting research in environments where _we_ don't share the training that _our_ colleagues have" (roughly).
 * The language employed can be informal. Feel free to use contractions, for example, and see Nordqist ([2020](https://www.thoughtco.com/informal-style-prose-1691170)) for more on informal language. But informality must not detract from clarity, or undermine the severity of stories or certain parts of stories. More formal tones can be employed when discussing more technical aspects of stories, either the ethical frameworks that they hint at, or any field-specific knowledge that might need spelling out.
 
-# Protocol 5: Reliable Sources
+# Protocol 6: Reliable Sources
 <img width="538" alt="@EthicsInBricks on Twitter provide an image of a LEGO version of Diogenes saying 'don't believe everything you read online'" src="https://user-images.githubusercontent.com/64027166/143767239-c31e6d14-3b26-4a7c-94ce-83d5270e9c6a.png">
 
 The quality of stories in _A History of Research Ethics_ will depend on their accuracy. Accuracy in recounting historical events - from their dates to their main characters and broader context - requires drawing on reliable sources. Whilst no source is shielded from corruption and history is often written by the vistors, I suggest taking a leap of faith and employing a variety of some of the following sources when backing up claims in stories:
