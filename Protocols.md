@@ -2,10 +2,11 @@
 Protocols for _A History of Research Ethics_ are on different topics. Their one defining element is their flexibility. Neither of the below protocols are set in stone, nor shielded from critique. Rather, contributors should feel welcome to create issues to discuss ideas for improving these protocols as per Protocol 2.
 ### Navigate to a protocol:
 * [Protocol 1: Code of Conduct](#Protocol-1-Code-of-Conduct)
-* [Protocol 2: Contribution Types](#Protocol-2-Contribution-Types)
-* [Protocol 3: Lifecycle of a Story](#Protocol-3-Lifecycle-of-a-Story)
-* [Protocol 4: Style Guide](#Protocol-4-Style-Guide)
-* [Protocol 5: Reliable Sources](#Protocol-5-Reliable-Sources)
+* [Protocol 2: Referencing _The Timeline_](#Protocol-2-Referencing-The-Timeline)
+* [Protocol 3: Contribution Types](#Protocol-3-Contribution-Types)
+* [Protocol 4: Lifecycle of a Story](#Protocol-4-Lifecycle-of-a-Story)
+* [Protocol 5: Style Guide](#Protocol-5-Style-Guide)
+* [Protocol 6: Reliable Sources](#Protocol-6-Reliable-Sources)
 # Protocol 1: Code of Conduct
 ## Code of Conduct
 A key purpose of _A History of Research Ethics_ is to demonstrate the variety of disciplines and backgrounds that can help gain a richer notion of research ethics. Whilst this "richness" needs spelling out, this is not the place for that. This is the place where we note the pernicious aspects of human nature, which become particularly salient when we encounter voices we are not accustomed to and perspectives that differ from our own in areas we are especially passionate about. The necessity for diversity in a project such as _A History of Research Ethics_ can result in clashes or conflicts. This code will continue to be improved, but it sets out two things: (i) expected behaviours when contributing to the present repository, and (ii) methods for resolution.
