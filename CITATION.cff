@@ -1,0 +1,25 @@
+cff-version: 1.0.0
+message: "Please cite _A History of Research Ethics_ as below."
+authors:
+- family-names: "Kherroubi Garcia"
+  given-names: "Ismael"
+  orcid: "https://orcid.org/0000-0002-6850-8375"
+- family-names: "al."
+  given-names: ""
+title: "A History of Research Ethics"
+version: 0.0.1
+doi: 10.5281/zenodo.5731453
+date-released: 2021-11-27
+url: "https://github.com/Ismael-KG/A-History-of-Research-Ethics"
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: "Kherroubi Garcia"
+    given-names: "Ismael"
+    orcid: "https://orcid.org/0000-0002-6850-8375"
+  - family-names: "al."
+    given-names: ""
+  doi: "10.5281/zenodo.5731453"
+  journal: "A History of Research Ethics"
+  title: "[Insert title of a story if you reference only one]"
+  year: 2021
