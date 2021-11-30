@@ -178,6 +178,36 @@ The quality of stories in _A History of Research Ethics_ will depend on their ac
 
 This is not to say that other sources cannot be employed or that these are perfect. Feel free to work with Wikipedia, for example, when looking for ideas. Wikipedia often links to sources that are best drawn on to adhere to the principle of _reliability_.
 
+# Protocol 7: Public Engagement
+## Intended Audiences
+The potential audience of _A History of Research Ethics_ is formed by:
+* **People who want to learn more about research ethics or the history of science.** For these audiences, who do not need to be experts in any particular field, make sure that titles are short and clear, that the intro line describes the importance of the story, and that the abstract (first paragraph) is clear as to what the event entailed and why it carries "ethical significance."
+* **Research governance folk**, such as legal teams, policy makers, and even human resources departments. This audience requires that the timeline not ignore the important role of legal frameworks and legal literature in shaping modern research ethics. This audience also requires that the very diverse parties who influence the implementation of research governance -- more or less wittingly -- have their voices heard. "Technical accuracy" in describing scientific findings, for this audience, can be seen as less important than actionable guidance.
+* **Researchers**, by which I mean the infinite range between master's students in theology and tenured professors in astrophysics.
+## Platforms
+These diverse audiences require using different platforms to reach them. The broader the range of employed platforms, the better, although each requires its own work and should always link back to Tiki-Toki or GitHub:
+* The present [repository](https://github.com/Ismael-KG/A-History-of-Research-Ethics) is where all changes are made, ideas shared and changes tracked. The DOI means the repo can be releasedon [Zenodo](https://zenodo.org/record/5731453#.YaT78tDP02w), and [CiteAs](https://citeas.org/cite/10.5281/zenodo.5731453).
+* [Tiki-Toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/) is the visually appealing platform employed for sharing stories, right after they have been shared on the repository.
+* [Medium](https://medium.com/) can be used to share series of related stories. The first of these was about the four oldest European science academies (see the first of the six-part series [here](https://ismaelkg.medium.com/internal-politics-in-europes-oldest-science-institute-2b265c130da1)). The reason Medium might be useful is its simple blog format, where stunning images can be shared, unlike on Tiki-Toki.
+* [Twitter](https://twitter.com/home) is a great place to share links, find possible readers, and connect with potential contributors.
+* [LinkedIn](https://www.linkedin.com/) also hosts blog posts and shorter status updates. It can be used to specifically reach professionals in governance and policy-making.
+## Calls to Action
+Audiences are also encouraged to become contributors. For this reason, when sharing tweets, blog posts, etc., there must be a clear call to action. Don't forget to link back either to Tiki-Toki or GitHub!
+
+Example calls to action:
+> Read more on [Tiki-Toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/)!
+
+> Please contribute via [GitHub](https://github.com/Ismael-KG/A-History-of-Research-Ethics)!
+
+> See what stories can gain from your review on [HackMD](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q?both)!
+
+> Join the conversation by tweeting #AHistoryOfResearchEthics https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/
+
+## Advocacy
+In cases where very kind and supportive people share the joys of _The Timeline_, they must, of course, be celebrated! 🎉
+
+Raise an issue using the "Communications 🌐" template to share any external references to _The Timeline_. In the case that a reference is made by someone who is not a contributor, but shared _A History of Research Ethics_ as a useful resource or fun project, consider reaching out and asking whether they would like to be listed as an advocate in [In the media.md](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/ceb149891ba7983c5cac03bb40a72b824e9556ee/In%20the%20media.md).
+
 Protocol 1's principles of _impartiality_ and _charitability_ are crucial to ensure the reliability of sources.
 * _Impartiality_  amounts to your own background as a contributor. Whilst we all - wittingly or not - align to some ideology or other, we must (i) seek out sources that might surprise us or not conform to our prejudices, but also (ii) critically evaluate sources. For this reason, various sources must be drawn on to corroborate statements and the validity of analyses.
 * _Charitability_ is necessary when engaging with sources where arguments are unclear to our minds. We must be open to engaging with these in good faith, and begin by giving them the benefit of the doubt. In other words, work from the assumption that sources are clear and rational. Then, provide charitable interpretations. These can then be critically evaluated and refuted on clearer grounds.
