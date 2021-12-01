@@ -17,7 +17,7 @@ date: 2021-01-12 10:47
 
   {% if page.layout == "story" %}
 
-  <li><a class="page-link" href="{{ page.url }}">{{ page.title }}</a></li>
+  <li>- <a class="page-link" href="{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
 
   {% endfor %}
