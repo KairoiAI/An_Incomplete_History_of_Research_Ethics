@@ -1,51 +1,22 @@
-<!-- *Copy and paste this file's text (in raw, without rendering) into new files for new stories. -->
-
-### Basic Info
-
-**Title:**
-<!-- Insert title for this story in line 7. The name of the GitHub file above must be: "[BCE or CE] YYYY [TITLE].md". For example, an event in 530 BC with the title "Thales falls into a well" would be called "BCE 0530 Thales falls into a well.md" -->
-Durkheim coins "collective consciousness"
-
-**Date:**
-<!-- Type in line 11 the date of this story, and link to a source confirming the selected date -->
-(Durkheim, [1893](http://classiques.uqac.ca/classiques/Durkheim_emile/division_du_travail/division_travail.html); [1933](https://www.semanticscholar.org/paper/The-Division-of-Labor-in-Society-Durkheim/4a0f70d42c268a8fa0c5864baa284013dedfd9ea)).
-
-**Intro:**
-<!-- Share in line 15 a brief intro to the story (keep it under 240 characters) -->
-The term can be seen as referring to a sort of "group mind," but has also been viewed as a "moral conscience" for collectives.
-
-**Category:** 
-<!-- Select one (and ONLY ONE) by typing "x" between "[ ]". -->
-
-- [ ] Opening Up Knowledge;
-- [ ] Legislation, Declarations & Frameworks;
-- [x] Improving Research; or
-- [ ] Research Tragedies
-
-**Link:**
-<!-- Not necessary, can say "N/A" or be a link to the story's pertinent document/article/book; as an example, the *Code of Hammurabi* links to the very [*Code of Hammurabi*](https://avalon.law.yale.edu/ancient/hamframe.asp). Type in line 27. -->
-
-
-### Media
-
-**Source:** 
-<!-- Share in line 33 direct link to an image that can be shared following its copyright; [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia) is a good place to look -->
-https://cdn.britannica.com/46/199546-050-4F20F068/Emile-Durkheim.jpg
-
-**Caption:** 
-<!-- Insert a description of the image in line 37; be detailed as this will serve as ALT text -->
-A black and white image of Émile Durkheim. Source: Encyclopædia Britannica.
-
-### Tags
-<!-- Type "x" between "[ ]" for all revelvant tags: -->
-
-- [ ] How We Do Things, 
-- [ ] What We Value, 
-- [x] Science Influencers, and/or 
-- [ ] Bioethics
-
-### Extra Info
-<!-- Paste the story onto line 49! Remember: a line is a paragraph and a blank line must be placed between paragraphs. -->
+---
+layout: story
+title: "Émile Durkheim coins "collective consciousness""
+historical-date:
+  title: "1893"
+  bce: false
+  year: 1893
+  source: http://classiques.uqac.ca/classiques/Durkheim_emile/division_du_travail/division_travail.htm 
+  author: Durkheim
+  source-date: 1890
+category: improving-research
+tags: ["Science Influencers"]
+media:
+  source: https://cdn.britannica.com/46/199546-050-4F20F068/Emile-Durkheim.jp
+  caption: "A black and white image of Émile Durkheim. Source: Encyclopædia Britannica."
+read-more: https://www.semanticscholar.org/paper/The-Division-of-Labor-in-Society-Durkheim/4a0f70d42c268a8fa0c5864baa284013dedfd9ea
+intro: The term can be seen as referring to a sort of "group mind," but has also been viewed as a "moral conscience" for collectives.
+---
+### The Story
 Émile Durkheim was a prominent nineteenth- and early-twentieth-century sociologist. His work was ground-breaking in his analysis of the relationship between groups and their members. In his 1897 book on suicide (Durkheim, [2006](https://www.google.co.uk/books/edition/On_Suicide/Dk31PO6cLW4C?hl=en&gbpv=0)), he argues that suicide has a social dimension; it is not a purely individualistic act but one that is linked to one's social environment. In an earlier chapter from 1895 ([1938](https://psycnet.apa.org/record/1938-15037-000); [1994](https://mitpress.mit.edu/books/readings-philosophy-social-science): §27), Durkheim presents us with the idea that there are social cues that we draw on when in groups, and that these effectively constrain how we, as individuals, act.
 
 Famously, he has been attributed with coining "collective conscience" or, in French, "conscience collective." However, I dug a bit deeper and put my #NotAHistorian skills to work. At least two other authors used the term before Durkheim, according to [Google Books Ngram Viewer](https://books.google.com/ngrams/graph?content=conscience+collective&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2Cconscience%20collective%3B%2Cc0).
