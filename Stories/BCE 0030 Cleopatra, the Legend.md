@@ -2,20 +2,20 @@
 layout: story
 title: "Cleopatra, the Legend"
 historical-date:
-  title: "30 BC, when she took her life."
+  title: "30 BCE, when she took her life"
+  bce: true
+  year: 30
   source: https://www.britishmuseum.org/collection/term/BIB2618
   author: Walker & Higgs
   source-date: 2001
 category: research-tragedies
-tags: ["Science Influencers", "Bioethics"]
+tags: ["Bioethics","Science Influencers"]
 media:
   source: https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_6/f80b523f_7949_4fa7_a4bd_a3c5006f5f1c/mid_00916822_001.jpg
   caption: Two sides of a silver coin. On the left, the front of the coin depicts a bust of Cleopatra VII, who faces right and wears a diadem. The  border of dots. On the right, the reverse of the coin shows an eagle standing on a thunderbolt, facing left. Behind the eagle, there is aa palm branch on one side and a dove on the other. © The Trustees of the British Museum.
 intro: Two stories attributed to the last pharoah of Ancient Egypt teach us about authorship in science, but also of a terrible research tragedy.
 ---
-
-### Extra Info
-
+### The Story
 Cleopatra VII, the last active Pharoah of Ancient Egypt, lived between about 70 and 30 BC (Walker & Higgs, [2001](https://www.britishmuseum.org/collection/term/BIB2618)). She has long been studied by historians, and brought into the mainstream through portrayals as diverse as Shakespeare's 1607 "Antony and Cleopatra" (Royal Shakespeare Company, [n.d.](https://www.rsc.org.uk/shakespeares-plays/timeline)) and Elizabeth Taylor's performance in the 1963 movie "Cleopatra" (IMDB, [n.d.](https://www.imdb.com/title/tt0056937/)). The "cult" (Daly, [2005](https://www.routledge.com/Egyptology-The-Missing-Millennium-Ancient-Egypt-in-Medieval-Arabic-Writings/Daly/p/book/9781598742800): 137) that has formed around Cleopatra's person throughout the ages means that a great deal of speculation and myth have been linked with her. Here, I wish to spell out two stories relevant to research ethics but only pertaining to Cleopatra VII due to some historical confusion. For clarity, I will speak of Cleopatra VII to refer to the pharoah we all know. Meanwhile, the two stories are about Cleopatra, the physician; and Cleopatra, the bad scientist.
 
 "Cleopatra, the physician," ([ibid.](https://www.routledge.com/Egyptology-The-Missing-Millennium-Ancient-Egypt-in-Medieval-Arabic-Writings/Daly/p/book/9781598742800): 134) might have existed, but she seems to be a different Cleopatra than Cleopatra VII. Daly ([ibid.](https://www.routledge.com/Egyptology-The-Missing-Millennium-Ancient-Egypt-in-Medieval-Arabic-Writings/Daly/p/book/9781598742800)) tells us that Cleopatra the physician was believed to be a teacher of Galen, a Greek physician who lived in the second century AD (Harper Collins Publishers, [n.d.](https://www.collinsdictionary.com/dictionary/english/galen)). But Cleopatra teaching Galen seems to be an idea traceable to medieval biographies of Galen. Daly concludes that the link is unclear (see also Burgdorf & Hoenig, [2015](https://10.1001/jamadermatol.2014.2239).
