@@ -1,38 +1,22 @@
-### Basic Info
-
-**Title:** Academia Naturae Curiosorum
-
-**Date:** 
-
-01-Jan 1652 as per [their site](https://www.leopoldina.org/en/about-us/about-the-leopoldina/history/the-history-of-the-leopoldina/).
-
-**Intro:** 
-
-A highly specialised medical science institute is established in Schweinfurt, Germany.
-
-**Category:** 
-
-Opening Up Knowledge
-
-**Link:** 
-
-https://www.leopoldina.org/en/about-us/
-
-### Media
-
-**Source:** 
-
-https://upload.wikimedia.org/wikipedia/commons/b/ba/Miscellanea_Curiosa_Medico-Physica_Academiae_Naturae_Curiosorum_%281670%29_%2814589499290%29.jpg
-
-**Caption:** 
-
-Frontispiece of the Leopoldina’s scientific journal Miscellanea Curiosa. The Miscellanea Curiosa have been published since 1670. The motto “nunquam otiosus” means “never idle.” Source: Wikimedia Commons.
-
-### Tags
-
-How We Do Things, What We Value.
-
-### Extra Info
+---
+layout: story
+title: "Academia Naturae Curiosorum"
+historical-date:
+  title: "01-Jan 1652"
+  bce: false
+  year: 1652
+  source: https://www.leopoldina.org/en/about-us/about-the-leopoldina/history/the-history-of-the-leopoldina/
+  author: their site
+  source-date: n.d.
+category: opening-knowledge
+tags: ["HowWeDoThings","WhatWeValue"]
+media:
+  source: https://upload.wikimedia.org/wikipedia/commons/b/ba/Miscellanea_Curiosa_Medico-Physica_Academiae_Naturae_Curiosorum_%281670%29_%2814589499290%29.jpg
+  caption: "Frontispiece of the Leopoldina’s scientific journal Miscellanea Curiosa. The Miscellanea Curiosa have been published since 1670. The motto “nunquam otiosus” means “never idle.” Source: Wikimedia Commons."
+read-more: https://www.leopoldina.org/en/about-us/
+intro: A highly specialised medical science institute is established in Schweinfurt, Germany.
+---
+### The Story
 The seventeenth century marked a turning point in knowledge-production. By the time four physicians got together to establish the Academia Naturae Curiosorum in Schweinfurt, Germany, the world had already seen the value of [the scientific institute in Italy](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16571102!) and learned of empirical approaches to science in Francis Bacon's "Novum Organum." In fact, these had been sources that the Academia's main founder and first president, Johann Lorenz Bausch, had drawn on for inspiration (Nature Publishing Group, [1937](https://doi.org/10.1038/140179a0)). This story will trace some of the most important changes that were instigated by governmental interventions. After seeing the case of the German Academia, I consider the other three oldest scientific institutes in operation today: the Italian Accademia dei Lincei, the British Royal Society and the French Académie des Sciences.
 
 Similarly to the Italian [Accademia dei Lincei](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16571102!), the first few years of the German Academia do not provide many notable events, other than their increase in membership to about twenty physicians within a decade (Whaley, [2011](https://doi.org/10.1093/acprof:oso/9780199693078.003.0001): 91). It isn't until 1670 that the physicians develop Miscellanea Curiosa Medico-Physica, a publication for the compilation and distribution of knowledge in medicine (Leopoldina.org, [n.d.a](https://www.leopoldina.org/en/about-us/about-the-leopoldina/history/the-history-of-the-leopoldina/)). Unlike the [Journal des Sçavans](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16554675!) and the [Philosophical Transactions](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443519!) that preceded it, the Micellanea were extremely constrained by their focussed topic from the start. This meant that the journal was not known of outside its very specific niche (Laeven, [1990](https://www.si.edu/object/siris_sil_682500): 19).
