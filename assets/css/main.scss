@@ -1,0 +1,86 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset  "utf-8";
+// Our variables
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size: 16px;
+$small-font-size: $base-font-size * 0.875;
+$base-line-height: 1.5;
+$spacing-unit: 30px;
+$text-color: #111;
+$background-color: #fdfdfd;
+$brand-color: #2a7ae2;
+$grey-color: #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark: darken($grey-color, 25%);
+// Width of the content area
+$content-width: 800px;
+$on-palm: 600px;
+$on-laptop: 800px;
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+   @media screen and (max-width: $device){
+    @content;
+  }
+}
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "base", "layout", "syntax-highlighting";
+@mixin tag {
+  display: inline-block;
+  background: #eee;
+  padding: 0.2em 0.4em;
+  border-radius: 2px;
+}
+
+.tag {
+  @include tag;
+}
+
+.tags li {
+  @include tag;
+  list-style-type: none;
+  border: dashed 1px  $grey-color-dark;
+  margin-bottom:0;
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  fill: rgba(0,0,0,0.15);
+}
+
+h1,
+h2,
+h3 {
+  text-transform: capitalize;
+}
+// I was lazy figuring out the css for the dl layout. Thanks
+// https://stackoverflow.com/questions/1713048/how-to-style-dt-and-dd-so-they-are-on-the-same-line/21261303
+// Answer author: yckart: https://stackoverflow.com/users/1250044/yckart
+
+dl {
+  display: grid;
+  grid-template-columns: max-content auto;
+}
+
+dt {
+  grid-column-start: 1; font-weight:bold; margin-right:1em;
+}
+
+dd {
+  grid-column-start: 2;
+}
+
+.story-info  {
+  background-color:$grey-color-light;
+  padding:$spacing-unit/4 $spacing-unit/2
+}

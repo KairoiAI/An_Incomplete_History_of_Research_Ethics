@@ -1,36 +1,17 @@
-### Basic Info
-**Title:** 
-
-Thank the Scribes!
-
-**Date:** 
-
-3250 BC
-
-**Intro:** 
-
-The ancient scribe shows that we have been recording knowledge throughout the ages.
-
-**Category:** 
-
-Opening Up Knowledge
-
-**Link:** 
-
-N/A
-
-### Media
-**Source:** 
-
-https://upload.wikimedia.org/wikipedia/commons/4/44/Luxor_temple_16.jpg
-
-**Caption:** 
-
-Seshat carved on the back of the throne of the seated statue of Rameses II in the Amun temple at Luxor. It dates from around 1250 BCE.
-
-### Tag(s)
-
-WhatWeValue
+---
+layout: story
+title: "Thank the Scribes!"
+historical-date:
+  title: "3250 BC"
+  bce: false
+  year: 3250
+category: opening-knowledge
+tags: ["WhatWeValue"]
+media:
+  source: https://upload.wikimedia.org/wikipedia/commons/4/44/Luxor_temple_16.jpg
+  caption: Seshat carved on the back of the throne of the seated statue of Rameses II in the Amun temple at Luxor. It dates from around 1250 BCE.
+intro: The ancient scribe shows that we have been recording knowledge throughout the ages.
+---
 
 ### Extra Info
 
