@@ -8,7 +8,7 @@ historical-date:
   source: https://doi.org/10.1111/j.1365-2125.2006.02673.x
   author: Hsu
   source-date: 2006
-category: "Improving Research"
+category: Improving-Research
 tags: ["HowWeDoThings","ScienceInfluencers","WhatWeValue"]
 media:
   source: https://www.researchgate.net/profile/Ernst-Hempelmann/publication/325870605/figure/fig1/AS:639517954433027@1529484370975/Ge-Hong-Emergency-Prescription-kept-in-ones-Sleeve-chapter-316-first-recorded-qing_W640.jpg
