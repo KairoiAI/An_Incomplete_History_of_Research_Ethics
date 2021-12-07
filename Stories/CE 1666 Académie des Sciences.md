@@ -1,34 +1,22 @@
-### Basic Info
-
-**Title:** 
-Académie des Sciences
-
-**Date:** 
-22-Dec 1666 as per [their site](https://www.academie-sciences.fr/en/Histoire-de-l-Academie-des-sciences/history-of-the-french-academie-des-sciences.html).
-
-**Intro:**
-A brief history of the Académie des Sciences’ “Comptes Rendus” and moving ancient publications online.
-
-**Category:**
-Opening Up Knowledge
-
-**Link:** 
-https://www.academie-sciences.fr/en/Histoire-de-l-Academie-des-sciences/history-of-the-french-academie-des-sciences.html
-
-### Media
-
-**Source:** 
-https://gallica.bnf.fr/ark:/12148/bpt6k35013/f1.highres
-
-**Caption:**
-Frontpiece of the third edition of the 1699 publication of Histoire et Mémoirs. Source: Gallica.
-
-### Tags
-
-How We Do Things, What We Value.
-
-### Extra Info
-
+---
+layout: story
+title: "Académie des Sciences"
+historical-date:
+  title: "22-Dec 1666 as per"
+  bce: false
+  year: 1666
+  source: https://www.academie-sciences.fr/en/Histoire-de-l-Academie-des-sciences/history-of-the-french-academie-des-sciences.html
+  author: their site
+  source-date: n.d.
+category: opening-knowledge
+tags: ["How We Do Things","Science Influencers"]
+media:
+  source: https://gallica.bnf.fr/ark:/12148/bpt6k35013/f1.highres
+  caption: "Frontpiece of the third edition of the 1699 publication of Histoire et Mémoirs. Source: Gallica."
+read-more: https://www.academie-sciences.fr/en/Histoire-de-l-Academie-des-sciences/history-of-the-french-academie-des-sciences.html
+intro: A brief history of the Académie des Sciences’ “Comptes Rendus” and moving ancient publications online.
+---
+### The Story
 By the time the Académie des Sciences was established, at least three other major scientific institutes had already been in operation: the Italian [Accademia dei Lincei](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16571102!), the German [Academia Naturae Curiosorum](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443513!) and the British [Royal Society](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443519!). With the first three parts of this series, we learned about how internal politics and governmental influence can impact science, as well as how modern peer review emerged. The present story of the Académie des Sciences will focus on the relationship between academic institutions and the press. This will segue into recent adaptations of three research journals: the Journal des Sçavans, Philosophical Transactions, and the Académie's very own Comptes Rendus.
 
 The Académie des Sciences was established in 1666 and became a formal advisory body to the French government in 1699 (McLellan, [1981](https://www.jstor.org/stable/231248)). It was then that they started publishing Histoire et Mémoirs ([1699](https://gallica.bnf.fr/ark:/12148/cb32786820s/date)), as well as yearly accounts of their activities (Harduin Duparc, [2017](https://doi.org/10.1016/j.crhy.2017.10.017): 495). With the French Revolution in 1789, the Académie's activities slowed down and it was altogether dissolved in 1793 ([ibid.]((https://doi.org/10.1016/j.crhy.2017.10.017)). In 1795, the new National Institute of Sciences and Arts continued the yearly publication. The Académie des Sciences, as we now call it, became an autonomous institution in 1816.
