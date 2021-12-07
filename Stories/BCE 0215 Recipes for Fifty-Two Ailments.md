@@ -3,18 +3,16 @@ layout: story
 title: "Recipes for Fifty-Two Ailments"
 historical-date:
   title: "215 CE"
+  bce: false
+  year: 215
   source: https://www.routledge.com/Early-Chinese-Medical-Literature/Harper/p/book/9781138968080
   author: Harper
   source-date: 1998
-category: Improving Research
+category: improving-research
 tags: ["How We Do Things", "What We Value","Bioethics"]
-media:
-  source: link
-  caption: ALT text + source
 intro: A precursor to China's long tradition of "materia medica" serves as an early standard for the modern pharmacopoeia.
 ---
-
-### Extra Info
+### The Story
 <!-- Paste the story onto line 49! Remember: a line is a paragraph and a blank line must be placed between paragraphs. -->
 [Šulgi of Ur](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16475774!) taught us the of importance of standardising how entire societies track time by imposing a unique calendar across Mesopotamia. The modern pharmacopoeia does something similar, but with the ingerdients and methods for making medications. As with most - if not all - concepts and terms, the pharmacopoeia has changed signifantly throughout the ages. The first pharmacopoeia can be found in third-century BC China.
 
