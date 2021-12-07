@@ -1,39 +1,20 @@
-### Basic Info
-
-**Title:**
-Atomic Bomb, Part II
-
-**Date:**
-01-Aug 1942 based on [the first graph here](http://blog.nuclearsecrecy.com/2013/11/01/many-people-worked-manhattan-project/).
-
-**Intro:**
-[Brief intro in under 240 characters]
-
-**Category:** 
-[Select one: (1) Opening Up Knowledge; (2) Legislation, Declarations & Frameworks; (3) Improving Research; or (4) Research Tragedies]
-
-**Link:**
-N/A
-
-### Media
-
-**Source:** 
-https://www.atomicheritage.org/sites/default/files/Manhattan_Project_emblem_4.png
-
-**Caption:** 
-The Manhattan Project insignia. It is round and reads "Manhattan Project A Bomb". The A takes up most of the insignia and a castle is drawn at the bottom. Source: Atomic Heritage Foundation.
-
-### Tags
-
-[Type "x" between "[ ]" for all revelvant tags:]
-
-- [x] How We Do Things, 
-- [x] What We Value, 
-- [ ] Science Influencers, and/or 
-- [ ] Bioethics
-
-### Extra Info
-
+---
+layout: story
+title: "Atomic Bomb, Part II"
+historical-date:
+  title: "01-Aug 1942"
+  bce: false
+  year: 1942
+  source: http://blog.nuclearsecrecy.com/2013/11/01/many-people-worked-manhattan-project/
+  source-date: see first graph
+category: research-tragedies
+tags: ["Bioethics", "How We Do Things","Science Influencers","What We Value"]
+media:
+  source: https://www.atomicheritage.org/sites/default/files/Manhattan_Project_emblem_4.png
+  caption: "The Manhattan Project insignia. It is round and reads "Manhattan Project A Bomb". The A takes up most of the insignia and a castle is drawn at the bottom. Source: Atomic Heritage Foundation."
+intro: The world's first moonshot is aimed at defeating the Nazis in creating nuclear weapons.
+---
+### The Story
 [Einstein's 1939 letter](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!date=1939-08-02_00:00:00!) (links to a previous story) urged President Roosevelt to pursue a programme that would beat the Nazis in building nuclear weapons. The programme would eventually become the Manhattan Project, the world's first moonshot (Casadevall & Fang, [2016](https://doi.org/10.1128/mBio.01381-16)).
 
 Various criteria render this programme a moonshot. As Malliaraki defines:
