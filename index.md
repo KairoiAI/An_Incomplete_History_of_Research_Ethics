@@ -17,7 +17,13 @@ date: 2021-01-12 10:47
   {% if page.layout == "story" %}
 
   <li><a class="page-link" href="{{ page.url | prepend : site.baseurl }}">
-  {{page.historical-date.event-date | date : "%Y"}} :
+  {{page.historical-date.year}}
+  {% if page.historical-date.bce %}
+    BCE
+  {% else %}
+    CE
+  {% endif %}
+  :
   {{ page.title }}
   </a></li>
   {% endif %}
