@@ -9,7 +9,7 @@ historical-date:
   author: Biagioli
   source-date: 1993
 category: opening-knowledge
-tags: ["HowWeDoThings","WhatWeValue","ScienceInfluencers"]
+tags: ["How We Do Things","What We Value","Science Influencers"]
 media:
   source: https://upload.wikimedia.org/wikipedia/commons/3/36/Lynceographum_title_page.jpg
   caption: "The title page of the Accademia's statutes. the Lynceographum. It includes a large drawing of their logo: a lynx at the centre of a wreath that has a large crown at its top. Source: Wikimedia."
