@@ -1,5 +1,3 @@
-<!-- *Copy and paste this file's text (in raw, without rendering) into new files for new stories. -->
-
 ---
 layout: story
 title: "Ge Hong & Bao Gu"
