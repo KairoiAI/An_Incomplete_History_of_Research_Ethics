@@ -3,19 +3,19 @@ layout: story
 title: "Ebers Papyrus"
 historical-date:
   title: "1500 BCE, as per p. xiv"
+  bce: true
+  year: 1500
   source: https://babel.hathitrust.org/cgi/pt?id=coo.31924073200077&view=1up&seq=16&skin=2021
   author: Bryan
   source-date: 1930
-category: Improving Research
+category: improving-research
 tags: ["How We Do Things", "Bioethics"]
 media:
   source: https://cdn.britannica.com/s:1500x700,q:85/65/131165-004-CF90496B/Ebers-papyrus-prescription-asthma-treatment.jpg
   caption: Ebers papyrus prescription for asthma treatment. Symbols are written in colours alternating from red to black. The papyrus is of a reddish-brown. From Encyclopædia Britannica.
 intro: An ancient compilation of medical texts.
 ---
-
-### Extra Info
-
+### The Story
 The Ebers Papyrus is named after its 19th century owner. The ancient document was initially translated to German in 1890 by Joachim (Jastrow, [1913](https://doi.org/10.1177/003591571400701610): 166). It was then Cyril P. Bryan who translated Joachim's work to English in 1930 (Bryan, [1930](https://hdl.handle.net/2027/coo.31924073200077)). With this, it is worth noting the various lenses texts are put through before reaching us. The German translation, furthermore, is of a papyrus that compiles folklore and medical knowledge from five hundred and even two thousand years earlier! So, the scribe who painstakingly compiled those ancient artefacts also had to use their judgement - they offered their own interpretation. No matter how adequate or naive a body of knowledge, it must be interpreted to be shared.
 
 Smith draws on Dawson ([1929](https://wellcomecollection.org/works/rdhsenpw)) when introducing Bryan's 1930 translation: "[the Ebers Papyrus] consists mainly of a large collection of prescriptions for a number of named ailments, specifying the names of the drugs, the quantities of each, and the method of administration. A few sections deal with diagnosis and symptoms, another passage is physiological in character and describes the action of the heart and its vessels, and the concluding portion is surgical, being concerned with the treatment of wounds and suppurating sores. Freely interspersed amongst these elements are spells and incantations" (Bryan, [1930](https://hdl.handle.net/2027/coo.31924073200077): 15).
