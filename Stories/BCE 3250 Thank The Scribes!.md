@@ -1,17 +1,14 @@
 ---
 layout: story
-title: "Cleopatra, the Legend"
+title: "Thank the Scribes!"
 historical-date:
-  title: "30 BC, when she took her life."
-  source: https://www.britishmuseum.org/collection/term/BIB2618
-  author: Walker & Higgs
-  source-date: 2001
-category: research-tragedies
-tags: ["Science Influencers", "Bioethics"]
+  title: "3250 BC"
+category: opening-knowledge
+tags: ["WhatWeValue"]
 media:
-  source: https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_6/f80b523f_7949_4fa7_a4bd_a3c5006f5f1c/mid_00916822_001.jpg
-  caption: Two sides of a silver coin. On the left, the front of the coin depicts a bust of Cleopatra VII, who faces right and wears a diadem. The  border of dots. On the right, the reverse of the coin shows an eagle standing on a thunderbolt, facing left. Behind the eagle, there is aa palm branch on one side and a dove on the other. © The Trustees of the British Museum.
-intro: Two stories attributed to the last pharoah of Ancient Egypt teach us about authorship in science, but also of a terrible research tragedy.
+  source: https://upload.wikimedia.org/wikipedia/commons/4/44/Luxor_temple_16.jpg
+  caption: Seshat carved on the back of the throne of the seated statue of Rameses II in the Amun temple at Luxor. It dates from around 1250 BCE.
+intro: The ancient scribe shows that we have been recording knowledge throughout the ages.
 ---
 
 ### Extra Info
