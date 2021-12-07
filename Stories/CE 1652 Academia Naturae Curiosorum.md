@@ -9,7 +9,7 @@ historical-date:
   author: their site
   source-date: n.d.
 category: opening-knowledge
-tags: ["HowWeDoThings","WhatWeValue"]
+tags: ["How We Do Things","What We Value"]
 media:
   source: https://upload.wikimedia.org/wikipedia/commons/b/ba/Miscellanea_Curiosa_Medico-Physica_Academiae_Naturae_Curiosorum_%281670%29_%2814589499290%29.jpg
   caption: "Frontispiece of the Leopoldina’s scientific journal Miscellanea Curiosa. The Miscellanea Curiosa have been published since 1670. The motto “nunquam otiosus” means “never idle.” Source: Wikimedia Commons."
