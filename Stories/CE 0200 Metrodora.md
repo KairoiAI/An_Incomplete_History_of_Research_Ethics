@@ -8,7 +8,7 @@ historical-date:
   source: https://doi.org/10.1177/1553350613485304
   author: Gregory et al.
   source-date: 2013
-category: Improving Research
+category: improving-research
 tags: ["WhatWeValue", "ScienceInfluencers"]
 media:
   source: https://www.researchgate.net/profile/Antonis-Kousoulis/publication/260446754/figure/fig2/AS:324611670593537@1454404861412/Cleopatra-Metrodora-2_W640.jpg
