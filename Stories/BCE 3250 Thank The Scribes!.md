@@ -5,6 +5,9 @@ historical-date:
   title: "3250 BC"
   bce: false
   year: 3250
+  source: https://doi.org/10.1093/oxfordhb/9780199935413.013.61
+  author: Regulski
+  source-date: 2016
 category: opening-knowledge
 tags: ["WhatWeValue"]
 media:
@@ -23,7 +26,7 @@ Secondly, the texts that have reached us touch on many topics, from astronomy, l
 
 Thirdly, and partly owing to their sometimes technical nature, the texts are written in changing styles. As Wilkinson ([2016](https://www.penguin.co.uk/books/269/269697/writings-from-ancient-egypt/9780141395951.html)) explains in Writings from Ancient Egypt, the texts adapt to their audiences, from employing domain-specific jargon to using plain-language compositions. This helps make the texts more accessible to a growing middle class (see Scharping, [2016](https://www.discovermagazine.com/planet-earth/new-hieroglyphics-translations-offer-a-glimpse-of-ancient-egyptian-life), for a review of Wilkinson's book). Therefore, it is worth noting the difficult work of decyphering the ancient texts that have reached us, and even knowing the dates they are from.
 
-We will later learn of different calendar systems used in the ancient era, which meants that translating their dates to ours is already a challenge. What's more, the texts that reach us are often recorded by Scribes who "copy" even older texts. For example, the Surgical Treatise we read of later (skip [here](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16456093!) for that story) is written around 2600 BC, but Breasted finds its contents to be from some time as far back as the eighth millenium BC (Breasted, [1930](https://oi.uchicago.edu/research/publications/oip/edwin-smith-surgical-papyrus-volume-1-hieroglyphic-transliteration): xiii). With this, I try to justify why I put stories at certain dates but please take these with a pinch of salt, especially in older stories. (Which reminds me, Regulski, [2016](https://doi.org/10.1093/oxfordhb/9780199935413.013.61), is who I draw on for this story's 3250 BC date).
+We will later learn of different calendar systems used in the ancient era, which meants that translating their dates to ours is already a challenge. What's more, the texts that reach us are often recorded by Scribes who "copy" even older texts. For example, the Surgical Treatise we read of later (skip [here](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16456093!) for that story) is written around 2600 BC, but Breasted finds its contents to be from some time as far back as the eighth millenium BC (Breasted, [1930](https://oi.uchicago.edu/research/publications/oip/edwin-smith-surgical-papyrus-volume-1-hieroglyphic-transliteration): xiii). With this, I try to justify why I put stories at certain dates but please take these with a pinch of salt, especially in older stories.
 
 I want to now take a moment to make a few comments about this timeline. The most important one: I am #NotAHistorian! My goal with this timeline is to show that a history of research ethics cannot be told as a sequence of easily traceable events that started in the mid-twentieth century. However, making this point has led me to read numerous texts from many fields of research where I have no expertise. I have, therefore, tried my best to draw on academic and official sources, where possible. This has only been possible to the many people on the internet who kindly make books, papers and documents openly accessible.
 
