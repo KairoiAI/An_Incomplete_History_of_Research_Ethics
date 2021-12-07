@@ -15,7 +15,6 @@ tags: ["HowWeDoThings","ScienceInfluencers","WhatWeValue"]
 media:
   source: https://www.researchgate.net/profile/Ernst-Hempelmann/publication/325870605/figure/fig1/AS:639517954433027@1529484370975/Ge-Hong-Emergency-Prescription-kept-in-ones-Sleeve-chapter-316-first-recorded-qing_W640.jpg
   caption: "Image of chapter 3.16 of A Handbook of Formulas for Emergencies. © Hempelmann E. (Plant-Derived Drugs in Malaria Treatment, 2018, p.148)."
-read-more: http://whatatevs.com/stuff
 intro: Ge Hong reconciles Confucianism and Daoism, leaves instructions for a 2015 Nobel Prize winner, and records Bao Gu's techniques in moxibustion.
 ---
 ### The Story
