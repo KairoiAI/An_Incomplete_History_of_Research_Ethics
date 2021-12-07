@@ -1,33 +1,22 @@
-### Basic Info
-
-**Title:** 
-CE 1665 Journal des Sçavans
-
-**Date:** 
-05-Jan 1665 (e.g.: McCutcheon, [1924](https://www.jstor.org/stable/4171899)).
-
-**Intro:** 
-The world's first academic journal is published in France.
-
-**Category:** 
-Opening Up Knowledge
-
-**Link:** 
-https://poj.peeters-leuven.be/content.php?url=journal&journal_code=JDS
-
-### Media
-
-**Source:**
-https://poj.peeters-leuven.be/journal_images/JDS.jpg
-
-**Caption:**
-The cover of the July-December 2020 publication of the Journal des Sçavans. It has a dark blue background, its title in large white letters followed by "fondé en 1665," its crest and "Paris, Académie des Inscriptions et Belle-Lettres." Source: Peeters Online Journals.
-
-### Tags
-
-How We Do Things, What We Value, Science Influencers.
-
-### Extra Info
+---
+layout: story
+title: "Journal des Sçavans"
+historical-date:
+  title: "05-Jan 1665"
+  bce: false
+  year: 1665
+  source: https://www.jstor.org/stable/4171899
+  author: McCutcheon
+  source-date: 1924
+category: opening-knowledge
+tags: ["How We Do Things","Science Influencers","What We Value"]
+media:
+  source: https://poj.peeters-leuven.be/journal_images/JDS.jpg
+  caption: "The cover of the July-December 2020 publication of the Journal des Sçavans. It has a dark blue background, its title in large white letters followed by "fondé en 1665," its crest and "Paris, Académie des Inscriptions et Belle-Lettres." Source: Peeters Online Journals."
+read-more: https://poj.peeters-leuven.be/content.php?url=journal&journal_code=JDS
+intro: The world's first academic journal is published in Paris, France.
+---
+### The Story
 On 5th January, 1665, the first ever academic journal was published. The Journal des Sçavans was printed in Paris, France (McCutcheon, [1924](https://www.jstor.org/stable/4171899); Banks, [2009](https://doi.org/10.4000/asp.213)) was the result of an influential lawyer's journeys: Denis de Sallo. His privileged position had allowed him to pursue a "grand tour [of] the main 'bibliopoles' ['bibliopolis' or 'book cities'] of Europe" in 1660 (Vittu, [2002](https://www.persee.fr/doc/jds_0021-8103_2002_num_1_1_1653): 181), which inspired the founding of the Journal. 
 
 The first page of its first edition set out a clear mission for the Journal (Académie des inscriptions et belles-lettres, [1665](https://gallica.bnf.fr/ark:/12148/bpt6k56523g)), as Spinack and Packer summarise in English:
