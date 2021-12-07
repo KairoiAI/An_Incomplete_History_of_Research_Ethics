@@ -12,7 +12,7 @@ category: Improving Research
 tags: ["WhatWeValue"]
 media:
   source: https://ars.els-cdn.com/content/image/1-s2.0-S0741521414008659-gr1.jpg
-  caption: Column from the Edwin Smith Papyrus displaying the hieratic script. Case 33, toward the bottom, presents a sternoclavicular dislocation and describes two vessels in the upper chest carrying blood to the respiratory tract. The background is brown and the text is sometimes red and sometimes black Source: https://www.sciencedirect.
+  caption: "Column from the Edwin Smith Papyrus displaying the hieratic script. Case 33, toward the bottom, presents a sternoclavicular dislocation and describes two vessels in the upper chest carrying blood to the respiratory tract. The background is brown and the text is sometimes red and sometimes black Source: https://www.sciencedirect."
 read-more: https://oi.uchicago.edu/research/publications/oip/edwin-smith-surgical-papyrus-volume-1-hieroglyphic-transliteration
 intro: Humankind's first surgical treatise, recording physicians' observations.
 ---
