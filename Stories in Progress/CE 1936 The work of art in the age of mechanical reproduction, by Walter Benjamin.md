@@ -4,15 +4,15 @@
 
 **Title:**
 <!-- Insert title for this story in line 7. The name of the GitHub file above must be: "[BCE or CE] YYYY [TITLE].md". For example, an event in 530 BC with the title "Thales falls into a well" would be called "BCE 0530 Thales falls into a well.md" -->
-Ge Hong & Bao Gu
+The work of art in the age of mechanical reproduction, by Walter Benjamin
 
 **Date:**
 <!-- Type in line 11 the date of this story, and link to a source confirming the selected date -->
-340 CE as per Hsu ([2006](https://doi.org/10.1111/j.1365-2125.2006.02673.x): 670).
+1936, as per _Walter Benjamin: Selected Writings_ (Eiland & Jennings, [2002](http://raley.english.ucsb.edu/wp-content2/uploads/Benjamin-art.pdf)).
 
 **Intro:**
 <!-- Share in line 15 a brief intro to the story (keep it under 240 characters) -->
-Ge Hong reconciles Confucianism and Daoism, leaves instructions for a 2015 Nobel Prize winner, and records Bao Gu's techniques in moxibustion.
+Benjamin provides an analysis of art that is relevant to non-fungible tokens (NFTs).
 
 **Category:** 
 <!-- Select one (and ONLY ONE) by typing "x" between "[ ]". Make sure to type in the commit the issue number for the category you select, as it appears next to each category. -->
@@ -24,7 +24,7 @@ Ge Hong reconciles Confucianism and Daoism, leaves instructions for a 2015 Nobel
 
 **Link:**
 <!-- Not necessary, can say "N/A" or be a link to the story's pertinent document/article/book; as an example, the *Code of Hammurabi* links to the very [*Code of Hammurabi*](https://avalon.law.yale.edu/ancient/hamframe.asp). Type in line 27. -->
-
+http://raley.english.ucsb.edu/wp-content2/uploads/Benjamin-art.pdf
 
 ### Media
 
@@ -40,9 +40,13 @@ Ge Hong reconciles Confucianism and Daoism, leaves instructions for a 2015 Nobel
 <!-- Type "x" between "[ ]" for all relevant tags. Make sure to type in the commit the issue number for the tag(s) you select, as it appears next to each tag. -->
 
 - [ ] Bioethics. <!-- #14 -->
-- [x] How We Do Things; <!-- #15 -->
+- [ ] How We Do Things; <!-- #15 -->
 - [x] Science Influencers; and/or <!-- #16 -->
 - [x] What We Value; <!-- #17 -->
 
 ### Extra Info
 <!-- Paste the story onto line 49! Remember: a line is a paragraph and a blank line must be placed between paragraphs. -->
+
+
+### Unformed Thoughts
+This story is 100% inspired by @djnavarro's [tweet](https://twitter.com/djnavarro/status/1467239248499675138)

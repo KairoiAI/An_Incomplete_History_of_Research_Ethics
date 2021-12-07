@@ -1,4 +1,3 @@
-# Attempt 1 (one)
 ### Protocol Protocol
 Protocols for _A History of Research Ethics_ are on different topics. Their one defining element is their flexibility. Neither of the below protocols are set in stone, nor shielded from critique. Rather, contributors should feel welcome to create issues to discuss ideas for improving these protocols as per Protocol 2. Please also note that "_A History of Research Ethics_" and "_The Timeline_" are used interchangeably to refer to the present project.
 ### Navigate to a protocol:
