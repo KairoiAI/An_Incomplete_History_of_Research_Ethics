@@ -1,41 +1,19 @@
-### Basic Info
-
-**Title:**
-Tuskegee Syphilis Study, Part II
-
-**Date:**
-26 July, 1972, as per Heller ([1972](https://www.nytimes.com/1972/07/26/archives/syphilis-victims-in-us-study-went-untreated-for-40-years-syphilis.html)).
-
-**Intro:**
-Details of the Tuskegee Syphilis Study are leaked to the New York Times, leading to the end of the project.
-
-**Category:** 
-
-- [ ] Opening Up Knowledge;
-- [ ] Legislation, Declarations & Frameworks;
-- [ ] Improving Research; or
-- [x] Research Tragedies
-
-**Link:**
-https://www.nytimes.com/1972/07/26/archives/syphilis-victims-in-us-study-went-untreated-for-40-years-syphilis.html
-
-### Media
-
-**Source:** 
-[A direct link to an image that can be shared; [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia) is a good place to look]
-
-**Caption:** 
-[Insert a description of the image; be detailed as this will serve as ALT text]
-
-### Tags
-
-- [ ] How We Do Things, 
-- [x] What We Value, 
-- [x] Science Influencers, and/or 
-- [ ] Bioethics
-
-### Extra Info
-
+---
+layout: story
+title: "Tuskegee Syphilis Study, Part II"
+historical-date:
+  title: "26 July, 1972"
+  bce: false
+  year: 1972
+  source: https://www.nytimes.com/1972/07/26/archives/syphilis-victims-in-us-study-went-untreated-for-40-years-syphilis.html
+  author: Heller
+  source-date: 1972
+category: research-tragedies
+tags: ["What We Value"]
+read-more: https://www.nytimes.com/1972/07/26/archives/syphilis-victims-in-us-study-went-untreated-for-40-years-syphilis.html
+intro: Details of the Tuskegee Syphilis Study are leaked to the New York Times, leading to the end of the project.
+---
+### The Story
 The study’s methodology had clearly reflected the pseudoscientific and racist beliefs underpinning eugenics and society more broadly. The project, which began in 1932, was not brought to a halt until its details leaked to the New York Times in [1972](https://www.nytimes.com/1972/07/26/archives/syphilis-victims-in-us-study-went-untreated-for-40-years-syphilis.html), over a decade after the enactment of the Nuremburg Code. There was mass public outrage.
 
 As, Brandt, medical historian, puts it:
