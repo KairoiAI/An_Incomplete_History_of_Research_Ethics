@@ -1,51 +1,22 @@
-<!-- *Copy and paste this file's text (in raw, without rendering) into new files for new stories. -->
-
-### Basic Info
-
-**Title:**
-<!-- Insert title for this story in line 7. The name of the GitHub file above must be: "[BCE or CE] YYYY [TITLE].md". For example, an event in 530 BC with the title "Thales falls into a well" would be called "BCE 0530 Thales falls into a well.md" -->
-Accademia dei Lincei
-
-**Date:**
-<!-- Type in line 11 the date of this story, and link to a source confirming the selected date -->
-1603 (e.g.: Biagioli, [1993](https://press.uchicago.edu/ucp/books/book/chicago/G/bo3640574.html): 294).
-
-**Intro:**
-<!-- Share in line 15 a brief intro to the story (keep it under 240 characters) -->
-The world's first scientific institute that studies the natural sciences from an experimental viewpoint is established in Rome, Italy.
-
-**Category:** 
-<!-- Select one (and ONLY ONE) by typing "x" between "[ ]". Make sure to type in the commit the issue number for the category you select, as it appears next to each category. -->
-
-- [x] Opening Up Knowledge; <!-- #10 -->
-- [ ] Legislation, Declarations & Frameworks; <!-- #11 -->
-- [ ] Improving Research; or <!-- #12 -->
-- [ ] Research Tragedies. <!-- #13 -->
-
-**Link:**
-<!-- Not necessary, can say "N/A" or be a link to the story's pertinent document/article/book; as an example, the *Code of Hammurabi* links to the very [*Code of Hammurabi*](https://avalon.law.yale.edu/ancient/hamframe.asp). Type in line 27. -->
-https://www.lincei.it/en
-
-### Media
-
-**Source:** 
-<!-- Share in line 33 direct link to an image that can be shared following its copyright; [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia) is a good place to look -->
-https://upload.wikimedia.org/wikipedia/commons/3/36/Lynceographum_title_page.jpg
-
-**Caption:** 
-<!-- Insert a description of the image in line 37; be detailed as this will serve as ALT text -->
-The title page of the Accademia's statutes. the Lynceographum. It includes a large drawing of their logo: a lynx at the centre of a wreath that has a large crown at its top. Source: Wikimedia.
-
-### Tags
-<!-- Type "x" between "[ ]" for all relevant tags. Make sure to type in the commit the issue number for the tag(s) you select, as it appears next to each tag. -->
-
-- [ ] Bioethics. <!-- #14 -->
-- [x] How We Do Things; <!-- #15 -->
-- [x] Science Influencers; and/or <!-- #16 -->
-- [x] What We Value; <!-- #17 -->
-
-### Extra Info
-<!-- Paste the story onto line 49! Remember: a line is a paragraph and a blank line must be placed between paragraphs. -->
+---
+layout: story
+title: "Accademia dei Lincei"
+historical-date:
+  title: "1603, as per page 294"
+  bce: false
+  year: 1603
+  source: https://press.uchicago.edu/ucp/books/book/chicago/G/bo3640574.html
+  author: Biagioli
+  source-date: 1993
+category: opening-knowledge
+tags: ["HowWeDoThings","WhatWeValue","ScienceInfluencers"]
+media:
+  source: https://upload.wikimedia.org/wikipedia/commons/3/36/Lynceographum_title_page.jpg
+  caption: "The title page of the Accademia's statutes. the Lynceographum. It includes a large drawing of their logo: a lynx at the centre of a wreath that has a large crown at its top. Source: Wikimedia."
+read-more: https://www.lincei.it/en
+intro: The world's first scientific institute that studies the natural sciences from an experimental viewpoint is established in Rome, Italy.
+---
+### The Story
 In 1603, a teenage Federico Cesi established the Accademia Nazionale dei Lincei in Rome, Italy. Its members were called "lincei," an archaic form of the Italian word "lìnceo" that denotes lynx-like vision (Treccani, [n.d.](https://www.treccani.it/vocabolario/linceo/)). This was an apt name, as Cesi was ambitious and far ahead for his time. He saw the Accademia as a hub for empirical approaches to the natural sciences. Unlike the scholarly academies that had preceded it, the Accademia aimed "to study all the natural sciences from a liberal and experimental viewpoint, free from any traditional encumbrance or authority" (Gabrielli, [2010](https://www.allea.org/wp-content/uploads/2015/09/Italy_Accademia-dei-Lincei.pdf): 5). Cesi's "experimental viewpoint" even preceded the philosopher [Francis Bacon's empiricism](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443473!). It must be noted, though, that Cesi's talk of "experimentation" was hardly systematic. In other words, it is unclear what form "empiricism" was to actually take at the Accademia.
 
 Regarding the Accademia's stance against taking authoritative voices for granted - much like the motto "nullius in verba" employed by the Royal Society (established in [1660](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443519!)) and the spirit of "academic freedom" encapsulated by [Göttingen University in 1734](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443610!) - the Accademia wanted to avoid accepting claims as true by virtue of the power held by the those who uttered them. However, as we will learn from its early days, the Accademia might not have upheld these values as well as Cesi had envisioned.
