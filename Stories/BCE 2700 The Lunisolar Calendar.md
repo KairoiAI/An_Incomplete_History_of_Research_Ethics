@@ -8,7 +8,7 @@ historical-date:
   source: https://www.britannica.com/science/calendar
   author: Schmidt et al.
   source-date: 2021
-category: Legislation, Declarations & Frameworks
+category: ldf
 tags: ["HowWeDoThings","WhatWeValue"]
 media:
   source: https://upload.wikimedia.org/wikipedia/commons/1/10/Cylinder_seal_of_Shulgi.jpg
