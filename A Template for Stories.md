@@ -1,3 +1,4 @@
+```
 ---
 layout: story
 title: "title"
@@ -18,3 +19,4 @@ intro: text
 ---
 ### The Story
 <!-- Paste the story into this line! Remember the old adage: a line is a paragraph, and a blank line must be placed between paragraphs. -->
+```
