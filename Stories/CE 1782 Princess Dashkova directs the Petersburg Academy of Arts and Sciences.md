@@ -1,51 +1,21 @@
-<!-- *Copy and paste this file's text (in raw, without rendering) into new files for new stories. -->
-
-### Basic Info
-
-**Title:**
-<!-- Insert title for this story in line 7. The name of the GitHub file above must be: "[BCE or CE] YYYY [TITLE].md". For example, an event in 530 BC with the title "Thales falls into a well" would be called "BCE 0530 Thales falls into a well.md" -->
-Princess Dashkova
-
-**Date:**
-<!-- Type in line 11 the date of this story, and link to a source confirming the selected date -->
-1782 (The Editors of Encyclopaedia Britannica, [n.d.](https://www.britannica.com/biography/Yekaterina-Romanovna-Vorontsova-Knyaginya-Dashkova)).
-
-**Intro:**
-<!-- Share in line 15 a brief intro to the story (keep it under 240 characters) -->
-Princess Dashkova Yekaterina Romanovna Vorontsova is appointed to direct the Petersburg Academy of Arts and Sciences.
-
-**Category:** 
-<!-- Select one (and ONLY ONE) by typing "x" between "[ ]". Make sure to type in the commit the issue number for the category you select, as it appears next to each category. -->
-
-- [ ] Opening Up Knowledge; <!-- #10 -->
-- [ ] Legislation, Declarations & Frameworks; <!-- #11 -->
-- [x] Improving Research; or <!-- #12 -->
-- [ ] Research Tragedies. <!-- #13 -->
-
-**Link:**
-<!-- Not necessary, can say "N/A" or be a link to the story's pertinent document/article/book; as an example, the *Code of Hammurabi* links to the very [*Code of Hammurabi*](https://avalon.law.yale.edu/ancient/hamframe.asp). Type in line 27. -->
-
-
-### Media
-
-**Source:** 
-<!-- Share in line 33 direct link to an image that can be shared following its copyright; [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia) is a good place to look -->
-https://upload.wikimedia.org/wikipedia/commons/d/d8/Coat_of_Arms_of_Vorontsov_family_1.png
-
-**Caption:** 
-<!-- Insert a description of the image in line 37; be detailed as this will serve as ALT text -->
-Princess Dashkova’s noble Vorontsov family’s coat of arms. “Semper immota fides” roughly means “an always immutable faith” in Latin. Source: Wikimedia Commons.
-
-### Tags
-<!-- Type "x" between "[ ]" for all relevant tags. Make sure to type in the commit the issue number for the tag(s) you select, as it appears next to each tag. -->
-
-- [ ] Bioethics. <!-- #14 -->
-- [x] How We Do Things; <!-- #15 -->
-- [x] Science Influencers; and/or <!-- #16 -->
-- [ ] What We Value; <!-- #17 -->
-
-### Extra Info
-<!-- Paste the story onto line 49! Remember: a line is a paragraph and a blank line must be placed between paragraphs. -->
+---
+layout: story
+title: "Princess Dashkova directs the Petersburg Academy of Arts and Sciences"
+historical-date:
+  title: "1782"
+  bce: false
+  year: 1782
+  source: https://www.britannica.com/biography/Yekaterina-Romanovna-Vorontsova-Knyaginya-Dashkova
+  author: The Editors of Encyclopaedia Britannica
+  source-date: 2021
+category: improving-research
+tags: ["How We Do Things","Science Influencers"]
+media:
+  source: https://upload.wikimedia.org/wikipedia/commons/d/d8/Coat_of_Arms_of_Vorontsov_family_1.png
+  caption: "Princess Dashkova’s noble Vorontsov family’s coat of arms. “Semper immota fides” roughly means “an always immutable faith” in Latin. Source: Wikimedia Commons."
+intro: Princess Dashkova Yekaterina Romanovna Vorontsova is appointed to direct the Petersburg Academy of Arts and Sciences, establishes the Russian Academy, and helps reflect on gender stereotypes and allyship.
+---
+### The Story
 The institutionalisation of knowledge-production took a significant turn in the seventeenth century. In addition to libraries and universities, the scientific institute emerged as a way to convene researchers and support research initiatives. Four scientific institutes that still operate today are discussed on the dates of their foundation: [1603](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16571102!), [1652](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443513!), [1660](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443519!) and [1666](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443522!). However, these institutions also built on antiquated ideals and cemented the gender inequality that has characterised academia for centuries. Indeed, it wouldn't be until 1789 that a woman was first able to join one of these four institutes. This is a story about that woman; her role in the professionalisation of research, and her dependence on disguises and powerful allies to succeed in the male-dominated space of 18th-century academia.
 
 Princess Dashkova Yekaterina Romanovna Vorontsova - Princess Dashkova for short - was born into a highly distinguished noble family in St. Petersburg, Russia. Her childhood had been one of privilege, and she was raised to be married off to a man worthy of her family's status. One month before her sixteenth birthday, Dashkova was married to Prince Mikhail I Dashkov. It was thus that she gained the title of "princess" (Gordin, [2006](https://doi.org/10.2307/20020395): 6-7).
