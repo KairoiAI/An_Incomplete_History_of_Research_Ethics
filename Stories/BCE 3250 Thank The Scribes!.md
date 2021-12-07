@@ -3,6 +3,8 @@ layout: story
 title: "Thank the Scribes!"
 historical-date:
   title: "3250 BC"
+  bce: false
+  year: 3250
 category: opening-knowledge
 tags: ["WhatWeValue"]
 media:
