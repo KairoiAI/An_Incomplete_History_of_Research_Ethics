@@ -1,31 +1,21 @@
-### Basic Info
-
-**Title:** 
-Code of Hammurabi
-
-**Date:** 
-1755 BC (not to say "some time between 2342 and 1950 BC," although that's how divergent the views are according to Souvay, [1910](https://www.newadvent.org/cathen/07125a.htm)).
-
-**Intro:** 
-An ancient legal text that makes reference to the punishment of physicians who harm their patients.
-
-**Category:** 
-Legislation, Declarations & Frameworks
+---
+layout: story
+title: "Code of Hammurabi"
+historical-date:
+  title: "1755 BCE, not to say 'some time between 2342 and 1950 BCE,' although that's how divergent the views are"
+  source: https://www.newadvent.org/cathen/07125a.htm
+  author: Souvay
+  source-date: 1910
+category: Legislation, Declartions & Frameworks
+tags: ["What We Value", "Science Influencers","Bioethics"]
+media:
+  source: https://cdn.britannica.com/23/147323-050-A215B523/Detail-stele-Code-of-Hammurabi.jpg
+  caption: A section of the Code of Hammurabi. Symbols are impressed on a dark, flat stone. © John Said/Shutterstock.com
+intro: An ancient legal text that makes reference to the punishment of physicians who harm their patients.
+---
 
 **Link:** 
 https://avalon.law.yale.edu/ancient/hamframe.asp
-
-### Media
-
-**Source:** 
-https://cdn.britannica.com/23/147323-050-A215B523/Detail-stele-Code-of-Hammurabi.jpg
-
-**Caption:** 
-A section of the Code of Hammurabi. Symbols are impressed on a dark, flat stone. © John Said/Shutterstock.com
-
-### Tags
-
-Bioethics, Science influencers, What we valuex
 
 ### Extra Info
 
