@@ -8,7 +8,7 @@ historical-date:
   source: https://doi.org/10.1038/sc.1988.15
   author: Hughes
   source-date: 1988
-category: Improving Research
+category: improving-research
 tags: ["WhatWeValue"]
 media:
   source: https://ars.els-cdn.com/content/image/1-s2.0-S0741521414008659-gr1.jpg
