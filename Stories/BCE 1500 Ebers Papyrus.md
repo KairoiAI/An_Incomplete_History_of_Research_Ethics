@@ -1,3 +1,4 @@
+---
 layout: story
 title: "Ebers Papyrus"
 historical-date:
