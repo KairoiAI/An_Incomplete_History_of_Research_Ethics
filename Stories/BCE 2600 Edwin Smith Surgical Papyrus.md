@@ -1,29 +1,21 @@
-### Basic Info
-**Title:** 
-Edwin Smith Surgical Papyrus
-
-**Date:** 
-Between 2600 and 2150 BC as per Hughes, [1988](https://doi.org/10.1038/sc.1988.15). (Go with earlier date.)
-
-**Intro:** 
-Humankind's first surgical treatise, recording physicians' observations.
-
-**Category:** 
-Improving Research
-
-**Link:** 
-https://oi.uchicago.edu/research/publications/oip/edwin-smith-surgical-papyrus-volume-1-hieroglyphic-transliteration
-
-### Media
-**Source:** 
-https://ars.els-cdn.com/content/image/1-s2.0-S0741521414008659-gr1.jpg
-
-**Caption:**
-Column from the Edwin Smith Papyrus displaying the hieratic script. Case 33, toward the bottom, presents a sternoclavicular dislocation and describes two vessels in the upper chest carrying blood to the respiratory tract. The background is brown and the text is sometimes red and sometimes black Source: https://www.sciencedirect.
-
-### Tags
-
-What We Value
+---
+layout: story
+title: "Edwin Smith Surgical Papyrus"
+historical-date:
+  title: "Between 2600 and 2150 BCE (go with earlier date"
+  bce: true
+  year: 2600
+  source: https://doi.org/10.1038/sc.1988.15
+  author: Hughes
+  source-date: 1988
+category: Improving Research
+tags: ["WhatWeValue"]
+media:
+  source: https://ars.els-cdn.com/content/image/1-s2.0-S0741521414008659-gr1.jpg
+  caption: Column from the Edwin Smith Papyrus displaying the hieratic script. Case 33, toward the bottom, presents a sternoclavicular dislocation and describes two vessels in the upper chest carrying blood to the respiratory tract. The background is brown and the text is sometimes red and sometimes black Source: https://www.sciencedirect.
+read-more: https://oi.uchicago.edu/research/publications/oip/edwin-smith-surgical-papyrus-volume-1-hieroglyphic-transliteration
+intro: Humankind's first surgical treatise, recording physicians' observations.
+---
 
 ### Extra Info
 
