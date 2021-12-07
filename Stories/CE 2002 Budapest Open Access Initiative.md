@@ -4,7 +4,7 @@ title: "Budapest Open Access Initiative"
 historical-date:
   title: "14-Feb 2002"
   bce: true or false
-  year: YYYY
+  year: 2002
   source: https://www.budapestopenaccessinitiative.org/read
   author: Chan et al.
   source-date: 2002
