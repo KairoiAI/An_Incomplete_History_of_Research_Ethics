@@ -9,7 +9,7 @@ historical-date:
   author: Hsu
   source-date: 2006
 category: improving-research
-tags: ["HowWeDoThings","ScienceInfluencers","WhatWeValue"]
+tags: ["How We Do Things","Science Influencers","What We Value"]
 media:
   source: https://www.researchgate.net/profile/Ernst-Hempelmann/publication/325870605/figure/fig1/AS:639517954433027@1529484370975/Ge-Hong-Emergency-Prescription-kept-in-ones-Sleeve-chapter-316-first-recorded-qing_W640.jpg
   caption: "Image of chapter 3.16 of A Handbook of Formulas for Emergencies. © Hempelmann E. (Plant-Derived Drugs in Malaria Treatment, 2018, p.148)."
