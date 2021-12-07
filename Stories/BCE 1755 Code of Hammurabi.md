@@ -3,6 +3,8 @@ layout: story
 title: "Code of Hammurabi"
 historical-date:
   title: "1755 BCE, not to say 'some time between 2342 and 1950 BCE,' although that's how divergent the views are"
+  bce: true
+  year: 1755
   source: https://www.newadvent.org/cathen/07125a.htm
   author: Souvay
   source-date: 1910
@@ -11,14 +13,10 @@ tags: ["What We Value", "Science Influencers","Bioethics"]
 media:
   source: https://cdn.britannica.com/23/147323-050-A215B523/Detail-stele-Code-of-Hammurabi.jpg
   caption: A section of the Code of Hammurabi. Symbols are impressed on a dark, flat stone. © John Said/Shutterstock.com
+read-more: https://avalon.law.yale.edu/ancient/hamframe.asp
 intro: An ancient legal text that makes reference to the punishment of physicians who harm their patients.
 ---
-
-**Link:** 
-https://avalon.law.yale.edu/ancient/hamframe.asp
-
-### Extra Info
-
+### The Story
 The Code of Hammurabi, etched on a black stone over two metres tall, is a legal text put in place under the rule of King Hammurabi of Babylon - now in Iraq (Renger, [2020](https://www.britannica.com/biography/Hammurabi)). The Code was originally translated to French by Scheil in 1902, shortly after its discovery (Leroux, [1902](https://archive.org/details/mmoires04franuoft/page/n5/mode/2up); see Souvay, [1910](https://www.newadvent.org/cathen/07125a.htm), for further details about the code's discovery). A year later, German and English translations were made available (Souvay, [1910](https://www.newadvent.org/cathen/07125a.htm)).
 
 The scope of the legal text is broad, outlining punishable activities from theft and kidnapping to bearing false witness and prevaricating judges, as well as partaking in magic (ibid.). These and many more examples - with clear rules for how such illegal acts must be punished - amount to a total of 282 laws in the Hammurabi Code.
