@@ -12,22 +12,35 @@ date: 2021-01-12 10:47
 <div class="trigger">
 <ul>
 
-  {% for page in site.pages %}
+{% comment %} We only want to output Story pages, not any other pages (such as the 404 error page or index page){% endcomment %}  
 
-  {% if page.layout == "story" %}
+  {% assign pages = site.pages %}
+  {% assign stories = pages | where: "layout", "story"%}
 
-  <li><a class="page-link" href="{{ page.url | prepend : site.baseurl }}">
-  {{page.historical-date.year}}
-  {% if page.historical-date.bce %}
-    BCE
-  {% else %}
-    CE
-  {% endif %}
-  :
-  {{ page.title }}
-  </a></li>
-  {% endif %}
 
+{% assign sorted = stories | sort: "historical-date.year" | reverse %}
+
+  {% for page in sorted %}
+    {% if page.historical-date.bce %}
+      <li><a class="page-link" href="{{ page.url | prepend : site.baseurl }}">
+        {{page.historical-date.year}}
+        BCE:
+        {{ page.title }}
+      </a></li>
+    {% endif %}
+  {% endfor %}
+
+  {% comment %} we sort by year, but don't forget we sorted alll BCE dates... backwards!  {% endcomment %}
+  {% assign sorted_forwards = sorted | reverse %}
+
+  {% for page in sorted_forwards %}
+    {% unless page.historical-date.bce %}
+      <li><a class="page-link" href="{{ page.url | prepend : site.baseurl }}">
+        {{page.historical-date.year}}
+        CE:
+        {{ page.title }}
+      </a></li>
+    {% endunless %}
   {% endfor %}
 
   </ul>
