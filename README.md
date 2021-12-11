@@ -21,7 +21,7 @@ I would love help from philosophers, historians, lawyers, business professionals
 It is important that this repo does not require technical skill to be engaged with. If you are uncertain as to how to GitHub (as am I), please visit [this issue](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/5#issue-1040112311) to see how you can comment on stories that are yet unpublished.
 
 One more thing! Whilst there are many other protocols to read through, may I ask that, before contributing, you please take a look at:
-* [Protocol 1: Cod of Conduct](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/Protocols.md#protocol-1-code-of-conduct)
+* [Protocol 1: Code of Conduct](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/Protocols.md#protocol-1-code-of-conduct)
 * [Protocol 6: Reliable Sources](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/Protocols.md#Protocol-6-Reliable-Sources)
 
 Alternatively, reach out to [@Ismael-KG](https://github.com/Ismael-KG) for a chat!
