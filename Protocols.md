@@ -36,6 +36,11 @@ _The Timeline_ is a private endeavour. There are no formal mechanisms for mediat
   <summary>Click to expand!</summary>
 
 _A History of Research Ethics_ is intended to be a useful resource for various audiences, and the best way to reach these audiences is by being shared as much as possible! This protocol is of particular use to ⭐ **Advocates** ⭐, as per [Protocol 7](#Protocol-7-Public-Engagement) This protocol attempts to supplement (and certainly does not override) the [citation](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/ddb6497dcf3c88fff4d19693a711da1f9a6e24f6/CITATION.cff) file and the [licence](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/LICENCE.md). As the licence is [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), references to _The Timeline_ must be attributed appropriately.
+  
+In the case of sharing screenshots of _A History of Research Ethics_ in presentations or other media, please share either of the below lines on the slide:
+> © 2021 Ismael Kherroubi Garcia
+
+> DOI: 10.5281/zenodo.5731453
 
 In-line references to _A History of Research Ethics_ can be made by referencing either:
 * Kherroubi Garcia et al., 2021; or, if a specific story is being referenced,
