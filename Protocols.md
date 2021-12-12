@@ -144,7 +144,7 @@ This protocol is intended for stories to adhere to some loose rules. By writing 
 ## All stories must have
 * A short title
 * An introductory line with less than 240 characters.
-* A summary paragraph at the start (an "abstract") to excite readers but also keep people from wasting their time if a text is not that relevant;
+* A summary paragraph at the start to excite readers but also keep people from wasting their time if a text is not that relevant;
 * At least one paragraph on basic historical context (e.g.: "the events took place as eugenics were gaining traction across the pond...");
 * A clear message for researchers and/or research governance folk (e.g.: "we here see the importance of including perspectives from groups who have been historically marginalised from academia").
 
@@ -172,7 +172,7 @@ But both points needn't be present, as 240 characters is a tight limit. The even
 A story's intro that emphasises only the second point can be found in the [Humboldt University](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443616!) story:
 > "Academic freedom" gains form in Humboldt’s University of Berlin, in Germany.
 
-### Abstracts
+### Summaries
 Must include at least one sentence on:
 * Sociohistorical context;
 * The event the story will study; and
@@ -182,7 +182,7 @@ Must include at least one sentence on:
 This is really the body of the story, and the following "structures" subsection provides some guidance.
 
 ## Structures
-The basic structure for all stories to follow:
+The basic structure for stories to follow:
 1. The **historical scene** must be set to absorb the reader into this different world, whether it be a year or a thousand years earlier. Sociohistorical context means answering to where, when and why the event took place.
 2. **The event itself** must respond to _what_ and _how_. _What_ requires a description of the particular event. _How_ means engaging with the continuous nature of, well, time.
 3. The scene is set for an **Ethical Quandary™️**. It is here where different [_dramatic structures_](https://en.wikipedia.org/wiki/Dramatic_structure) might be employed. Is it all smooth-sailing until **panic**! A nefarious application of some technology! Or, perhaps the quandary section begins with sorrow and woe — unforgettable pain or untenable obstacles — and we gradually come to see the light. **The point is** that we can draw on some degree of theatricality. This is both (i) so that the narrative is captivating and (ii) that the very palpable distresses that complex ethical questions can come to cause are made as salient as possible. (Think Hacking's [1996](https://doi.org/10.1093/acprof:oso/9780198524021.003.0012) "sensationalism.)
