@@ -87,8 +87,19 @@ dd {
   padding:$spacing-unit/2;
   .story-image {max-width:50%; margin-right:$spacing-unit/2}
   .written-info {}
+  h1 {
+    font-size: 1.5em;
+  }
 }
 
-h1 {
-  font-size: 85%;
+
+
+.notice {
+  &.wip {
+    background-color:#FFFDE7;
+    border:dashed 2px #FBC02D;
+    border-radius:2px;
+    padding:$spacing-unit/4 $spacing-unit/2;
+    margin-bottom:$spacing-unit/2;
+  }
 }

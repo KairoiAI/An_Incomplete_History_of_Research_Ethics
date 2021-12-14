@@ -3,6 +3,12 @@ layout: default
 ---
 <div class="post">
 
+  {% if page.wip %}
+  <div class="notice wip">
+    This is a work in progress and may need additional edits to meet the protocols.
+  </div>
+  {% endif %}
+
   <aside class="story-info">
 
     <img src="{{page.media.source}}" alt="{{page.media.caption}}" class="story-image"/>
@@ -13,8 +19,10 @@ layout: default
       <dl>
         <dt>Year:</dt>
         <dd>{{page.historical-date.year}}</dd>
-        <dt>Author: </dt>
-        <dd>({{page.historical-date.author}}, [<a href="{{page.historical-date.source}}">{{page.historical-date.source-date}}</a>])</dd>
+        <dt>Author(s): </dt>
+        <dd>{{authors}}</dd>
+        <dt>Contributors: </dt>
+        <dd>{{contributors}}</dd>
         <dt>Category: </dt>
         <dd>{{site.data.categories[page.category]}}</dd>
       </dl>
