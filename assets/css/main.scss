@@ -81,6 +81,14 @@ dd {
 }
 
 .story-info  {
+  display:flex;
+  flex-direction: row;
   background-color:$grey-color-light;
-  padding:$spacing-unit/4 $spacing-unit/2
+  padding:$spacing-unit/2;
+  .story-image {max-width:50%; margin-right:$spacing-unit/2}
+  .written-info {}
+}
+
+h1 {
+  font-size: 85%;
 }
