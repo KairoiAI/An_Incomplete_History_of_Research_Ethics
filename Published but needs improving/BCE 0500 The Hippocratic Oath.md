@@ -1,4 +1,3 @@
-Test
 **Title:** 
 [Insert title for this story]
 
