@@ -2,7 +2,7 @@ related issue: 75
 ### Basic Info
 
 **Title:**
-The Belmont Report
+Belmont Report
 
 **Date:**
 17-Apr 1979, as per [its site](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html).
