@@ -1,10 +1,11 @@
+related issue: 51
 ### Basic Info
 
 **Title:** 
-[Insert title for this story]
+Monastic Life Begins
 
 **Date:** 
-400 AD based on Corwin ([2016](https://sites.dartmouth.edu/ancientbooks/2016/05/24/medieval-book-production-and-monastic-life/)).
+400 CE based on Corwin ([2016](https://sites.dartmouth.edu/ancientbooks/2016/05/24/medieval-book-production-and-monastic-life/)).
 
 **Intro:** 
 Literacy became a worthwhile skill in monks
