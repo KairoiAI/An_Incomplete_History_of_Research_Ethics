@@ -1,14 +1,20 @@
+related issue: 63
 ### Basic Info
 
-**Title:** Berne Convention
+**Title:** 
+Berne Convention
 
-**Date:** 1886 (see, e.g., http://www.copyrighthistory.org/cam/tools/request/showRecord.php?id=record_uk_1886c)
+**Date:**
+1886 (see, e.g., http://www.copyrighthistory.org/cam/tools/request/showRecord.php?id=record_uk_1886c)
 
-**Intro:** Signatories agree that a work’s copyright status requires no formalities and is internationally recognised.
+**Intro:**
+Signatories agree that a work’s copyright status requires no formalities and is internationally recognised.
 
-**Category:** Legislation, Declarations & Frameworks
+**Category:**
+Legislation, Declarations & Frameworks
 
-**Link:** http://www.copyrighthistory.org/cam/tools/request/showRecord.php?id=record_uk_1886c
+**Link:**
+http://www.copyrighthistory.org/cam/tools/request/showRecord.php?id=record_uk_1886c
 
 ### Media
 
