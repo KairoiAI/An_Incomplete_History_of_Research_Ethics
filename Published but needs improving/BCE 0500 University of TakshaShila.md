@@ -1,10 +1,11 @@
+Related issue: 48
 ### Basic Info
 
 **Title:** 
-The World's First University
+University of TakshaShila
 
 **Date:** 
-500 BC as per https://www.historyofayurveda.org/library/ancient-university-takshashila
+500 BCE as per https://www.historyofayurveda.org/library/ancient-university-takshashila
 
 **Intro:** 
 The University of TakshaShila, located in modern-day Pakistan, taught students until 6th century AD.
