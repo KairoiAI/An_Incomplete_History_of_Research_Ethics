@@ -1,3 +1,9 @@
+---
+layout: page
+title: An Incomplete History of Research Ethics
+tags: home
+date: 2021-16-12 09:58
+---
 # An Incomplete History of Research Ethics
 Welcome to _An Incomplete History of Research Ethics_! My name is [Ismael](https://uk.linkedin.com/in/ismaelkherroubi) and I hope you find this site of use.
 
