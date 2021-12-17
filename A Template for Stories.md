@@ -7,7 +7,7 @@ wip: true or false
 historical-date:
   title: "year, explanation or as per"
   bce: true or false
-  year: YYYY
+  year: YYYY BCE/CE
   source: link to the source that justifies the choice of date
   author: surname(s) of authors of the linked source
   source-date: year
