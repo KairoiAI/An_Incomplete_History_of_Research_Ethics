@@ -5,13 +5,14 @@ layout: default
 
   {% if page.wip %}
   <div class="notice wip">
-    This is a work in progress and may need additional edits to meet the protocols.
+    This story is still a work in progress. If you would like to help write it or know some useful resources that should be referenced, please share some thoughts in the following GitHub issue: <a
+      href="https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/{{ page.issue }}">#{{ page.issue }}</a>!
   </div>
-  {% endif %}
 
+  {% else %}
   <aside class="story-info">
 
-    <img src="{{page.media.source}}" alt="{{page.media.caption}}" class="story-image"/>
+    <img src="{{page.media.source}}" alt="{{page.media.caption}}" class="story-image" />
 
     <div class="written-info">
       <h1 class="post-title">{{ page.title }}</h1>
@@ -50,5 +51,5 @@ layout: default
       {% endfor %}
     </ul>
   </div>
-
+  {% endif %}
 </div>
