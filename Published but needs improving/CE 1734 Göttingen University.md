@@ -1,14 +1,20 @@
+related issue: 59
 ### Basic Info
 
-**Title:** Göttingen University
+**Title:** 
+Göttingen University
 
-**Date:** 1734 as per [their site](https://www.uni-goettingen.de/en/history+of+the+university+%E2%80%93+an+overview/90607.html).
+**Date:** 
+1734 as per [their site](https://www.uni-goettingen.de/en/history+of+the+university+%E2%80%93+an+overview/90607.html).
 
-**Intro:** Göttingen University, in Germany, advocates for an early form of "academic freedom."
+**Intro:** 
+Göttingen University, in Germany, advocates for an early form of "academic freedom."
 
-**Category:** Improving Research
+**Category:** 
+Improving Research
 
-**Link:** https://www.uni-goettingen.de/en/history+of+the+university+%E2%80%93+an+overview/90607.html
+**Link:** 
+https://www.uni-goettingen.de/en/history+of+the+university+%E2%80%93+an+overview/90607.html
 
 ### Media
 

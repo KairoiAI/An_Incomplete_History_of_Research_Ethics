@@ -1,7 +1,8 @@
+related issue: 58
 ### Basic Info
 
 **Title:** 
-Novum Organum by Francis Bacon
+Novum Organum, by Francis Bacon
 
 **Date:** 
 1620 (e.g.: [Britannica](https://www.britannica.com/topic/Novum-Organum)).
