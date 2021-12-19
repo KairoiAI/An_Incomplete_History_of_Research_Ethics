@@ -3,7 +3,7 @@ layout: story
 title: "Atomic Bomb, Part III"
 historical-date:
   title: "24-Dec 1944, when Rotblat leaves the Manhattan Project"
-  bce: true or false
+  bce: false
   year: 1944
   source: https://books.google.co.uk/books?id=uwYAAAAAMBAJ&pg=PA16&source=gbs_toc_pages_r&redir_esc=y#v=onepage&q=disagreeable%20shock&f=false
   author: Rotblat
