@@ -1,9 +1,10 @@
 ---
 layout: story
 title: "Budapest Open Access Initiative"
+wip: true
 historical-date:
   title: "14-Feb 2002"
-  bce: true or false
+  bce: false
   year: 2002
   source: https://www.budapestopenaccessinitiative.org/read
   author: Chan et al.
