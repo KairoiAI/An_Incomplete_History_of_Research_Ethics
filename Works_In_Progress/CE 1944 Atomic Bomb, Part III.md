@@ -2,7 +2,7 @@
 layout: story
 title: "Atomic Bomb, Part III"
 wip: true
-  issue: 
+  issue: 105
 historical-date:
   title: "24-Dec 1944, when Rotblat leaves the Manhattan Project"
   bce: false
