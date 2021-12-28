@@ -2,18 +2,18 @@
 layout: story
 title: "Cleopatra, the Legend"
 wip: false
+  issue: 109
 historical-date:
   title: "30 BCE, when she took her life"
   bce: true
 historical-date:
   title: "30 BCE, when she took her life"
   bce: true
-  year: 30
+  year: 30 BCE
   source: https://www.britishmuseum.org/collection/term/BIB2618
   author: Walker & Higgs
   source-date: 2001
 category: research-tragedies
-Author: Test author
 author: Ismael Kherroubi García
 contributors: Micha Yehudi (review), Yo Yehudi (review, proofreading)
 tags: ["Bioethics","Science Influencers"]
