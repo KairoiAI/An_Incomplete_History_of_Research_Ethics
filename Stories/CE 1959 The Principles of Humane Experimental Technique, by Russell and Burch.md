@@ -1,6 +1,8 @@
 ---
 layout: story
 title: "The Principles of Humane Experimental Technique, by Russell and Burch"
+wip: false
+  issue: 129
 historical-date:
   title: "1959"
   bce: false
