@@ -29,7 +29,7 @@ Thanks to how we navigate timelines on Tiki-Toki, stories fit into one of four c
 #### Tags
 * **How We Do Things**: Roughly, stories with this tag have influenced approaches to the conduct of research and the spreading of knowledge;
 * **What We Value:** These are stories about the rise of moral and epistemic values throughout the ages, and do not necessarily reflect any present individual's belief system;
-* **Science Influencers:** Stories with this tag are mostly about how people, documents and movements from outside science have shaped its conduct and underlying values; and 
+* **Science Influencers:** Stories with this tag are mostly about how people, documents and movements from outside science have shaped its conduct and underlying values; and
 * **Bioethics:** Stories that relate with medical research ethics and have had a particularly strong influence on modern research ethics more broadly)
 
 ## A Word of Caution
@@ -50,13 +50,18 @@ Below are the stories currently captured in _An Incomplete History of Research E
 
 {% assign sorted = stories | sort: "historical-date.year" | reverse %}
 
+
   {% for page in sorted %}
+  {% assign is_wip = page.story-status.wip %}
+
     {% if page.historical-date.bce %}
       <li><a class="page-link" href="{{ page.url | prepend : site.baseurl }}">
         {{page.historical-date.year}}
         BCE:
         {{ page.title }}
+        {% if is_wip %} (WIP) {% endif %}
       </a></li>
+
     {% endif %}
   {% endfor %}
 
@@ -69,6 +74,7 @@ Below are the stories currently captured in _An Incomplete History of Research E
         {{page.historical-date.year}}
         CE:
         {{ page.title }}
+        {% if is_wip %} (WIP) {% endif %}
       </a></li>
     {% endunless %}
   {% endfor %}
@@ -85,8 +91,8 @@ This timeline began as a side-project in [mid-September 2021](https://twitter.co
 Since then, I have realised that tracking changes is very hard. I had been using a document on [HackMD](https://hackmd.io) for writing but it got clunky when trying to see how my work was evolving.
 
 So here we are! The latest big changes have been:
-* Creating a DOI, 
-* Establishing a list of protocols for potential contributors (rather than this being a lonely endeavour of a mad-man) 
+* Creating a DOI,
+* Establishing a list of protocols for potential contributors (rather than this being a lonely endeavour of a mad-man)
 * Creating a site that is less visually pleasing but more accessible than Tiki-Toki (this is entirely thanks to [@yochannah](https://github.com/yochannah)'s generous work)
 
 I continue to make tweaks to this repo and creating content for the many stories relevant to research ethics, and encourage you to join in!

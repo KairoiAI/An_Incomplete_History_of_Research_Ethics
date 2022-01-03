@@ -15,7 +15,7 @@ category: improving-research
 tags: ["How We Do Things","Science Influencers"]
 media:
   source: link to the site where the image is; delete line if there is no image
-  caption: "ALT text and acknowledgement of source"; delete line if there is no image
+  caption: ALT text and acknowledgement of source; delete line if there is no image
 read-more: https://doi.org/10.2307/1321160
 intro: The authors identify privacy as possibly coming under threat by socioeconomic and technological change.
 ---

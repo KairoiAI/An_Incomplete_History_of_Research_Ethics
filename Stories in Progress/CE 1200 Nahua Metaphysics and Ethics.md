@@ -7,7 +7,7 @@ story-status:
 historical-date:
   title: "1200"
   bce: false
-  year: 1200 CE
+  year: 1200
   source: https://doi.org/10.2307/482619
   author: Smith
   source-date: 1984
@@ -16,8 +16,8 @@ authors: Ismael Kherroubi Garcia
 contributors: James Maffie (review)
 tags: ["Science Influencers","What We Value"]
 media:
-  source: https://www.mexicolore.co.uk/images-5/597_11_2.jpg
-  caption: A sage speaks to an audience with a torch between them. Source: Bernardino de Sahagún's "Códice florentino" (1979 facsimile edition published by the Biblioteca Medicea Laurenziana and the Archivo General de la Nación; supplied by Louise Burkhart).
+  source: "https://www.mexicolore.co.uk/images-5/597_11_2.jpg"
+  caption: "A sage speaks to an audience with a torch between them. Source: Bernardino de Sahagún's \"Códice florentino\" (1979 facsimile edition published by the Biblioteca Medicea Laurenziana and the Archivo General de la Nación; supplied by Louise Burkhart)." 
 intro: Pre-Hispanic Mesoamerican philosophy teaches us of the link between beliefs about the world, and how we engage with one another and our natural environment.
 ---
 ### Summary
