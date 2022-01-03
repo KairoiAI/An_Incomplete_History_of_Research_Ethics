@@ -8,7 +8,7 @@ Protocols for _A History of Research Ethics_ are on different topics. Their one 
 * [Protocol 5: Style Guide](#Protocol-5-Style-Guide)
 * [Protocol 6: Reliable Sources](#Protocol-6-Reliable-Sources)
 * [Protocol 7: Public Engagement](#Protocol-7-Public-Engagement)
-* [Protocol 8: File Naming Conventions](#Protocol-8-File-Naming-Conventions)
+* [Protocol 8: Naming Conventions](#Protocol-8-Naming-Conventions)
 * [Protocol 9: Technical Implementation](#Protocol-9-Technical-Implementation)
 
 # Protocol 1: Code of Conduct
@@ -266,7 +266,7 @@ Protocol 1's principles of _impartiality_ and _charitability_ are crucial to ens
 * _Charitability_ is necessary when engaging with sources where arguments are unclear to our minds. We must be open to engaging with these in good faith, and begin by giving them the benefit of the doubt. In other words, work from the assumption that sources are clear and rational. Then, provide charitable interpretations. These can then be critically evaluated and refuted on clearer grounds.
 </details>
 
-# Protocol 8: File Naming Conventions
+# Protocol 8: Naming Conventions
 Although GitHub is not ideally used to navigate something like _The Timeline_, it is helpful to keep files ordered in a coherent manner to faciltate the repository's maintenance. 
 <details>
   <summary>Click to expand!</summary>
