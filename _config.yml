@@ -37,3 +37,5 @@ tag_page_dir: tag
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-time-machine
