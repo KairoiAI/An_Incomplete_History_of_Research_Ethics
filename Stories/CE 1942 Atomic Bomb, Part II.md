@@ -14,7 +14,7 @@ category: research-tragedies
 tags: ["Bioethics", "How We Do Things","Science Influencers","What We Value"]
 media:
   source: https://www.atomicheritage.org/sites/default/files/Manhattan_Project_emblem_4.png
-  caption: "The Manhattan Project insignia. It is round and reads "Manhattan Project A Bomb". The A takes up most of the insignia and a castle is drawn at the bottom. Source: Atomic Heritage Foundation."
+  caption: "The Manhattan Project insignia. It is round and reads \"Manhattan Project A Bomb\". The A takes up most of the insignia and a castle is drawn at the bottom. Source - Atomic Heritage Foundation."
 intro: The world's first moonshot is aimed at defeating the Nazis in creating nuclear weapons.
 ---
 ### The Story

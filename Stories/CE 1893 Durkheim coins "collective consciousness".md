@@ -1,6 +1,6 @@
 ---
 layout: story
-title: "Émile Durkheim coins "collective consciousness""
+title: "Émile Durkheim coins \"collective consciousness\""
 story-status:
   wip: false
   issue: 125
@@ -17,7 +17,7 @@ media:
   source: https://cdn.britannica.com/46/199546-050-4F20F068/Emile-Durkheim.jp
   caption: "A black and white image of Émile Durkheim. Source: Encyclopædia Britannica."
 read-more: https://www.semanticscholar.org/paper/The-Division-of-Labor-in-Society-Durkheim/4a0f70d42c268a8fa0c5864baa284013dedfd9ea
-intro: The term can be seen as referring to a sort of "group mind," but has also been interpreted as a "moral conscience" for collectives.
+intro: The term can be seen as referring to a sort of \"group mind,\" but has also been interpreted as a \\"moral conscience" for collectives.
 ---
 ### The Story
 Émile Durkheim was a prominent nineteenth- and early-twentieth-century sociologist. His work was ground-breaking in his analysis of the relationship between groups and their members. In his 1897 book on suicide (Durkheim, [2006](https://www.google.co.uk/books/edition/On_Suicide/Dk31PO6cLW4C?hl=en&gbpv=0)), he argues that suicide has a social dimension; it is not a purely individualistic act but one that is linked to one's social environment. In an earlier chapter from 1895 ([1938](https://psycnet.apa.org/record/1938-15037-000); [1994](https://mitpress.mit.edu/books/readings-philosophy-social-science): §27), Durkheim presents us with the idea that there are social cues that we draw on when in groups, and that these effectively constrain how we, as individuals, act.
