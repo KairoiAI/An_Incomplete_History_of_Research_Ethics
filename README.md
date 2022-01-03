@@ -1,5 +1,5 @@
-# A History of Research Ethics
-| This repository contains the text for the timeline *A History of Research Ethics*, currently hosted on [Tiki-Toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/). A more accessible version of _The Timeline_ is slowly being migrated to [this site](https://ismael-kg.github.io/A-History-of-Research-Ethics/). | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5731453.svg)](https://doi.org/10.5281/zenodo.5731453) [![hackmd-github-sync-badge](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q/badge)](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q) [![@Hermeneuticist](https://badgen.net/badge/icon/@hermeneuticist?icon=twitter&label)](https://twitter.com/hermeneuticist) [![GitHub followers](https://img.shields.io/github/followers/Ismael-KG.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ismael-KG?tab=followers) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a> |
+# An Incomplete History of Research Ethics
+| This repository contains the text for the timeline *A History of Research Ethics*, currently hosted on [Tiki-Toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/). A more accessible version of _The Timeline_ is slowly being migrated to [this site](https://ismael-kg.github.io/An_Incomplete_History_of_Research_Ethics/). | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5731453.svg)](https://doi.org/10.5281/zenodo.5731453) [![hackmd-github-sync-badge](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q/badge)](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q) [![@Hermeneuticist](https://badgen.net/badge/icon/@hermeneuticist?icon=twitter&label)](https://twitter.com/hermeneuticist) [![GitHub followers](https://img.shields.io/github/followers/Ismael-KG.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ismael-KG?tab=followers) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a> |
 | --- | --- |
 
 ## A brief history of this timeline
@@ -16,22 +16,26 @@ I continue to make tweaks to this repo and creating content for the many stories
 ## Would you like to help?
 I would love help from philosophers, historians, lawyers, business professionals, butchers, bakers and candlestick makers! Github will help trace who made what edits and when.
 
-[Protocol 3](https://ismael-kg.github.io/A-History-of-Research-Ethics/) will hopefully help you understand different ways to contribute.
+[Protocol 3](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Protocols.md#Protocol-3-Contribution-Types) will hopefully help you understand different ways to contribute.
 
-It is important that this repo does not require technical skill to be engaged with. If you are uncertain as to how to GitHub (as am I), please visit [this issue](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/5#issue-1040112311) to see how you can comment on stories that are yet unpublished.
+It is important that this repo does not require much knowledge of GitHub to be engaged with. If you are uncertain as to how to GitHub (as am I), please visit [these "issues"](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+label%3A%22Help+wanted%22+label%3AWIP) to see how you can comment on stories that are yet unpublished.
 
 One more thing! Whilst there are many other protocols to read through, may I ask that, before contributing, you please take a look at:
-* [Protocol 1: Code of Conduct](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/Protocols.md#protocol-1-code-of-conduct)
-* [Protocol 6: Reliable Sources](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/Protocols.md#Protocol-6-Reliable-Sources)
+* [Protocol 1: Code of Conduct](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Protocols.md#protocol-1-code-of-conduct)
+* [Protocol 6: Reliable Sources](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Protocols.md#Protocol-6-Reliable-Sources)
 
 Alternatively, reach out to [@Ismael-KG](https://github.com/Ismael-KG) for a chat!
-## Navigating this Repository
-There are three folders and seven files at the top of this repository. The five most relevant files contain (and are called) [_A Glossary_](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/a936ef6798379a8ab01a8a63bd0957d540032b33/A%20Glossary.md) – which will hold strange terms used throughout the timeline –, [_A Template for Stories_](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/a936ef6798379a8ab01a8a63bd0957d540032b33/A%20Template%20for%20Stories.md) – which should be copied and pasted into new files containing stories –, [_About this Timeline_](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/a936ef6798379a8ab01a8a63bd0957d540032b33/About%20This%20Timeline.md) – maintaining the text that is shown when you open the Timeline for the first time -, and [_Protocols_](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/1cb0f503b550e452d04b868ae1cf274731be4849/Protocols.md), which includes Protocol 1: Code of Conduct.
 
-The three folders contain:
-* **Stories** that I am generally happy with. They can definitely gain from a review and further detail, but they are not a priority.
-* **Stories in Progress**, which are new and unpublished. This is where ideas for further stories will appear.
-* **Published but needs improving** are the stories I wrote between mid-September and 16-Oct and which were not even written as stories! They are excerpts from a much longer text I wrote using HackMD. These are the ones that might gain from "easy fixes." Perhaps a link to some media will help, or comments with further resources.
+## Navigating this Repository
+This repository is intended as a place for discussing and collaborating on stories, tracking how _The Timeline_ evolves, and making technical edits to [its accessible site](https://ismael-kg.github.io/An_Incomplete_History_of_Research_Ethics/) and [its dynamic site](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/). Ideally, you have reached this repository through the former and are checking out [stories to work on](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+label%3A%22Help+wanted%22+label%3AWIP)! If not, welcome to the joy of GitHub!
+
+The file that contains the rules whereby this repo and _The Timeline_ operate is called [Protocols.md](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Protocols.md). Some of these have already been referenced. You are invited to read these and even propose improvements!
+
+At the top of this page, two folders are worth highlighting, as they contain further details about stories on Tiki-Toki:
+* **Stories:** these are stories that have been published to [Tiki-Toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/) following a review process.
+* **Works_In_Progress:** these are stories that are not yet at their final stage (as per [Protocol 4](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Protocols.md#Protocol-4-Lifecycle-of-a-Story)).
+
+Each of the files therein reference their related "issue." You can find issues in the [issues tab](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/issues), which shows you all points of discussion currently open. You can navigate these issues in two ways, either according to their title, or according to their labels. For further information on these two methods, see [Protocol 8](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Protocols.md#Protocol-8-Naming-Conventions))
 
 ## The technicalities of Tiki-Toki
 There are three major concepts that are worth knowing when discussing Tiki-Toki:
