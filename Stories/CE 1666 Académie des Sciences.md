@@ -1,12 +1,15 @@
 ---
 layout: story
 title: "Académie des Sciences"
+story-status:
+  wip: false
+  issue: 122
 historical-date:
-  title: "22-Dec 1666 as per"
+  title: "22-Dec 1666"
   bce: false
   year: 1666
   source: https://www.academie-sciences.fr/en/Histoire-de-l-Academie-des-sciences/history-of-the-french-academie-des-sciences.html
-  author: their site
+  author: Académie des Sciences
   source-date: n.d.
 category: opening-knowledge
 tags: ["How We Do Things","Science Influencers"]

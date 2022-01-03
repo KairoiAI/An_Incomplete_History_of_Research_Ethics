@@ -1,6 +1,9 @@
 ---
 layout: story
 title: "Project 523"
+story-status:
+  wip: false
+  issue: 130
 historical-date:
   title: "23-May 1967"
   bce: false
@@ -13,7 +16,7 @@ tags: ["How We Do Things","Science Influencers"]
 media:
   source: https://www.nlm.nih.gov/exhibition/chineseantimalaria/images/129.jpg
   caption: "Do a Good Job of Health Reconstruction in the Countryside. A poster produced by the Health and Epidemic Prevention Station of Jiujiang Prefecture. Printed by Jiangxi Printing Company, n.d., ca. 1970. Courtesy of the National Library of Medicine."
-intro: text
+intro: Youyou turns to ancient texts to create a vaccine against malaria in the midst of political upheaval.
 ---
 ### The Story
 Project 523 was launched on 23 May 1967 and was, above all, a military operation to help the communists of North Vietnam to defend themselves from something much deadlier than the US army: malaria. In this story, I recount the political movements in China that led up to Project 523. This will allow us to better understand the project's methods and why it would take years to share its life-saving findings with the world.

@@ -1,8 +1,11 @@
 ---
 layout: story
 title: "Ge Hong & Bao Gu"
+story-status:
+  wip: false
+  issue: 117
 historical-date:
-  title: "340 CE as per"
+  title: "340"
   bce: false
   year: 340
   source: https://doi.org/10.1111/j.1365-2125.2006.02673.x

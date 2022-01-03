@@ -1,6 +1,9 @@
 ---
 layout: story
 title: "Recipes for Fifty-Two Ailments"
+story-status:
+  wip: false
+  issue: 116
 historical-date:
   title: "215 CE"
   bce: false

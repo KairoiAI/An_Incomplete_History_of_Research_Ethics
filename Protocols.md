@@ -8,6 +8,8 @@ Protocols for _A History of Research Ethics_ are on different topics. Their one 
 * [Protocol 5: Style Guide](#Protocol-5-Style-Guide)
 * [Protocol 6: Reliable Sources](#Protocol-6-Reliable-Sources)
 * [Protocol 7: Public Engagement](#Protocol-7-Public-Engagement)
+* [Protocol 8: File Naming Conventions](#Protocol-8-File-Naming-Conventions)
+* [Protocol 9: Technical Implementation](#Protocol-9-Technical-Implementation)
 
 # Protocol 1: Code of Conduct
 A key purpose of _A History of Research Ethics_ is to demonstrate the variety of disciplines and backgrounds that can help gain a richer notion of research ethics. Whilst this "richness" needs spelling out, this is not the place for that. This is the place where we note the pernicious aspects of human nature, which become particularly salient when we encounter voices we are not accustomed to and perspectives that differ from our own in areas we are especially passionate about. The necessity for diversity in a project such as _A History of Research Ethics_ can result in clashes or conflicts. This code will continue to be improved, but it sets out two things: (i) expected behaviours when contributing to the present repository, and (ii) methods for resolution.
@@ -96,7 +98,7 @@ The principles of _honesty_ and _humility_ are particularly important to recogni
 </details>
 
 # Protocol 4: Lifecycle of a Story
-There are 7 stages to the development of stories for _The Timeline_. Each one can be repeated, and you can always revisit previous steps. You are strongly encouraged to develop stories (i) with the help of others, and (ii) by creating an issue using the "Conceptualisation 🖊️" template.
+There are eight stages to the development of stories for _The Timeline_. Each one can be repeated, and you can always revisit previous steps. You are strongly encouraged to develop stories (i) with the help of others, and (ii) by creating an issue using the "Conceptualisation 🖊️" template.
 <details>
   <summary>Click to expand!</summary>
 
@@ -105,34 +107,40 @@ This is where you can put your most creative self to work. There are at least tw
 * **Top-down idea generation** means thinking big and whittling down. You might be curious about the warring states period in Ancient China, or perhaps evolutionary psychology, or anything! From this broad interest of your own, the goal is then to establish an event that has a clear link to a question for research ethics.
 * **Bottom-up idea generation** is about starting with an event or concept you are aware of, and then studying the broader historical context in which that phenomenon originated. The link between the historical event and topic for research ethics can be established through the process of studying the historical context.
 
-Once you have clarity on the idea or feel you need support to develop it, raise an issue following the "Conceptualisation 🖊️" template and invite discussion.
+Once you have clarity on the idea or feel you need support to develop it, raise an issue following the "Conceptualisation 🖊️" template and invite discussion by using the "Help Wanted" template.
 
 ## Step 2: Compiling Resources
 You are encouraged to employ diverse sources of information when at the idea generation stage. Once an idea becomes clearer, you should draw on sources that adhere to [Protocol 6](#Protocol-6-Reliable-Sources).
+
 ## Step 3: Finding coherent narratives
 With the general idea and the vast quantity of resources you have found, it is finally time to establish the outline of the story and any philosophical arguments to be put forward. [Protocol 5](#Protocol-5-Style-Guide) can help you structure your thoughts.
 
 Also, don't be afraid to discard academic papers, articles or books that become irrelevant. The story must be clear and coherent. This is not to say you should adjust evidence to your own narrative (that would be deeply unethical), but that you must focus on clear arguments and not lead readers astray by introducing too many topics or events.
+  
+## Step 4: Create a WIP file
+Having made it to step three, the story will have earned a file in the "Works_In_Progress" folder! You can create a "shell" story with a title, date and intro by either:
+1. Opening [the folder](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Works_In_Progress) >> click "Add File" at the top right >> select "create new file" >> Name the file following [Protocol 8: File Naming Conventions](#Protocol-8-File-Naming-Conventions) >> Copy and paste the [story template](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/68e1e4062927e08a5c4cbe7d91ed9ed7a2cd260b/A%20Template%20for%20Stories.md) into the new file >> Input the basic information you have so far, making sure to mark `wip: true` and indicate the number of the relevant "Conceptualisation 🖊️" issue after `issue: ` (for example: `issue: 72`).
+2. Or just mentioning [@Ismael-KG](https://github.com/Ismael-KG) in the "Conceptualisation 🖊️" issue for the story and ask to have the file created. Be clear about the event's title, date and intro.
 
-One more thing, having made it to step three, the story will have earned a file in the "Stories in Progress" folder! Just mention [@Ismael-KG](https://github.com/Ismael-KG) in the "Conceptualisation 🖊️" issue for the story and ask to have the file created. Be clear about the event's date, so it can be added to Tiki-Toki.
+To show how far you've made it on the "Conceptualisation 🖊️" issue, add the labels "good first issue" (following [convention for issues where contributions are relatively easy](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/)) and "WIP". This also helps potential contributors see they can help you by listing your issue [here](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+label%3A%22Help+wanted%22+label%3AWIP).
 
-## Step 4: Draft and re-draft the story
+## Step 5: Draft and re-draft the story
 And re-draft again and again and again! You can choose to do this publicly using [HackMD](https://hackmd.io/) or your preferred collaboration tool, or you can draft work privately. Be open to holding discussions on GitHub, but don't feel pressured to share things publicly until you feel comfortable to do so.
 
-## Step 5: Pre-Publication Peer Review
+## Step 6: Pre-Publication Peer Review
 I find GitHub terribly exclusionary. For this reason, stories, once drafted, are placed in this [online HackMD document](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q?both) (as described in [issue #5](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/5)). This wil require [signing up to HackMD](https://hackmd.io/join).
 
 Drafts are kept in the pre-publication document for a period of anything between nine and fifteen days, the last day of which will always be a Saturday.
 
 During this time, the HackMD document is re-shared publicly and people are encouraged to contribute and help improve the drafts.
 
-## Step 6: Publish on GitHub
+## Step 7: Publish on GitHub
 Every Thursday, the pre-publication file must be checked and an issue - following the "Sunday uploads" template - must be created.
 
 On the day after the end of the pre-publication peer review, the new story is revised one last time and given a file in the [Stories folder](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Stories) following the [relevant template](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/A%20Template%20for%20Stories.md).
 
-## Step 7: Publish on [tiki-toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/)
-[@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish new stories on the tiki-toki platform, as he has the admin rights.
+## Step 8: Publish on [tiki-toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/)
+[@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish new stories on the tiki-toki platform, as he has the admin rights. Once this is done, change the "Conceptualisation 🖊️" issue's labels to *only* the "Published!" one and close it.
 </details>
 
 # Protocol 5: Style Guide
@@ -251,3 +259,21 @@ Protocol 1's principles of _impartiality_ and _charitability_ are crucial to ens
 * _Impartiality_  amounts to your own background as a contributor. Whilst we all - wittingly or not - align to some ideology or other, we must (i) seek out sources that might surprise us or not conform to our prejudices, but also (ii) critically evaluate sources. For this reason, various sources must be drawn on to corroborate statements and the validity of analyses.
 * _Charitability_ is necessary when engaging with sources where arguments are unclear to our minds. We must be open to engaging with these in good faith, and begin by giving them the benefit of the doubt. In other words, work from the assumption that sources are clear and rational. Then, provide charitable interpretations. These can then be critically evaluated and refuted on clearer grounds.
 </details>
+
+# Protocol 8: File Naming Conventions
+Although GitHub is not ideally used to navigate something like _The Timeline_, it is helpful to keep files ordered in a coherent manner to faciltate the repository's maintenance. 
+<details>
+  <summary>Click to expand!</summary>
+
+To do so, [Works_In_Progress](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Works_In_Progress) and published [Stories](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Stories) must be named as follows:
+>[BCE or CE] YYYY [Story Title]
+
+For example:
+
+<img width="281" alt="image" src="https://user-images.githubusercontent.com/64027166/146543563-9517b399-6100-48d9-8885-4792de06c70c.png">
+
+This means that BCE stories will be ordered backwards, which is something to keep in mind when browsing the present repository.
+</details>
+
+# Protocol 9: Technical Implementation
+(Protocol Under Construction 🛠️)

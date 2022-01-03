@@ -1,6 +1,9 @@
 ---
 layout: story
-title: "Metrodora"
+title: "Metrodora authors a medical treatise"
+story-status:
+  wip: false
+  issue: 115
 historical-date:
   title: "200 CE because she seems to have lived in the second century"
   bce: false
@@ -17,8 +20,7 @@ read-more: http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.75.3
 intro: Metrodora appears to be the first female author of a medical text.
 ---
 ### The Story
-
-Flemming's paper "Women, Writing and Medicine in the classical world" begins with the following inspiring line: "It is now a well-established fact that women practised medicine in the ancient world" ([2007]( https://doi.org/10.1017/S0009838807000225): 257). It is "inspiring" in the sense that women - who have been historically and continue to be oppressed because of their gender - were able to conduct the important work of physicians or medical scholars. It is also sad, though, in the sense that gender inequality in medicine is still a problem today (Shannon et al., [2019](https://doi.org/10.1016/S0140-6736(18)33135-0)).
+Flemming's paper "Women, Writing and Medicine in the classical world" begins with the following inspiring line: "It is now a well-established fact that women practised medicine in the ancient world" ([2007]( https://doi.org/10.1017/S0009838807000225): 257). It is "inspiring" in the sense that women - who have been historically, and continue to be, oppressed because of their gender - were able to conduct the important work of physicians and medical scholars. It is also sad, though, in the sense that gender inequality in medicine is still a problem today (Shannon et al., [2019](https://doi.org/10.1016/S0140-6736(18)33135-0)).
 
 Flemming's analysis suggests that at least two women may have been influential physicians in the first millenium AD: Cleopatra VII and Cleopatra Metrodora. Cleopatra VII is discussed elsewhere in The Timeline. Metrodora is briefly introduced here.
 

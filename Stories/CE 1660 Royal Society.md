@@ -1,19 +1,22 @@
 ---
 layout: story
 title: "Royal Society"
+story-status:
+  wip: false
+  issue: 120
 historical-date:
-  title: "1660, as per"
+  title: "1660"
   bce: false
   year: 1660
   source: https://royalsociety.org/about-us/history/
-  author: their site
+  author: Royal Society
   source-date: n.d.
 category: opening-knowledge
 tags: ["How We Do Things","What We Value"]
 media:
   source: https://upload.wikimedia.org/wikipedia/commons/4/42/Philosophical_Transactions_Volume_1_frontispiece.jpg
   caption: "The frontpiece of the first publication of the Philosophical Transactions. Source: Wikimedia Commons."
-intro: text
+intro: The Royal Society is established in London, England.
 ---
 ### The Story
 [Al-Ruhawi's 9th century "Al-Tabib"](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16443459!) introduced us to a governance structure for the review of medical notes. He argued for a "local committee of physicians" who would ensure that notes followed appropriate procedure; the latest medical standards, if you will. But how could we ensure that the local council itself knew what the best practices in medicine were? The world had already seen that the library could help store and access knowledge - it could prove useful for the members of the council. We also had scientific institutes to bring groups of researchers together - again, communities of physicians could work in tandem to produce treatises for their field and peers. With the Royal Society, we see England follow in the footsteps of Italy and Germany. However, this story will focus on the history of the main publication of the Royal Society. I will first introduce the evolution of interdisciplinarity in academic journals, in light of the two oldest journals currently in circulation, and then introduce four stages that we see in the Royal Society's development of its modern peer review process.
