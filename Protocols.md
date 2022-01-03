@@ -107,7 +107,7 @@ This is where you can put your most creative self to work. There are at least tw
 * **Top-down idea generation** means thinking big and whittling down. You might be curious about the warring states period in Ancient China, or perhaps evolutionary psychology, or anything! From this broad interest of your own, the goal is then to establish an event that has a clear link to a question for research ethics.
 * **Bottom-up idea generation** is about starting with an event or concept you are aware of, and then studying the broader historical context in which that phenomenon originated. The link between the historical event and topic for research ethics can be established through the process of studying the historical context.
 
-Once you have clarity on the idea or feel you need support to develop it, raise an issue following the "Conceptualisation 🖊️" template and invite discussion.
+Once you have clarity on the idea or feel you need support to develop it, raise an issue following the "Conceptualisation 🖊️" template and invite discussion by using the "Help Wanted" template.
 
 ## Step 2: Compiling Resources
 You are encouraged to employ diverse sources of information when at the idea generation stage. Once an idea becomes clearer, you should draw on sources that adhere to [Protocol 6](#Protocol-6-Reliable-Sources).
@@ -121,6 +121,8 @@ Also, don't be afraid to discard academic papers, articles or books that become 
 Having made it to step three, the story will have earned a file in the "Works_In_Progress" folder! You can create a "shell" story with a title, date and intro by either:
 1. Opening [the folder](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Works_In_Progress) >> click "Add File" at the top right >> select "create new file" >> Name the file following [Protocol 8: File Naming Conventions](#Protocol-8-File-Naming-Conventions) >> Copy and paste the [story template](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/68e1e4062927e08a5c4cbe7d91ed9ed7a2cd260b/A%20Template%20for%20Stories.md) into the new file >> Input the basic information you have so far, making sure to mark `wip: true` and indicate the number of the relevant "Conceptualisation 🖊️" issue after `issue: ` (for example: `issue: 72`).
 2. Or just mentioning [@Ismael-KG](https://github.com/Ismael-KG) in the "Conceptualisation 🖊️" issue for the story and ask to have the file created. Be clear about the event's title, date and intro.
+
+To show how far you've made it on the "Conceptualisation 🖊️" issue, add the labels "good first issue" (following [convention for issues where contributions are relatively easy](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/)) and "WIP". This also helps potential contributors see they can help you by listing your issue [here](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+label%3A%22Help+wanted%22+label%3AWIP).
 
 ## Step 5: Draft and re-draft the story
 And re-draft again and again and again! You can choose to do this publicly using [HackMD](https://hackmd.io/) or your preferred collaboration tool, or you can draft work privately. Be open to holding discussions on GitHub, but don't feel pressured to share things publicly until you feel comfortable to do so.
@@ -138,7 +140,7 @@ Every Thursday, the pre-publication file must be checked and an issue - followin
 On the day after the end of the pre-publication peer review, the new story is revised one last time and given a file in the [Stories folder](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Stories) following the [relevant template](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/A%20Template%20for%20Stories.md).
 
 ## Step 8: Publish on [tiki-toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/)
-[@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish new stories on the tiki-toki platform, as he has the admin rights.
+[@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish new stories on the tiki-toki platform, as he has the admin rights. Once this is done, change the "Conceptualisation 🖊️" issue's labels to *only* the "Published!" one and close it.
 </details>
 
 # Protocol 5: Style Guide
