@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Ge Hong & Bao Gu"
-wip: false
+story-status:
+  wip: false
   issue: 117
 historical-date:
   title: "340"

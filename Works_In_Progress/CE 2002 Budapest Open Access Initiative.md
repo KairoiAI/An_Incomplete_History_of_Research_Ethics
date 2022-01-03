@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Budapest Open Access Initiative"
-wip: true
+story-status:
+  wip: true
   issue: 134
 historical-date:
   title: "14-Feb 2002"

@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Gadamer coins "Erlebnis""
-wip: true
+story-status:
+  wip: true
   issue: 8
 historical-date:
   title: "1905, as this is when Gadamer says [_Das Erlebnis und die Dichtung_](https://www.worldcat.org/title/poetry-and-experience/oclc/11495881) is written"

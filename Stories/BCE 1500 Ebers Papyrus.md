@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Ebers Papyrus"
-wip: false
+story-status:
+  wip: false
   issue: 110
 historical-date:
   title: "1500 BCE, as per p. xiv"

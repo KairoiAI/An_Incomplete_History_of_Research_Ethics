@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Atomic Bomb, Part II"
-wip: false
+story-status:
+  wip: false
   issue: 128
 historical-date:
   title: "01-Aug 1942"

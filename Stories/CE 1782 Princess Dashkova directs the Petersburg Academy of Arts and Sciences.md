@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Princess Dashkova directs the Petersburg Academy of Arts and Sciences"
-wip: false
+story-status:
+  wip: false
   issue: 123
 historical-date:
   title: "1782"

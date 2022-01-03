@@ -18,7 +18,8 @@ date: 2021-01-12 10:47
   {% assign stories = pages | where: "layout", "story"%}
 
 
-{% assign sorted = stories | sort: "historical-date.year" | reverse %}
+  {% assign sorted = stories | sort: "historical-date.year" | reverse %}
+
 
   {% for page in sorted %}
     {% if page.historical-date.bce %}
@@ -30,18 +31,18 @@ date: 2021-01-12 10:47
     {% endif %}
   {% endfor %}
 
-  {% comment %} we sort by year, but don't forget we sorted alll BCE dates... backwards!  {% endcomment %}
-  {% assign sorted_forwards = sorted | reverse %}
+    {% comment %} we sort by year, but don't forget we sorted alll BCE dates... backwards!  {% endcomment %}
+    {% assign sorted_forwards = sorted | reverse %}
 
-  {% for page in sorted_forwards %}
-    {% unless page.historical-date.bce %}
-      <li><a class="page-link" href="{{ page.url | prepend : site.baseurl }}">
-        {{page.historical-date.year}}
-        CE:
-        {{ page.title }}
-      </a></li>
-    {% endunless %}
-  {% endfor %}
+    {% for page in sorted_forwards %}
+      {% unless page.historical-date.bce %}
+        <li><a class="page-link" href="{{ page.url | prepend : site.baseurl }}">
+          {{page.historical-date.year}}
+          CE:
+          {{ page.title }}
+        </a></li>
+      {% endunless %}
+    {% endfor %}
 
   </ul>
 </div>
