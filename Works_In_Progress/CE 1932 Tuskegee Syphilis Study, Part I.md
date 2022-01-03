@@ -1,6 +1,8 @@
 ---
 layout: story
-title: "Tuskagee Syphilis Study, Part I"
+title: "Tuskegee Syphilis Study, Part I"
+wip: true
+  issue: 127
 historical-date:
   title: "1932"
   bce: false

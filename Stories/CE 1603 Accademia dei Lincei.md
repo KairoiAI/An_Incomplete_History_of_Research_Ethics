@@ -1,8 +1,10 @@
 ---
 layout: story
 title: "Accademia dei Lincei"
+wip: false
+  issue: 118
 historical-date:
-  title: "1603, as per page 294"
+  title: "1603"
   bce: false
   year: 1603
   source: https://press.uchicago.edu/ucp/books/book/chicago/G/bo3640574.html

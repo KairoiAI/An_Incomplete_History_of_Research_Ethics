@@ -3,44 +3,53 @@ layout: default
 ---
 <div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+  {% if page.wip %}
+  <div class="notice wip">
+    This story is still a work in progress. If you would like to help write it or know some useful resources that should be referenced, please share some thoughts in the following GitHub issue: <a
+      href="https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/{{ page.issue }}">#{{ page.issue }}</a>!
+  </div>
 
+  {% else %}
   <aside class="story-info">
 
-    <img src="{{page.media.source}}" alt="{{page.media.caption}}" />
+    <img src="{{page.media.source}}" alt="{{page.media.caption}}" class="story-image" />
 
-    <h2>Basic info</h2>
-    <dl>
-    <dt>Date:</dt> <dd>{{page.historical-date.title}}, ({{page.historical-date.author}}, [<a href="{{page.historical-date.source}}">{{page.historical-date.source-date}}</a>])</dd>
-    <dt>Category</dt>
-    <dd>{{site.data.categories[page.category]}}</dd>
-    </dl>
-
-    <div class="tags">
-      <h3>Tags</h3>
-      <ul>
-        {% for tags in page.tags %}
-          <li>
-            <svg class="icon icon-tag">
-              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-tag"></use>
-            </svg>
-            <!-- Uncomment if you want a custom tagging setup. This is optional and only useful if you're not hosting on github, which doesn't support custom jekyll plugins -->
-            <!--
-             <a href="{{ root_url }}/tag/{{tags}}.html">{{ tags }}</a>
-             -->
-             {{ tags }}
-           </li>
-        {% endfor %}
-      </ul>
+    <div class="written-info">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <div class="intro-text">{{page.intro}}</div>
+      <dl>
+        <dt>Year:</dt>
+        <dd>{{page.historical-date.year}}</dd>
+        <dt>Author(s): </dt>
+        <dd>{{page.authors}}</dd>
+        <dt>Contributors: </dt>
+        <dd>{{page.contributors}}</dd>
+        <dt>Category: </dt>
+        <dd>{{site.data.categories[page.category]}}</dd>
+      </dl>
     </div>
   </aside>
 
   <article class="post-content">
-    <h2>Intro</h2>
-    {{page.intro}}
     {{ content }}
   </article>
 
+  <div class="tags">
+    <h3>Tags</h3>
+    <ul>
+      {% for tags in page.tags %}
+      <li>
+        <svg class="icon icon-tag">
+          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-tag"></use>
+        </svg>
+        <!-- Uncomment if you want a custom tagging setup. This is optional and only useful if you're not hosting on github, which doesn't support custom jekyll plugins -->
+        <!--
+         <a href="{{ root_url }}/tag/{{tags}}.html">{{ tags }}</a>
+         -->
+        {{ tags }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
 </div>

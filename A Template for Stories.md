@@ -7,7 +7,7 @@ wip: true or false
 historical-date:
   title: "year, explanation or as per"
   bce: true or false
-  year: YYYY
+  year: YYYY BCE/CE
   source: link to the source that justifies the choice of date
   author: surname(s) of authors of the linked source
   source-date: year
@@ -21,8 +21,6 @@ media:
 read-more: link to the story's pertinent document/article/book, if there is one; otherwise, delete line
 intro: text
 ---
-### The Story
-<!-- Paste the story into this line! Remember the old adage: a line is a paragraph, and a blank line must be placed between paragraphs. -->
 ### The Story
 <!-- Paste the story into this line! Remember the old adage: a line is a paragraph, and a blank line must be placed between paragraphs. -->
 ```

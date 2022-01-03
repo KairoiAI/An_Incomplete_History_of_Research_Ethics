@@ -1,6 +1,8 @@
 ---
 layout: story
 title: "Journal des Sçavans"
+wip: false
+  issue: 121
 historical-date:
   title: "05-Jan 1665"
   bce: false
