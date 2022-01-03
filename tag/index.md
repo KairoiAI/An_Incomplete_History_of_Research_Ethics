@@ -1,5 +1,11 @@
+---
+layout: default
+title: Tag index
+show-in-nav: true
+---
+
 {% assign rawtags = "" %}
-{% for post in site.posts %}
+{% for post in site.pages %}
   {% assign ttags = post.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
@@ -15,4 +21,12 @@
       {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
     {% endunless %}
   {% endif %}
+{% endfor %}
+
+{% for tag in tags %}
+<li><a class="page-link" href="{{ tag | prepend : site.baseurl }}">
+
+    {{tag}}
+
+  </a></li>
 {% endfor %}
