@@ -125,22 +125,28 @@ Having made it to step three, the story will have earned a file in the "Works_In
 To show how far you've made it on the "Conceptualisation 🖊️" issue, add the labels "good first issue" (following [convention for issues where contributions are relatively easy](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/)) and "WIP". This also helps potential contributors see they can help you by listing your issue [here](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+label%3A%22Help+wanted%22+label%3AWIP).
 
 ## Step 5: Draft and re-draft the story
-And re-draft again and again and again! You can choose to do this publicly using [HackMD](https://hackmd.io/) or your preferred collaboration tool, or you can draft work privately. Be open to holding discussions on GitHub, but don't feel pressured to share things publicly until you feel comfortable to do so.
+And re-draft again and again and again! You can choose to do this publicly using [HackMD](https://hackmd.io/) or your preferred collaboration tool, or you can draft work privately. Be open to holding discussions on GitHub using the "Conceptualisation 🖊️" issue, but don't feel pressured to share things publicly until you feel comfortable to do so.
 
 ## Step 6: Pre-Publication Peer Review
-I find GitHub terribly exclusionary. For this reason, stories, once drafted, are placed in this [online HackMD document](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q?both) (as described in [issue #5](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/5)). This wil require [signing up to HackMD](https://hackmd.io/join).
+Once you are happy to share what you have written with the help of collaborators, it's time to get it peer reviewed!
+
+GitHub is not very inclusive, nor is it intended as a text editor. For this reason, once stories are drafted, they are to be pasted into this [HackMD document](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q?both), which uses markdown similarly to GitHub. [Issue #5](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/5)). This will require [signing up to HackMD](https://hackmd.io/join).
 
 Drafts are kept in the pre-publication document for a period of anything between nine and fifteen days, the last day of which will always be a Saturday.
 
 During this time, the HackMD document is re-shared publicly and people are encouraged to contribute and help improve the drafts.
 
 ## Step 7: Publish on GitHub
-Every Thursday, the pre-publication file must be checked and an issue - following the "Sunday uploads" template - must be created.
-
-On the day after the end of the pre-publication peer review, the new story is revised one last time and given a file in the [Stories folder](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Stories) following the [relevant template](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/A%20Template%20for%20Stories.md).
+On the day after the end of the pre-publication peer review (a Sunday), the drafted story is to be revised one last time by its authors. Depending on the complexity of the comments received, their integration can be more or less swift. Don't feel like you need to adopt all the comments, or do so too quickly!
+  
+Once you are happy with the polished story, go to the WIP file you created in step 4 and paste the story! By following the steps, you will raise a pull request where you can ask for "reviewers." Add [@Ismael-KG](https://github.com/Ismael-KG) as a reviewer and he will merge your story!
 
 ## Step 8: Publish on [tiki-toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/)
-[@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish new stories on the tiki-toki platform, as he has the admin rights. Once this is done, change the "Conceptualisation 🖊️" issue's labels to *only* the "Published!" one and close it.
+[@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish new stories on the tiki-toki platform, as he has the admin rights. Once this is done, there are just two more steps to follow:
+  1. In the opening comment of the issue, keep the title, date and intro, and replace the rest with the following text:
+> `**This story has been published [on Tiki-Toki](insert the relevant Tiki-Toki link here), but please feel free to reopen this issue and make any suggestions below!**`
+
+  2. Change the "Conceptualisation 🖊️" issue's labels to *only* the "Published!" one, and finally close the issue! 🎉
 </details>
 
 # Protocol 5: Style Guide
