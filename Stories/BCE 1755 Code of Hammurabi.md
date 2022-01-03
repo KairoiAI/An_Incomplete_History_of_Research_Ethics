@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Code of Hammurabi"
-wip: false
+story-status:
+  wip: false
   issue: 111
 historical-date:
   title: "1755 BCE, not to say 'some time between 2342 and 1950 BCE,' although that's how divergent the views are"

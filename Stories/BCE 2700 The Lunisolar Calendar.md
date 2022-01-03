@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "The Lunisolar Calendar"
-wip: false
+story-status:
+  wip: false
   issue: 113
 historical-date:
   title: "2700 BCE"

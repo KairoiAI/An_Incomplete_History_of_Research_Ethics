@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Émile Durkheim coins "collective consciousness""
-wip: false
+story-status:
+  wip: false
   issue: 125
 historical-date:
   title: "1893"

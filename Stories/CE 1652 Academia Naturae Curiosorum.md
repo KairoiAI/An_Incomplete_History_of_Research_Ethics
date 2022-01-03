@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Academia Naturae Curiosorum"
-wip: false
+story-status:
+  wip: false
   issue: 119
 historical-date:
   title: "01-Jan 1652"

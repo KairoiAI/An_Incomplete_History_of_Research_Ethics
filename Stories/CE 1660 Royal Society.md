@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Royal Society"
-wip: false
+story-status:
+  wip: false
   issue: 120
 historical-date:
   title: "1660"

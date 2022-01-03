@@ -1,7 +1,8 @@
 ---
 layout: story
 title: ""The Conquest" begins in Mesoamerica"
-wip: true
+story-status:
+  wip: true
   issue: 91
 historical-date:
   title: "1519"

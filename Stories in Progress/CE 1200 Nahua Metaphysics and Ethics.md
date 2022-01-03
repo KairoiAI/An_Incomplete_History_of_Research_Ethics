@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Nahua Metaphysics and Ethics"
-wip: false
+story-status:
+  wip: false
   issue: 133
 historical-date:
   title: "1200"
@@ -23,7 +24,7 @@ intro: Pre-Hispanic Mesoamerican philosophy teaches us of the link between belie
 The way we conceive of reality can have implications for how we conduct ourselves. More technically, theories of metaphysics can entail theories of morality. The pre-colonisation society of the Nahua people in Mesoamerica provides a case in point. Drawing mostly on Maffie's work, I will briefly introduce the metaphysics of the Nahua people, and show how it was intricately linked to their theory of ethics. This will support the claim that different notions of the world can affect how we pose research questions.
 
 ### The Story
-Mesoamerica is a historical region that comprises the enormous land mass between modern-day Costa Rica and central Mexico, covering Nicaragua, El Salvador, Honduras, Guatemala and Belize (Carballo, [2020](https://doi.org/10.1093/oso/9780190864354.003.0002)). The cultures that flourished in the region are also the only ones that had developed written historical records prior to the European invasion, which began towards the end of the fifteenth century (Smith, [1984](https://doi.org/10.2307/482619): 153). These records are in four traditions - Maya, Zapotec, Mixtec and Nahuatl (Marcus, [1976](https://www.jstor.org/stable/2949303)). Nahuatl was the more extensively used language in Mesoamerica and I am drawing on this to speak of "Nahua people" rather than the more recognisable "Aztecs." 
+Mesoamerica is a historical region that comprises the enormous land mass between modern-day Costa Rica and central Mexico, covering Nicaragua, El Salvador, Honduras, Guatemala and Belize (Carballo, [2020](https://doi.org/10.1093/oso/9780190864354.003.0002)). The cultures that flourished in the region are also the only ones that had developed written historical records prior to the European invasion, which began towards the end of the fifteenth century (Smith, [1984](https://doi.org/10.2307/482619): 153). These records are in four traditions - Maya, Zapotec, Mixtec and Nahuatl (Marcus, [1976](https://www.jstor.org/stable/2949303)). Nahuatl was the more extensively used language in Mesoamerica and I am drawing on this to speak of "Nahua people" rather than the more recognisable "Aztecs."
 
 Unfortunately, no written records from before the European invasion of Mesoamerica remain. Thus, scholarship into prehispanic Mesoamerica relies strongly on works that emerged from the sixteenth century, precisely from the era where Spanish colonisers entered the scene. The complex relationship between Spanish colonisers and Nahuatl knowledge is discussed when introducing ["The Conquest" of 1519 to 1521](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/#vars!panel=16699328!). In the present story, I draw on the work of scholars who have compiled and analysed a great myriad of studies on ancient Nahuatl speakers. Specifically, the philosopher James Maffie's writings will help introduce the philosophical beliefs of the era and region.
 

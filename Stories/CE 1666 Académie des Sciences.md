@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Académie des Sciences"
-wip: false
+story-status:
+  wip: false
   issue: 122
 historical-date:
   title: "22-Dec 1666"

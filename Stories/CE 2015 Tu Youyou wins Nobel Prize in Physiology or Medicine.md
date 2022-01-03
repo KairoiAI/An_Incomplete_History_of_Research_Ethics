@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Tu Youyou wins Nobel Prize in Physiology or Medicine"
-wip: false
+story-status:
+  wip: false
   issue: 132
 historical-date:
   title: "05-Oct 2015"

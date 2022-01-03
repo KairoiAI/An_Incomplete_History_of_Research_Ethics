@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Metrodora authors a medical treatise"
-wip: false
+story-status:
+  wip: false
   issue: 115
 historical-date:
   title: "200 CE because she seems to have lived in the second century"

@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Accademia dei Lincei"
-wip: false
+story-status:
+  wip: false
   issue: 118
 historical-date:
   title: "1603"

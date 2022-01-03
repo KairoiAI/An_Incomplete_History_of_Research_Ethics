@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Tuskegee Syphilis Study, Part II"
-wip: true
+story-status:
+  wip: true
   issue: 131
 historical-date:
   title: "26 July, 1972"

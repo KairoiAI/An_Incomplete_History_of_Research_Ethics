@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Project 523"
-wip: false
+story-status:
+  wip: false
   issue: 130
 historical-date:
   title: "23-May 1967"

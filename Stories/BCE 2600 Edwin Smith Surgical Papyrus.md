@@ -1,7 +1,8 @@
 ---
 layout: story
 title: "Edwin Smith Surgical Papyrus"
-wip: false
+story-status:
+  wip: false
   issue: 112
 historical-date:
   title: "Between 2600 and 2150 BCE"

@@ -2,7 +2,8 @@
 ---
 layout: story
 title: "title"
-wip: true or false
+story-status:
+  wip: true or false
   issue: 
 historical-date:
   title: "year, explanation or as per"

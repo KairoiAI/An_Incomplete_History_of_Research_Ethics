@@ -1,15 +1,13 @@
 ---
 layout: story
 title: "Cleopatra, the Legend"
-wip: false
+story-status:
+  wip: false
   issue: 109
 historical-date:
   title: "30 BCE, when she took her life"
   bce: true
-historical-date:
-  title: "30 BCE, when she took her life"
-  bce: true
-  year: 30 BCE
+  year: 30
   source: https://www.britishmuseum.org/collection/term/BIB2618
   author: Walker & Higgs
   source-date: 2001
