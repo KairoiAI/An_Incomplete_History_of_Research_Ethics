@@ -1,5 +1,4 @@
-<!-- *Copy and paste this file's text (in raw, without rendering) into new files for new stories. -->
-
+related issue: 94
 ### Basic Info
 
 **Title:**

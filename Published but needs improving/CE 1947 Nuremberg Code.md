@@ -1,7 +1,8 @@
+related issue: 67
 ### Basic Info
 
 **Title:**
-Nuremburg Code
+Nuremberg Code
 
 **Date:**
 19-Aug 1947 (needs justifying)

@@ -1,12 +1,14 @@
 ---
 layout: story
 title: "Academia Naturae Curiosorum"
+wip: false
+  issue: 119
 historical-date:
   title: "01-Jan 1652"
   bce: false
   year: 1652
   source: https://www.leopoldina.org/en/about-us/about-the-leopoldina/history/the-history-of-the-leopoldina/
-  author: their site
+  author: Leopoldina
   source-date: n.d.
 category: opening-knowledge
 tags: ["How We Do Things","What We Value"]

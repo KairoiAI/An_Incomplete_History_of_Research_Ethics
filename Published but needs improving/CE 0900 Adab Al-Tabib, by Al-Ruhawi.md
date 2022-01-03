@@ -1,10 +1,15 @@
+related issue: 54
+
 ### Basic Info
 
-**Title:** Adab Al-Tabib by Al-Ruhawi
+**Title:** 
+Adab Al-Tabib, by Al-Ruhawi
 
-**Date:** 900 AD for "ninth century" (Padela, [2007](https://doi.org/10.1111/j.1467-8519.2007.00540.x)).
+**Date:** 
+900 BCE for "ninth century" (Padela, [2007](https://doi.org/10.1111/j.1467-8519.2007.00540.x)).
 
-**Intro:** The title can be translated to "Practical ethics of the physician"
+**Intro:**
+The title can be translated to "Practical ethics of the physician."
 
 **Category:** Improving Research
 
@@ -26,4 +31,4 @@ Amongst other practices, this book advocates for physicians to produce duplicate
 
 Importantly, this amounts to a governance structure, “a local council of physicians” who would review medical notes. The process is a mechanism to ensure that doctors are conducting themselves correctly. What’s more, there is mention in Al-Mousawi’s quote of adhering to “the standards that then prevailed” (ibid.). This responds to the same need: there are a set of standards to follow if one wants to be a good physician. These standards seem to align with Hippocrates’ talk of “knowledge and skills”. The difference now is that Al-Ruhawi has suggested a process whereby these knowledge and skills might be put in check.
 
-See also Levely ([1967](https://doi.org/10.2307/1006137))
+See also Levely ([1967](https://doi.org/10.2307/1006137)).

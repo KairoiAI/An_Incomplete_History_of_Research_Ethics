@@ -1,10 +1,12 @@
 ---
 layout: story
 title: "Thank the Scribes!"
+wip: false
+  issue: 114
 historical-date:
-  title: "3250 BC"
+  title: "3250 BCE"
   bce: true
-  year: 3250
+  year: 3250 BCE
   source: https://doi.org/10.1093/oxfordhb/9780199935413.013.61
   author: Regulski
   source-date: 2016

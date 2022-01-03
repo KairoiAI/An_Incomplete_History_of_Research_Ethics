@@ -1,20 +1,28 @@
+related issue: 92
 ### Basic Info
 
-**Title:** Res Ipsa Loquitur
+**Title:** 
+Res Ipsa Loquitur
 
-**Date:** 1863, as per Fridman ([1954](https://doi.org/10.2307/824843): 233) and the fact that the term was coined in the Byrne v Boadle *Barrel Case* of 1863 (see Webb, [2007](https://www.jstor.org/stable/40040348)).
+**Date:** 
+1863, as per Fridman ([1954](https://doi.org/10.2307/824843): 233) and the fact that the term was coined in the Byrne v Boadle *Barrel Case* of 1863 (see Webb, [2007](https://www.jstor.org/stable/40040348)).
 
-**Intro:** A legal term coined in Liverpool, England, helps with the assignation of responsibility.
+**Intro:** 
+A legal term coined in Liverpool, England, helps with the assignation of responsibility.
 
-**Category:** Either (2) Legislation, Declarations & Frameworks; or (4) Research Tragedies. It could link with the "research tragedies" of deaths and injuries involving automated/driverless vehicles, which might deserve a separate entry.
+**Category:** 
+Either (2) Legislation, Declarations & Frameworks; or (4) Research Tragedies. It could link with the "research tragedies" of deaths and injuries involving automated/driverless vehicles, which might deserve a separate entry.
 
-**Link:** N/A
+**Link:** 
+N/A
 
 ### Media
 
-**Source:** [A direct link to an image that can be shared; [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia) is a good place to look]
+**Source:** 
+[A direct link to an image that can be shared; [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia) is a good place to look]
 
-**Caption:** [Insert a description of the image; be detailed as this will serve as ALT text]
+**Caption:** 
+[Insert a description of the image; be detailed as this will serve as ALT text]
 
 ### Tags
 

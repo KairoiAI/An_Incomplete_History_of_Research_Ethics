@@ -1,6 +1,7 @@
-Test
+Related issue: 47
+
 **Title:** 
-[Insert title for this story]
+Hippocratic Oath
 
 **Date:** 
 5th century BC (see Dossabhoy et al., [2017](https://doi.org/10.1016/j.janh.2017.09.005); Green, [2017](https://doi.org/10.1186/s13104-017-3114-7)).

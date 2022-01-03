@@ -1,7 +1,9 @@
+Related issue: 49
+
 ### Basic Info
 
 **Title:** 
-The World's First Encyclopedia
+The Assyrian Dictionary
 
 **Date:** 
 2400 BC because it includes vocabulary from then, I think? (See Wilford, [2011](https://www.nytimes.com/2011/06/07/science/07dictionary.html)).

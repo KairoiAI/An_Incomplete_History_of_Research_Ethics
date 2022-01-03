@@ -3,9 +3,16 @@ layout: default
 ---
 <div class="post">
 
+  {% if page.wip %}
+  <div class="notice wip">
+    This story is still a work in progress. If you would like to help write it or know some useful resources that should be referenced, please share some thoughts in the following GitHub issue: <a
+      href="https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/{{ page.issue }}">#{{ page.issue }}</a>!
+  </div>
+
+  {% else %}
   <aside class="story-info">
 
-    <img src="{{page.media.source}}" alt="{{page.media.caption}}" class="story-image"/>
+    <img src="{{page.media.source}}" alt="{{page.media.caption}}" class="story-image" />
 
     <div class="written-info">
       <h1 class="post-title">{{ page.title }}</h1>
@@ -13,8 +20,10 @@ layout: default
       <dl>
         <dt>Year:</dt>
         <dd>{{page.historical-date.year}}</dd>
-        <dt>Author: </dt>
-        <dd>({{page.historical-date.author}}, [<a href="{{page.historical-date.source}}">{{page.historical-date.source-date}}</a>])</dd>
+        <dt>Author(s): </dt>
+        <dd>{{page.authors}}</dd>
+        <dt>Contributors: </dt>
+        <dd>{{page.contributors}}</dd>
         <dt>Category: </dt>
         <dd>{{site.data.categories[page.category]}}</dd>
       </dl>
@@ -42,5 +51,5 @@ layout: default
       {% endfor %}
     </ul>
   </div>
-
+  {% endif %}
 </div>
