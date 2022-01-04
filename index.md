@@ -15,7 +15,7 @@ This site contains a more accessible version of the text on the [Tiki-Toki](http
 There are three main parts to all pages on this site:
 * The header above has the relevant title of the page you have open, as well as a button related to contributing via GitHub, and a search box.
 * The content of the page will reflect the section you are reading. Links in the content and elsewhere will open in the same tab on your browser.
-* The menu on the left lists (i) stories by century in a collapsed menu, followed by (ii) story categories, (iii) story tags, and (iv) all the protocols, also collapsed by default. Both of these (stories and protocols) are shared below too, so you can always come back to the Home Page to find what you need!
+* The menu on the left contains options for navigating stories: by century, category and tag. The protocols are also listed there. Both stories and protocols are shared below too, so you can always come back to the Home Page to find what you need!
 
 ### Finding stories
 Thanks to how we navigate timelines on Tiki-Toki, stories fit into one of four categories, and can relate to up to four tags. You can search for stories based on their tags or categories.
