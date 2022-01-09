@@ -2,7 +2,7 @@
 layout: story
 title: "The Right to Privacy, by Warren & Brandeis"
 story-status:
-  wip: false
+  wip: true
   issue: 124
 historical-date:
   title: "15-Dec 1890"
