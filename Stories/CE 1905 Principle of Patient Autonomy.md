@@ -2,7 +2,7 @@
 layout: story
 title: "Principle of Patient Autonomy"
 story-status:
-  wip: false
+  wip: true
   issue: 126
 historical-date:
   title: "1905 to 1914"
