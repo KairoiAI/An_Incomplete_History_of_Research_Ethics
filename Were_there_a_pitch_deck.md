@@ -1,15 +1,10 @@
 ## Table of contents
-[Mission](#Mission)
-
-[Vision](#Vision)
-
-[The Gap](#The-Gap)
-
-[The Aims](#The-Aims)
-
-[The Method](#The-Method)
-
-[The Audience](#The-Audience)
+* [Mission](#Mission)
+* [Vision](#Vision)
+* [The Gap](#The-Gap)
+* [The Aims](#The-Aims)
+* [The Method](#The-Method)
+* [The Audience](#The-Audience)
 
 ## Mission
 Bringing to life past events that inspire a more thoughtful science today.
