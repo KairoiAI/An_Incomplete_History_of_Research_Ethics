@@ -1,4 +1,4 @@
-This file tracks online references to _A History of Research Ethics_.
+This file tracks online references to _An Incomplete History of Research Ethics_.
 
 # ⭐ Advocates ⭐
 Lovely people who celebrate the spirit of _An Incomplete History of Research Ethics_ and contribute by spreading the joy!
