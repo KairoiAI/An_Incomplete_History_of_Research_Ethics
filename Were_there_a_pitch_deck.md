@@ -20,7 +20,7 @@ Evolving initially from medicine to animal research and, more recently, to field
 ## The Aims
 *An Incomplete History of Research Ethics* has three overarching aims: to compile engaging stories, to deliver these in inclusive formats, and to provide narratives that are insightful to decision-makers in today's research landscape.
 
-The first aim of *The Timeline* is to build a community-led approach to discovering and creating engaging stories that enrichen modern conceptions of both research ethics and its history. This community must reflect on the very diversity of human history to provide critical analyses of its many interacting elements. The compiled stories in *An Incomplete History of Research Ethics* can then constitute policy-informing pedagogical resources.
+The first aim of *The Timeline* is to build a community-led approach to discovering and creating engaging stories that enrich modern conceptions of both research ethics and its history. This community must reflect on the very diversity of human history to provide critical analyses of its many interacting elements. The compiled stories in *An Incomplete History of Research Ethics* can then constitute policy-informing pedagogical resources.
 
 The second aim is for stories to be shared as widely as possible. Through an interactive timeline, short synopses and long-reads, *An Incomplete History of Research Ethics* must be easily adapted for use by schools, universities and corporate training facilitators. To reach diverse audiences and share the important stories our past holds for modern research, *The Timeline* must be built on inclusive formats.
 
