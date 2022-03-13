@@ -1,3 +1,21 @@
+# LSE's Knowledge Beyond Boundaries Application
+### Date Applied
+13-Mar 2022
+### Due Response
+03-May 2022
+### Title
+Collaborating on An Incomplete History of Research Ethics
+
+### Presentation Type
+Poster: a 3-5 minute ‘flash talk’ presentation accompanied by a poster
+
+### Abstract
+Conducting research responsibly requires training in research ethics. An Incomplete History of Research Ethics provides a tool to support researchers, regardless of their field of inquiry, to develop reflexivity in regards to their work. By compiling "stories" from history, this project provides relevant insights through engaging story-telling and enticing formats, such as Tiki-Toki (https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/). It also draws from diverse fields, dispelling a notion of research ethics as pertaining only to clinical research (this would be the subfield of bioethics). Finally, the project engages with non-Western philosophical traditions, accounting for the complexities of modern science and society.
+
+The poster presentation will have two parts. Firstly, I introduce the project and its usefulness as a resource in research ethics training. I draw on my experience as a provider of research ethics training at the Alan Turing Institute to make this case. Secondly, I outline the importance of going beyond epistemic boundaries in developing An Incomplete History of Research Ethics. The project's collaborative spirit is captured by the use of GitHub (https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics). I will outline ways to contribute to the project via the GitHub repository, and invite the audience to join me to develop this inherently multidisciplinary resource.
+
+---
+
 # OLS-5 Application
 ### Title
 A History of Research Ethics
