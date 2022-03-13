@@ -16,6 +16,36 @@ The poster presentation will have two parts. Firstly, I introduce the project an
 
 ---
 
+# Collaborations Workshop 2022 Lightning Talk
+### Date Applied
+21-Feb 2022
+### Due Response
+18-Mar 2022
+### Title
+Learning from An Incomplete History of Research Ethics
+### Abstract
+An introduction to stories from An Incomplete History of Research Ethics that are relevant to data science and AI ethics.
+### Theme
+Ethics
+
+---
+
+# Collaborations Workshop 2022 Mini Workshop
+### Date Applied
+19-Jan 2022
+### Due Response
+18-Mar 2022
+### Response
+21-Feb 2022: rejection with possibility of delivering a lightning talk!
+### Abstract
+The ethics of software design, development and research are becoming increasingly important in the software engineer’s toolkit. Being able to reflect on the moral implications of their work will only gain traction as technological advancements have more significant societal impacts. In this mini-workshop, I wish to introduce a new resource for software engineers and researchers to engage with the questions their work raises. An Incomplete History of Research Ethics (The Timeline, for short) provides a growing compilation of thought-provoking stories from our shared past. Using diverse and engaging formats, it enables varied audiences inside and out of knowledge-production to conduct and critique research as a product of its social context. The workshop will begin with an introduction to the ways computer scientists and researchers more generally can collaborate and help develop a sustainable learning resource. I then introduce three developing stories from The Timeline that are relevant to data science and technology. Firstly, I share reflections that preempt current discourse about non-fungible tokens (NFTs) from the 1930s. Secondly, I outline an 1890's paper that raises concerns about the impact of contemporary technology on individuals’ right to privacy. Thirdly, I introduce the modern implications of the early development of cartography or map-making. Finally, I welcome participants to critique The Timeline (specifically asking ways to make it more relevant still to AI and data science researchers), and invite them to become collaborators on the project.
+### Theme
+Ethics
+### Session Description
+One aim is to gather feedback on how to make An Incomplete History of Research Ethics more useful to CW’s audience. My previous role in research ethics at the Alan Turing Institute showed me that data scientists often lack case studies to prompt reflection. I want to ensure that The Timeline is helpful for their cutting-edge work. More importantly, the mini-workshop should prompt the audience’s reflection on both the ethics of their work and the diverse nature of research ethics. By drawing on the history of current debates, the mini-workshop aims to make the history of research ethics (and The Timeline in particular) relevant to modern technologies. The impact of the session will be measured in the collaborations on the project that result from the session.
+
+---
+
 # OLS-5 Application
 ### Title
 A History of Research Ethics
