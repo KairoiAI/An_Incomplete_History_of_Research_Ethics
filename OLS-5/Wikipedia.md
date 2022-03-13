@@ -13,12 +13,11 @@ A major concern for _An Incomplete History of Research Ethics_ regards _incentiv
 * Finally, I myself have found _Wikipedia_ to just be fun! I only joined March 2022, but, after getting used to making small edits, I went to the _[Research Ethics](https://en.wikipedia.org/wiki/Research#Research_ethics)_ subsection and made [a few tweaks](https://twitter.com/hermeneuticist/status/1501999523119435777) I think are quite important!
 
 Taking those four reasons to write on _Wikipedia_ seriously, we can think of how to incentivise contributions to _An Incomplete History of Research Ethics_:
+<img align="right" alt="Spongebob Squarepants spins over the word fun" src="https://c.tenor.com/5wFPsulVqiYAAAAC/spongebob-fun.gif">
 
 * **Featured articles** will require much greater following to make sense. Currently, stories get shared in "series" via Medium, but this would be an easy option, perhaps featuring stories on Twitter once a week, for example!
 * **Community** is key to building _The Timeline_ sustainably.
 * **Recognising contributors** is important and, whilst a following as large as China cannot be promised, contributors are recognised through GitHub [releases](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/releases), by adding their names to stories they contribute to, and by seeing GitHub's more detailed logs of changes.
 * **FUN!** An exercise should be carried out to determine what contributions are most fun (perhaps adding images or reviewing stories for typos) or, rather, contributors should make changes that they find most fun!
-
-<img align="right" alt="Spongebob Squarepants spins over the word fun" src="https://c.tenor.com/5wFPsulVqiYAAAAC/spongebob-fun.gif">
 
 # _Research Ethics_ page on _Wikipedia_
