@@ -19,6 +19,6 @@ Taking those four reasons to write on _Wikipedia_ seriously, we can think of how
 * **Recognising contributors** is important and, whilst a following as large as China cannot be promised, contributors are recognised through GitHub [releases](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/releases), by adding their names to stories they contribute to, and by seeing GitHub's more detailed logs of changes.
 * **FUN!** An exercise should be carried out to determine what contributions are most fun (perhaps adding images or reviewing stories for typos) or, rather, contributors should make changes that they find most fun!
 
-![Spongebob spins across the word "FUN"](https://c.tenor.com/5wFPsulVqiYAAAAC/spongebob-fun.gif)
+<img align="right" alt="Spongebob Squarepants spins over the word fun" src="https://c.tenor.com/5wFPsulVqiYAAAAC/spongebob-fun.gif">
 
 # _Research Ethics_ page on _Wikipedia_
