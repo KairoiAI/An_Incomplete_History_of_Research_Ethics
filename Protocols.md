@@ -10,6 +10,7 @@ Protocols for _A History of Research Ethics_ are on different topics. Their one 
 * [Protocol 7: Public Engagement](#Protocol-7-Public-Engagement)
 * [Protocol 8: Naming Conventions](#Protocol-8-Naming-Conventions)
 * [Protocol 9: Technical Implementation](#Protocol-9-Technical-Implementation)
+* [# Protocol 10: Editorial Care](#Protocol-10-Editorial-Care)
 
 # Protocol 1: Code of Conduct
 A key purpose of _An Incomplete History of Research Ethics_ is to demonstrate the variety of disciplines and backgrounds that can help gain a richer notion of research ethics. Whilst this "richness" needs spelling out, this is not the place for that. This is the place where we note the pernicious aspects of human nature, which become particularly salient when we encounter voices we are not accustomed to and perspectives that differ from our own in areas we are especially passionate about. The necessity for diversity in a project such as _A History of Research Ethics_ can result in clashes or conflicts. This code will continue to be improved, but it sets out two things: (i) expected behaviours when contributing to the present repository, and (ii) methods for resolution.
@@ -18,7 +19,7 @@ A key purpose of _An Incomplete History of Research Ethics_ is to demonstrate th
 
 ## Principles for Participation
 Participating in discussions on the present repository means adhering to the following principles, adapted from All European Academies ([2011](https://allea.org/portfolio-item/the-european-code-of-conduct-for-research-integrity-2/)):
-* _Duty of care_ is paramount. We are all here to learn from one another and that requires that we all feel safe and included in discussions, even when they do get heated. Kindness is key to the success of _A History of Research Ethics_.
+* _Duty of care_ is paramount. We are all here to learn from one another and that requires that we all feel safe and included in discussions, even when they do get heated. Kindness is key to the success of _An Incomplete History of Research Ethics_.
 * _Honesty_ in engaging with views and interpretations that differ from our own, and in providing evidence to argue for one's position. It also means being honest about the contributions we make to _The Timeline_.
 * _Humility_ relates to honesty insofar that we must be honest with our own limitations. Contributors to _The Timeline_ must be open to others' perspectives and accepting that someone else just knows more about a certain domain.
 * _Charitability_ is about treating all perspectives with the same due diligence. No perspective is automatically better than another, and adequate argumentation is necessary to overcome differences.
@@ -26,7 +27,7 @@ Participating in discussions on the present repository means adhering to the fol
 * _Reliability_ of sources drawn on when contributing to _The Timeline_. This principle is captured by [Protocol 6](#Protocol-6-Reliable-Sources).
 * _Impartiality_ from political, financial or ideological pressure groups. This does not mean you are to be "apolitical" (the history of humanity is deeply political), but contributing with some political, financial or ideological agenda can lead to biased readings of historical events.
 * _Sustainability_ of _The Timeline_ hinges on contributors being aware of this code of conduct and broader governance procedures. The Protocols capture guidelines for all contributors to adhere to.
-### Resolution: Reconciliation or Reprimand
+## Resolution: Reconciliation or Reprimand
 _The Timeline_ is a private endeavour. There are no formal mechanisms for mediation, but personality clashes and unassailably divergent communication styles sometimes meet. The above eight principles will guide behaviours and be drawn on to establish whether an engagement is in good faith or crosses a line. However, whistleblowers and victims will always be taken seriously, and the principles will adjust if needed. Three approaches to conflicts between contributors are listed below:
 1. The priority when handling relationships that have soured will be reconciliation. The key is that all contributors get on together. If, through dialogue, we can set our differences aside and move on in tandem, so it shall be!
 2. When problems have gone too far, we can aim for tolerance; the parties shall need to learn to tolerate that the other is also a part of the project. However, the involved parties will be assigned different tasks to work on, so that encounters are kept to a minimum.
@@ -86,8 +87,8 @@ The content of the timeline can be improved and maintained by the following cont
 * **Research:** research contributions are useful during the conceptualisation and story-writing stages. It is mostly about providing links to useful resources.
 * **Authorship or co-authorship:** this is when a new story has been drafted in full by one or more people.
 * **Review:** providing reviews requires expertise on the stories to be reviewed. It is about ensuring the accuracy of claims and quality of argumentation. Reviews are "higher-level" than copy-editing.
-* **Copy-editing:** this is a thorough analysis of a text's consistency and clarity, and ensures that the text is also in line with _The Timeline_'s style guide (yet to be made).
 * **Proofreading:** proofreeding is when contributors scour stories for syntactical, grammatical and spelling mistakes.
+* **Copy-editing:** this is a thorough analysis of a text's consistency and clarity, and ensures that the text is also in line with _The Timeline_'s style guide (yet to be made). Further details on this type of contribution are available in [Protocol 10: Editorial Care](#Protocol-10-Editorial-Care).
 
 ## Recognition
 It would be unfair to create a system where anybody can contribute yet nobody gains recognition. As contributions grow, sustainability ones will be acknowledged at the end of protocols. For example, a protocol might end with "This protocol was designed by @/so-and-so."
@@ -98,7 +99,7 @@ The principles of _honesty_ and _humility_ are particularly important to recogni
 </details>
 
 # Protocol 4: Lifecycle of a Story
-There are eight stages to the development of stories for _The Timeline_. Each one can be repeated, and you can always revisit previous steps. You are strongly encouraged to develop stories (i) with the help of others, and (ii) by creating an issue using the "Conceptualisation 🖊️" template.
+There are eight ateps to the development of stories for _The Timeline_. Each one can be repeated, and you can always revisit previous steps. You are strongly encouraged to develop stories (i) with the help of others, and (ii) by creating an issue using the "Conceptualisation 🖊️" template. This Protocol is written with potential authors in mind. For more details on reviewing contributions, see [Protocol 10: Editorial Care](#Protocol-10-Editorial-Care).
 <details>
   <summary>Click to expand!</summary>
 
@@ -130,20 +131,20 @@ And re-draft again and again and again! You can choose to do this publicly using
 ## Step 6: Pre-Publication Peer Review
 Once you are happy to share what you have written with the help of collaborators, it's time to get it peer reviewed!
 
-GitHub is not very inclusive, nor is it intended as a text editor. For this reason, once stories are drafted, they are to be pasted into this [HackMD document](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q?both), which uses markdown similarly to GitHub. [Issue #5](https://github.com/Ismael-KG/A-History-of-Research-Ethics/issues/5)). This will require [signing up to HackMD](https://hackmd.io/join).
+GitHub is not intended to be used as a text editor. For this reason, once stories are drafted, they are to be pasted into this [HackMD document](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q?both), which uses markdown (similarly to GitHub) but is much easier to comment on. This will require [signing up to HackMD](https://hackmd.io/join).
 
-Drafts are kept in the pre-publication document for a period of anything between nine and fifteen days, the last day of which will always be a Saturday.
+Drafts are kept in the pre-publication document for a period of anything between nine and fifteen days, the last day of which will always be a Saturday. This allows for storiesto be uploaded "in bulk" on Sundays.
 
-During this time, the HackMD document is re-shared publicly and people are encouraged to contribute and help improve the drafts.
+During the pre-publication review period, the HackMD document is re-shared publicly and people are encouraged to contribute and help improve the drafts.
 
 ## Step 7: Publish on GitHub
 On the day after the end of the pre-publication peer review (a Sunday), the drafted story is to be revised one last time by its authors. Depending on the complexity of the comments received, their integration can be more or less swift. Don't feel like you need to adopt all the comments, or do so too quickly!
-  
-Once you are happy with the polished story, go to the WIP file you created in step 4 and paste the story! By following the steps, you will raise a pull request where you can ask for "reviewers." Add [@Ismael-KG](https://github.com/Ismael-KG) as a reviewer and he will merge your story!
+
+Once you are happy with the polished story, go to the WIP file you created in step 4, click the "edit pencil" at the top-right and paste the story! By following the steps, you will raise a pull request where you can ask for "reviewers." Add [@Ismael-KG](https://github.com/Ismael-KG) as a "reviewer" when creating your edits can be made to the WIP file. You might be asked to make some final changes, but the previous six steps are there to ensure not much (if anything) needs changing! Requests for changes be considered "copy-editing contributions".
 
 ## Step 8: Publish on [tiki-toki](https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/)
-[@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish new stories on the tiki-toki platform, as he has the admin rights. Once this is done, there are just two more steps to follow:
-  1. In the opening comment of the issue, keep the title, date and intro, and replace the rest with the following text:
+[@Ismael-KG](https://github.com/Ismael-KG) can now go ahead and publish your new story on the tiki-toki platform, as he has the admin rights. Once this is done, there are just two more steps to follow:
+  1. In the opening comment of the relevant "Conceptualisation 🖊️" issue, keep the title, date and intro, and replace the rest with the following text:
 > `**This story has been published [on Tiki-Toki](insert the relevant Tiki-Toki link here), but please feel free to reopen this issue and make any suggestions below!**`
 
   2. Change the "Conceptualisation 🖊️" issue's labels to *only* the "Published!" one, and finally close the issue! 🎉
@@ -224,7 +225,9 @@ The quality of stories in _A History of Research Ethics_ will depend on their ac
 * News articles that employ clear references
 * Recorded presentations or conferences
 
-This is not to say that other sources cannot be employed or that these are perfect. Feel free to work with Wikipedia, for example, when looking for ideas. Wikipedia often links to sources that are best drawn on to adhere to the principle of _reliability_.
+This is not to say that other sources cannot be employed or that these are perfect. Feel free to work with _Wikipedia_, for example, when looking for ideas. _Wikipedia_ often links to sources that are best drawn on to adhere to the principle of _Reliability_.
+  
+Finally, _Reliability_ does not amount to the "credibility" of authors one draws on. Plenty of high-quality scholarship is created every day without entering the "canon" (the literature that is seen as an established source of truth within some field). Furthermore, authors who are in the "canon" may have violated ethical principles or even broken the law (just consider what is discussed in _Research Tragedies_!). It is important, then, to _critically_ cite reliable sources.
 </details>
 
 # Protocol 7: Public Engagement
@@ -283,3 +286,17 @@ This means that BCE stories will be ordered backwards, which is something to kee
 
 # Protocol 9: Technical Implementation
 (Protocol Under Construction 🛠️)
+
+# Protocol 10: Editorial Care
+_An Incomplete History of Research Ethics_ is not an academic journal with the usual structures in place, such as editorial staff. Rather, it is about creating content and disseminating it as a community. Some structure is proposed in [Protocol 3](#Protocol-3-Contribution-Types) regarding _ways_ one can contribute, including reviewing, proofreading and copy-editing. The present protocol reinforces the principle of _Duty od Care_ listed in the [code of conduct](#Protocol-1-Code-of-Conduct) to ensure these three contribution types in particular are made to the standards of Lau's _ethics of editorial care_ ([2022](https://medicalhealthhumanities.com/2022/02/07/notes-toward-an-ethics-of-editorial-care/)).
+<details>
+  <summary>Click to expand!</summary>
+  
+Whether it is one's dominion of a certain research field (reviewer), their experience in producing content for _The Timeline_ (copy-editor), or their acute attention to detail (proof-reader), editors stand in a position of power before authors and co-authors because they are able to push back on original content, require more or less substantive changes, and postpone the publication of thoughtful work. The principle of _Duty of Care_ can be adhered to by reviewers, proof-readers and copy-editors following the measures below:
+
+* Reviewers, proof-readers and copy-editors must _clearly_ describe the improvements they expect to see. For proof-readers and copy-editors, this means justifying why they note the errors they do and explaining how the changes they suggest improve the story.
+* Reviewers and copy-editors must not "weaponise rigour" by suggesting that some "canon" authors must be cited. _An Incomplete History of Research Ethics_ was developed to point out less well-known aspects of human history, and citing authors from historically marginalised communities rather is encouraged (see [Protocol 6: Reliable Sources](#Protocol-6-Reliable-Sources).
+* Copy-editors must advocate for adherence to the _Code of Conduct_, where _Honesty_, _Humility_ and _Charitability_ can improve the quality of a story, as authors are encouraged to acknowledge their limitations and engage with the works they cite in good faith.
+* Copy-editors are encouraged – where a draft publication is not to a great standard – to arrange calls with the authors they are reading. The copy-editor can then provide general advice but also check that the authors are happy to receive a lengthy review. The point here is to avoid the dispiriting feeling one might get from having their work "rejected."
+* Copy-editors must not single-handedly block a publication. Blocking publications can only be done in extreme cases where there is a clear breach of the Code of Conduct. In either case, this will require action through the _Resolution_ mechanism in said code.
+</details>
