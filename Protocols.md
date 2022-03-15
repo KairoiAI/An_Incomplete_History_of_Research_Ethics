@@ -288,7 +288,7 @@ This means that BCE stories will be ordered backwards, which is something to kee
 (Protocol Under Construction 🛠️)
 
 # Protocol 10: Editorial Care
-_An Incomplete History of Research Ethics_ is not an academic journal with the usual structures in place, such as editorial staff. Rather, it is about creating content and disseminating it as a community. Some structure is proposed in [Protocol 3](#Protocol-3-Contribution-Types) regarding _ways_ one can contribute, including reviewing, proofreading and copy-editing. The present protocol reinforces the principle of _Duty od Care_ listed in the [code of conduct](#Protocol-1-Code-of-Conduct) to ensure these three contribution types in particular are made to the standards of Lau's _ethics of editorial care_ ([2022](https://medicalhealthhumanities.com/2022/02/07/notes-toward-an-ethics-of-editorial-care/)).
+_An Incomplete History of Research Ethics_ is not an academic journal with the usual structures in place, such as editorial staff. Rather, it is about creating content and disseminating it as a community. Some structure is proposed in [Protocol 3](#Protocol-3-Contribution-Types) regarding ways one can contribute, including reviewing, proofreading and copy-editing stories. The present protocol reinforces the principle of _Duty of Care_ listed in the [Code of Conduct](#Protocol-1-Code-of-Conduct) to ensure these three contribution types in particular are made to the standards of Lau's ([2022](https://medicalhealthhumanities.com/2022/02/07/notes-toward-an-ethics-of-editorial-care/)) _Ethics of Editorial Care_.
 <details>
   <summary>Click to expand!</summary>
   
