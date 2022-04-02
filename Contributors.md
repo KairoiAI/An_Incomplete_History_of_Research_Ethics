@@ -1,4 +1,4 @@
-You may find below all those who have taken a moment to shape what _An Incomplete History of Research Ethics_ looks like today (sorted by first name):
+**You may find below all those who have taken a moment to shape what _An Incomplete History of Research Ethics_ looks like today (sorted by first name):**
 
 | Name | Contribution Type(s) | Pertinent Issue(s) or File(s) | Social Media Links |
 | --- | --- | --- | --- |
