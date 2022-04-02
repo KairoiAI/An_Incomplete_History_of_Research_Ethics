@@ -300,3 +300,19 @@ Whether it is one's dominion of a certain research field (reviewer), their exper
 * Copy-editors are encouraged – where a draft publication is not to a great standard – to arrange calls with the authors they are reading. The copy-editor can then provide general advice but also check that the authors are happy to receive a lengthy review. The point here is to avoid the dispiriting feeling one might get from having their work "rejected."
 * Copy-editors must not single-handedly block a publication. Blocking publications can only be done in extreme cases where there is a clear breach of the Code of Conduct. In either case, this will require action through the _Resolution_ mechanism in said code.
 </details>
+
+# Protocol 11: Networking at the Agora
+Various activities can be set up to ensure continued engagement with An Incomplete History of Research Ethics. The Agora is where such events take place.
+<details>
+  <summary>Click to expand!</summary>
+  
+### Onboarding Sessions
+These can be one-to-one or in small groups, and are delivered by @Ismael-KG on an ad-hoc basis. Those who are new to the project will be invited to attend such a session to:
+* Get to grips with the Code of Conduct
+* Get to grips with how the project uses GitHub
+* Identify suitable contribution types (see [_Protocol 3_](#Protocol-3-Contribution-Types))
+* Learning what you want to gain from the community
+
+### Other activities
+As the community grows and to facilitate networking, the agora can host Randomised Coffees & Teas, book clubs, and Sustainability Chats to workshop ideas for the future of _An Incmplete History of Research Ethics_.
+</details>
