@@ -109,7 +109,7 @@ This is where you can put your most creative self to work. There are at least tw
 * **Top-down idea generation** means thinking big and whittling down. You might be curious about the warring states period in Ancient China, or perhaps evolutionary psychology, or anything! From this broad interest of your own, the goal is then to establish an event that has a clear link to a question for research ethics.
 * **Bottom-up idea generation** is about starting with an event or concept you are aware of, and then studying the broader historical context in which that phenomenon originated. The link between the historical event and topic for research ethics can be established through the process of studying the historical context.
 
-Once you have clarity on the idea or feel you need support to develop it, raise an issue following the "Conceptualisation 🖊️" template and invite discussion by using the "Help Wanted" template.
+Once you have clarity on the idea or feel you need support to develop it, raise an issue following the "Conceptualisation 🖊️" template and invite discussion by using the "Help Wanted" label.
 
 ## Step 2: Compiling Resources
 You are encouraged to employ diverse sources of information when at the idea generation stage. Once an idea becomes clearer, you should draw on sources that adhere to [Protocol 6](#Protocol-6-Reliable-Sources).
