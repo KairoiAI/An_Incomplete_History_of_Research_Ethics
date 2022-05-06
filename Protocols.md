@@ -237,7 +237,7 @@ This protocol briefly introduces (i) the intended audiences of _The Timeline_, (
   <summary>Click to expand!</summary>
 
 ## Intended Audiences
-The potential audience of _A History of Research Ethics_ is formed by:
+The potential audience of _An Incomplete History of Research Ethics_ is formed by:
 * **People who want to learn more about research ethics or the history of science.** For these audiences, who do not need to be experts in any particular field, make sure that titles are short and clear, that the intro line describes the importance of the story, and that the abstract (first paragraph) is clear as to what the event entailed and why it carries "ethical significance."
 * **Research governance folk**, such as legal teams, policy makers, and even human resources departments. This audience requires that the timeline not ignore the important role of legal frameworks and legal literature in shaping modern research ethics. This audience also requires that the very diverse parties who influence the implementation of research governance -- more or less wittingly -- have their voices heard. "Technical accuracy" in describing scientific findings, for this audience, can be seen as less important than actionable guidance.
 * **Researchers**, by which I mean the infinite range between master's students in theology and tenured professors in astrophysics.
