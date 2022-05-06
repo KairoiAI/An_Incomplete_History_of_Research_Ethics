@@ -10,7 +10,7 @@
 Bringing to life past events that inspire a more thoughtful science today.
 
 ## Vision
-Through community-led dialogue, rigorous research, and care for the social impact of science, *An Incomplete History of Research Ethics* provides a compilation of thought-provoking stories from our shared past. Using diverse and engaging formats, we enable varied audiences inside and out of knowledge-production to conduct and critique research as a product of its social context.
+_An Incomplete History of Research Ethics_ provides a compilation of thought-provoking stories from our shared past. The project relies on community-led dialogue and rigorous research. Stories are delivered in short- and long-form, using accessible and fun formats. Through story-telling, we promote reflexivity across the research ecosystem.
 
 ## The Gap
 Evolving initially from medicine to animal research and, more recently, to fields such as computer science and artificial intelligence (AI) research, the history of research ethics can serve to inform research institutions and practitioners. Indeed, it is often employed in training researchers on the ethical dimensions of their work. However, the literature drawn on for such training programmes depicts a history of research ethics that hinges on very select events, mostly from the twentieth century. Such events include the Milgram experiments, the Tuskegee syphilis study and Nazi experimentations, as well as important declarations that followed, such as the Nuremberg Code, the Helsinki Declaration and the Belmont Report.
