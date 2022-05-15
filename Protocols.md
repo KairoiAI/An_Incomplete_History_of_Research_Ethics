@@ -15,8 +15,6 @@ Protocols for _An Incomplete History of Research Ethics_ are on different topics
 
 # Protocol 1: Code of Conduct
 A key purpose of _An Incomplete History of Research Ethics_ is to demonstrate the variety of disciplines and backgrounds that can help gain a richer notion of research ethics. Whilst this "richness" needs spelling out, this is not the place for that. This is the place where we note the pernicious aspects of human nature, which become particularly salient when we encounter voices we are not accustomed to and perspectives that differ from our own in areas we are especially passionate about. The necessity for diversity in a project such as _A History of Research Ethics_ can result in clashes or conflicts. This code will continue to be improved, but it sets out two things: (i) expected behaviours when contributing to the present repository, and (ii) methods for resolution.
-<details>
-  <summary>Click to expand!</summary>
 
 ## Principles for Participation
 Participating in discussions on the present repository means adhering to the following principles, adapted from All European Academies ([2011](https://allea.org/portfolio-item/the-european-code-of-conduct-for-research-integrity-2/)):
@@ -33,11 +31,8 @@ _The Timeline_ is a private endeavour. There are no formal mechanisms for mediat
 1. The priority when handling relationships that have soured will be reconciliation. The key is that all contributors get on together. If, through dialogue, we can set our differences aside and move on in tandem, so it shall be!
 2. When problems have gone too far, we can aim for tolerance; the parties shall need to learn to tolerate that the other is also a part of the project. However, the involved parties will be assigned different tasks to work on, so that encounters are kept to a minimum.
 3. In the unfortunate case that a contributor posts unkind or unhelpful comments that clearly break with the eight principles, they will wither [be blocked](https://docs.github.com/en/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account) or given a warning after a discussion with [Ismael-KG](https://github.com/Ismael-KG), which will only take place if they are deemed redeemable.
-</details>
 
 # Protocol 2: Referencing The Timeline
-<details>
-  <summary>Click to expand!</summary>
 
 _A History of Research Ethics_ is intended to be a useful resource for various audiences, and the best way to reach these audiences is by being shared as much as possible! This protocol is of particular use to ⭐ **Advocates** ⭐, as per [Protocol 7](#Protocol-7-Public-Engagement) This protocol attempts to supplement (and certainly does not override) the [citation](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/ddb6497dcf3c88fff4d19693a711da1f9a6e24f6/CITATION.cff) file and the [licence](https://github.com/Ismael-KG/A-History-of-Research-Ethics/blob/main/LICENCE.md). As the licence is [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), references to _The Timeline_ must be attributed appropriately.
   
@@ -64,12 +59,9 @@ The preferred citation style in bibliographies (as the [citation](https://github
 > Kherroubi Garcia et al. (2021) _A History of Research Ethics_, DOI: [10.5281/zenodo.5731453](https://doi.org/10.5281/zenodo.5731453)
 
 > Kherroubi Garcia et al. (2021) The Principle of Patient Autonomy, In _A History of Research Ethics_, DOI: [10.5281/zenodo.5731453](https://doi.org/10.5281/zenodo.5731453)
-</details>
 
 # Protocol 3: Contribution Types
 This protocol establishes the roles that contributors may fall under. Similar to [CRediT](https://casrai.org/credit/), the point is to acknowledge the different types of effort contributors bring to the wider project. In the case of _The Timeline_, emphasis is on types of contribution rather than categorising contributors. This can help if, in the future, a contributor wants to show evidence (to potential employers, etc.) that they can make a certain type of contribution - that they have a certain skill. The below taxonomy can also be used by potential contributors to be inspired as to how they might support the creation and maintenance of _A History of Research Ethics_.
-<details>
-  <summary>Click to expand!</summary>
 
 It is worth noting that there is a low bar for becoming a contributor to this project. At present, practically taking the time to discuss the project with me (@Ismael-KG) will render you a contributor. I intend that to continue being the case, and to be clear that all contributions are deemed equally valuable.
 
@@ -97,12 +89,9 @@ It would be unfair to create a system where anybody can contribute yet nobody ga
 Similarly, stories will end with an acknowledgements section, listing stories-type contributions and the people behind them.
 
 The principles of _honesty_ and _humility_ are particularly important to recognition, as we must truthfully recognise both the work we conduct, and where we have requested for others' help.
-</details>
 
 # Protocol 4: Lifecycle of a Story
 There are eight ateps to the development of stories for _The Timeline_. Each one can be repeated, and you can always revisit previous steps. You are strongly encouraged to develop stories (i) with the help of others, and (ii) by creating an issue using the "Conceptualisation 🖊️" template. This Protocol is written with potential authors in mind. For more details on reviewing contributions, see [Protocol 10: Editorial Care](#Protocol-10-Editorial-Care).
-<details>
-  <summary>Click to expand!</summary>
 
 ## Step 1: Idea generation
 This is where you can put your most creative self to work. There are at least two approaches to idea generation:
@@ -149,13 +138,9 @@ Once you are happy with the polished story, go to the WIP file you created in st
 > `**This story has been published [on Tiki-Toki](insert the relevant Tiki-Toki link here), but please feel free to reopen this issue and make any suggestions below!**`
 
   2. Change the "Conceptualisation 🖊️" issue's labels to *only* the "Published!" one, and finally close the issue! 🎉
-</details>
 
 # Protocol 5: Style Guide
 This protocol is intended for stories to adhere to some loose rules. By writing stories following the below, they can fit into a more consistent whole.
-
-<details>
-  <summary>Click to expand!</summary>
 
 ## All stories must have
 * A short title
@@ -210,13 +195,9 @@ Given the diverse audiences _The Timeline_ seeks to adapt to, the below guidelin
 * Don't be afraid of trying to be funny. _A History of Research Ethics_ is not a dull academic journal that almost purposefully alienates anybody who isn't in the academics' club already. Humour breaks down barriers between writers and readers.
 * On breaking down barriers, take readers on a journey with you. Learn together and speak in terms of "we." For example: "In this story, _we_ will visit the complexity of conducting research in environments where _we_ don't share the training that _our_ colleagues have" (roughly).
 * The language employed can be informal. Feel free to use contractions, for example, and see Nordqist ([2020](https://www.thoughtco.com/informal-style-prose-1691170)) for more on informal language. But informality must not detract from clarity, or undermine the severity of stories or certain parts of stories. More formal tones can be employed when discussing more technical aspects of stories, either the ethical frameworks that they hint at, or any field-specific knowledge that might need spelling out.
-</details>
 
 # Protocol 6: Reliable Sources
 <img width="538" alt="@EthicsInBricks on Twitter provide an image of a LEGO version of Diogenes saying 'don't believe everything you read online'" src="https://user-images.githubusercontent.com/64027166/143767239-c31e6d14-3b26-4a7c-94ce-83d5270e9c6a.png">
-
-<details>
-  <summary>Click to expand!</summary>
 
 The quality of stories in _A History of Research Ethics_ will depend on their accuracy. Accuracy in recounting historical events - from their dates to their main characters and broader context - requires drawing on reliable sources. Whilst no source is shielded from corruption and history is often written by the vistors, I suggest taking a leap of faith and employing a variety of some of the following sources when backing up claims in stories:
 * Academic journals
@@ -229,12 +210,9 @@ The quality of stories in _A History of Research Ethics_ will depend on their ac
 This is not to say that other sources cannot be employed or that these are perfect. Feel free to work with _Wikipedia_, for example, when looking for ideas. _Wikipedia_ often links to sources that are best drawn on to adhere to the principle of _Reliability_.
   
 Finally, _Reliability_ does not amount to the "credibility" of authors one draws on. Plenty of high-quality scholarship is created every day without entering the "canon" (the literature that is seen as an established source of truth within some field). Furthermore, authors who are in the "canon" may have violated ethical principles or even broken the law (just consider what is discussed in _Research Tragedies_!). It is important, then, to _critically_ cite reliable sources.
-</details>
 
 # Protocol 7: Public Engagement
 This protocol briefly introduces (i) the intended audiences of _The Timeline_, (ii) some platforms to consider for sharing the project and example calls to action, and (iii) what it means to become an ⭐ **Advocate** ⭐.
-<details>
-  <summary>Click to expand!</summary>
 
 ## Intended Audiences
 The potential audience of _An Incomplete History of Research Ethics_ is formed by:
@@ -268,12 +246,9 @@ Raise an issue using the "Communications 🌐" template to share any external re
 Protocol 1's principles of _impartiality_ and _charitability_ are crucial to ensure the reliability of sources.
 * _Impartiality_  amounts to your own background as a contributor. Whilst we all - wittingly or not - align to some ideology or other, we must (i) seek out sources that might surprise us or not conform to our prejudices, but also (ii) critically evaluate sources. For this reason, various sources must be drawn on to corroborate statements and the validity of analyses.
 * _Charitability_ is necessary when engaging with sources where arguments are unclear to our minds. We must be open to engaging with these in good faith, and begin by giving them the benefit of the doubt. In other words, work from the assumption that sources are clear and rational. Then, provide charitable interpretations. These can then be critically evaluated and refuted on clearer grounds.
-</details>
 
 # Protocol 8: Naming Conventions
-Although GitHub is not ideally used to navigate something like _The Timeline_, it is helpful to keep files ordered in a coherent manner to faciltate the repository's maintenance. 
-<details>
-  <summary>Click to expand!</summary>
+Although GitHub is not ideally used to navigate something like _The Timeline_, it is helpful to keep files ordered in a coherent manner to faciltate the repository's maintenance.
 
 To do so, [Works_In_Progress](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Works_In_Progress) and published [Stories](https://github.com/Ismael-KG/A-History-of-Research-Ethics/tree/main/Stories) must be named as follows:
 >[BCE or CE] YYYY [Story Title]
@@ -283,15 +258,12 @@ For example:
 <img width="281" alt="image" src="https://user-images.githubusercontent.com/64027166/146543563-9517b399-6100-48d9-8885-4792de06c70c.png">
 
 This means that BCE stories will be ordered backwards, which is something to keep in mind when browsing the present repository.
-</details>
 
 # Protocol 9: Technical Implementation
 (Protocol Under Construction 🛠️)
 
 # Protocol 10: Editorial Care
 _An Incomplete History of Research Ethics_ is not an academic journal with the usual structures in place, such as editorial staff. Rather, it is about creating content and disseminating it as a community. Some structure is proposed in [Protocol 3](#Protocol-3-Contribution-Types) regarding ways one can contribute, including reviewing, proofreading and copy-editing stories. The present protocol reinforces the principle of _Duty of Care_ listed in the [Code of Conduct](#Protocol-1-Code-of-Conduct) to ensure these three contribution types in particular are made to the standards of Lau's ([2022](https://medicalhealthhumanities.com/2022/02/07/notes-toward-an-ethics-of-editorial-care/)) _Ethics of Editorial Care_.
-<details>
-  <summary>Click to expand!</summary>
   
 Whether it is one's dominion of a certain research field (reviewer), their experience in producing content for _The Timeline_ (copy-editor), or their acute attention to detail (proof-reader), editors stand in a position of power before authors and co-authors because they are able to push back on original content, require more or less substantive changes, and postpone the publication of thoughtful work. The principle of _Duty of Care_ can be adhered to by reviewers, proof-readers and copy-editors following the measures below:
 
@@ -300,12 +272,9 @@ Whether it is one's dominion of a certain research field (reviewer), their exper
 * Copy-editors must advocate for adherence to the _Code of Conduct_, where _Honesty_, _Humility_ and _Charitability_ can improve the quality of a story, as authors are encouraged to acknowledge their limitations and engage with the works they cite in good faith.
 * Copy-editors are encouraged – where a draft publication is not to a great standard – to arrange calls with the authors they are reading. The copy-editor can then provide general advice but also check that the authors are happy to receive a lengthy review. The point here is to avoid the dispiriting feeling one might get from having their work "rejected."
 * Copy-editors must not single-handedly block a publication. Blocking publications can only be done in extreme cases where there is a clear breach of the Code of Conduct. In either case, this will require action through the _Resolution_ mechanism in said code.
-</details>
 
 # Protocol 11: Networking at the Agora
 Various activities can be set up to ensure continued engagement with An Incomplete History of Research Ethics. The Agora is where such events take place.
-<details>
-  <summary>Click to expand!</summary>
   
 ### Onboarding Sessions
 These can be one-to-one or in small groups, and are delivered by @Ismael-KG on an ad-hoc basis. Those who are new to the project will be invited to attend such a session to:
@@ -316,4 +285,3 @@ These can be one-to-one or in small groups, and are delivered by @Ismael-KG on a
 
 ### Other activities
 As the community grows and to facilitate networking, the agora can host Randomised Coffees & Teas, book clubs, and Sustainability Chats to workshop ideas for the future of _An Incmplete History of Research Ethics_.
-</details>
