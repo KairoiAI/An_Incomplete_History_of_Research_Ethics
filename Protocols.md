@@ -92,19 +92,6 @@ To acknowledge contributors in one place, contributors are also listed in [Contr
 
 The principles of _honesty_ and _humility_ are particularly important to recognition, as we must truthfully recognise both the work we conduct, and where we have requested for others' help.
 
-## Badges
-Contributors are encouraged to celebrate that they have contributed to the project by weairing a badge on their GitHub profile! The badge appears as follows:
-
-[![Contributing An Incomplete History of Research Ethics](https://img.shields.io/badge/Contributing-An%20Incomplete%20History%20of%20Research%20Ethics-red)](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics)
-
-To add the badge to your GitHub profile
-1. Go to github.com/[your user name]/[your user name] (For example, @Ismael-KG would go to github.com/ismael-kg/ismael-kg
-2. Click on "Edit README"
-3. Add the following:
-`[![Contributing An Incomplete History of Research Ethics](https://img.shields.io/badge/Contributing-An%20Incomplete%20History%20of%20Research%20Ethics-red)](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics)`
-
-And there you are!
-
 # Protocol 4: Lifecycle of a Story
 There are eight ateps to the development of stories for _The Timeline_. Each one can be repeated, and you can always revisit previous steps. You are strongly encouraged to develop stories (i) with the help of others, and (ii) by creating an issue using the "Conceptualisation 🖊️" template. This Protocol is written with potential authors in mind. For more details on reviewing contributions, see [Protocol 10: Editorial Care](#Protocol-10-Editorial-Care).
 
@@ -260,6 +247,18 @@ Raise an issue using the "Communications 🌐" template to share any external re
 Protocol 1's principles of _impartiality_ and _charitability_ are crucial to ensure the reliability of sources.
 * _Impartiality_  amounts to your own background as a contributor. Whilst we all - wittingly or not - align to some ideology or other, we must (i) seek out sources that might surprise us or not conform to our prejudices, but also (ii) critically evaluate sources. For this reason, various sources must be drawn on to corroborate statements and the validity of analyses.
 * _Charitability_ is necessary when engaging with sources where arguments are unclear to our minds. We must be open to engaging with these in good faith, and begin by giving them the benefit of the doubt. In other words, work from the assumption that sources are clear and rational. Then, provide charitable interpretations. These can then be critically evaluated and refuted on clearer grounds.
+
+## Badges
+Contributors are encouraged to celebrate that they have contributed to the project by weairing a badge on their GitHub profile! The badge appears as follows:
+
+[![Contributing An Incomplete History of Research Ethics](https://img.shields.io/badge/Contributing-An%20Incomplete%20History%20of%20Research%20Ethics-red)](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics)
+
+To add the badge to your GitHub profile
+1. Go to `github.com/[your user name]/[your user name]` (For example, @Ismael-KG would go to `github.com/ismael-kg/ismael-kg`
+2. Click on "Edit README"
+3. Add the following:
+`[![Contributing An Incomplete History of Research Ethics](https://img.shields.io/badge/Contributing-An%20Incomplete%20History%20of%20Research%20Ethics-red)](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics)`
+4. Click "commit" towards the bottom of the screen to confirm the change. You can then visit `github.com/[your user name]` to see how the badge fits!
 
 # Protocol 8: Naming Conventions
 Although GitHub is not ideally used to navigate something like _The Timeline_, it is helpful to keep files ordered in a coherent manner to faciltate the repository's maintenance.
