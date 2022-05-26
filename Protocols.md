@@ -88,7 +88,22 @@ It would be unfair to create a system where anybody can contribute yet nobody ga
 
 Similarly, stories will end with an acknowledgements section, listing stories-type contributions and the people behind them.
 
+To acknowledge contributors in one place, contributors are also listed in [Contributors.md](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Contributors.md) alongside a link to what they helped develop.
+
 The principles of _honesty_ and _humility_ are particularly important to recognition, as we must truthfully recognise both the work we conduct, and where we have requested for others' help.
+
+## Badges
+Contributors are encouraged to celebrate that they have contributed to the project by weairing a badge on their GitHub profile! The badge appears as follows:
+
+[![Contributing An Incomplete History of Research Ethics](https://img.shields.io/badge/Contributing-An%20Incomplete%20History%20of%20Research%20Ethics-red)](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics)
+
+To add the badge to your GitHub profile
+1. Go to github.com/[your user name]/[your user name] (For example, @Ismael-KG would go to github.com/ismael-kg/ismael-kg
+2. Click on "Edit README"
+3. Add the following:
+`[![Contributing An Incomplete History of Research Ethics](https://img.shields.io/badge/Contributing-An%20Incomplete%20History%20of%20Research%20Ethics-red)](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics)`
+
+And there you are!
 
 # Protocol 4: Lifecycle of a Story
 There are eight ateps to the development of stories for _The Timeline_. Each one can be repeated, and you can always revisit previous steps. You are strongly encouraged to develop stories (i) with the help of others, and (ii) by creating an issue using the "Conceptualisation 🖊️" template. This Protocol is written with potential authors in mind. For more details on reviewing contributions, see [Protocol 10: Editorial Care](#Protocol-10-Editorial-Care).
@@ -236,8 +251,7 @@ Example calls to action:
 
 > See what stories can gain from your review on [HackMD](https://hackmd.io/VW6SvaOYTemXnOd4SMcC4Q?both)!
 
-> Join the conversation by tweeting #AHistoryOfResearchEthics https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/
-
+> Join the conversation by tweeting #AnIncompleteHistoryOfResearchEthics https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/
 ## Advocacy
 In cases where very kind and supportive people share the joys of _The Timeline_, they must, of course, be celebrated! 🎉
 
