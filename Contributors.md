@@ -3,7 +3,7 @@
 | Name | Contribution Type(s) | Pertinent Issue(s) or File(s) | Social Media Links |
 | --- | --- | --- | --- |
 | **Alejandro Deltell** | Policy-making ℹ️ | [Protocol 11: Networking at the Agora](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Protocols.md#Protocol-11-Networking-at-the-Agora) (see issue [#142](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/issues/142)) | [@alejandro-deltell](https://github.com/alejandro-deltell) |
-| **Alessandra Candian** | Policy-making ℹ️ | [OLS-5]([https://github.com/AleCandian](https://github.com/open-life-science/ols-5/issues/3)) | Twitter: [@donnainfiorino](https://twitter.com/donnainfiorino) |
+| **Alessandra Candian** | Policy-making ℹ️ | [OLS-5](https://github.com/open-life-science/ols-5/issues/3) | Twitter: [@donnainfiorino](https://twitter.com/donnainfiorino) |
 | **Arundhati Shanbhag** | Policy-making ℹ️ | [Protocol 11: Networking at the Agora](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Protocols.md#Protocol-11-Networking-at-the-Agora) (see issue [#142](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/issues/142)) | [@arus23](https://github.com/arus23) |
 | **Celine Kerfant** | Policy-making ℹ️ | [OLS-5](https://github.com/open-life-science/ols-5/issues/3) | [@Cel31](https://github.com/Cel31) |
 | **Chris Burr** | Conceptualisation 🖋️ | Suggested a [coined terms](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/issues/3) story on "organised irresponsibility" | Twitter: [@Chrisdburr](https://twitter.com/chrisdburr) |
