@@ -13,7 +13,10 @@ So here we are! The latest big changes have been:
 * Creating a site that is less visually pleasing but more accessible than Tiki-Toki (this is entirely thanks to @yochannah's generous work)
 
 I continue to make tweaks to this repo and creating content for the many stories relevant to research ethics.
+
 ## Would you like to help?
+[![Contributing An Incomplete History of Research Ethics](https://img.shields.io/badge/Contributing-An%20Incomplete%20History%20of%20Research%20Ethics-red)](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics)
+
 I would love help from philosophers, historians, lawyers, business professionals, butchers, bakers and candlestick makers! Github will help trace who made what edits and when.
 
 [Protocol 3](https://github.com/Ismael-KG/An_Incomplete_History_of_Research_Ethics/blob/main/Protocols.md#Protocol-3-Contribution-Types) will hopefully help you understand different ways to contribute.
