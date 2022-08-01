@@ -23,5 +23,5 @@ read-more: link to the story's pertinent document/article/book, if there is one;
 intro: text
 ---
 ### The Story
-<!-- Paste the story into this line! Remember the old adage: a line is a paragraph, and a blank line must be placed between paragraphs. -->
+<!-- Paste the story into this line! Remember the old saying: a line is a paragraph, and a blank line must be placed between paragraphs. -->
 ```
