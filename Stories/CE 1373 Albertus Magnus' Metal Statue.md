@@ -3,7 +3,7 @@ layout: story
 title: "Albertus Magnus' Metal Statue"
 story-status:
   wip: true
-  issue:146
+  issue: 146
 historical-date:
   title: "Albertus Magnus' Metal Statue"
   bce: false
